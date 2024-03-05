@@ -1,0 +1,3 @@
+# All Things Linux 
+
+Welcome to "All Things Linux," a vibrant and inclusive community dedicated to exploring the vast and varied world of Linux. Our mission is to provide a friendly and supportive environment where enthusiasts, professionals, hobbyists, and newcomers alike can share their passion, knowledge, and experiences with Linux. Whether it's discussing the newest distributions, offering tips and tricks, troubleshooting, or celebrating the open-source spirit, "All Things Linux" is a place for collaboration, learning, and fostering a deeper appreciation for an operating system that powers much of the digital world. Join us as we navigate the limitless possibilities of Linux together!
