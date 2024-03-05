@@ -20,7 +20,7 @@ Your presence in this server implies accepting Discord’s Community Guidelines 
   <tr>
    <td><a href="https://discord.com/guidelines">Discord Community Guidelines</a>
    </td>
-   <td><a href="https://discord.com/terms">Discord's Terms of Service</a>
+   <td><a href="https://discord.com/terms">Discord Terms of Service</a>
    </td>
   </tr>
 </table>
@@ -29,11 +29,11 @@ Your presence in this server implies accepting Discord’s Community Guidelines 
 
 ### 1.1. SFW Policy
 
-This is a Safe for Work (SFW) environment. Not Safe for Work (NSFW) content and conversation is not allowed. Not Safe for Work (NSFW) content generally refers to sexually explicit content. However, with time, more things are getting labeled as NSFW due to the sensitivity of these topics. While Discord does provide the ability for servers to define NSFW dedicated channels,  does not provide such channels.
+This is a Safe for Work (SFW) environment, which strictly prohibits Not Safe for Work (NSFW) content and discussions. NSFW usually refers to sexually explicit content, but the definition is expanding to include a broader range of sensitive topics over time. Although Discord allows servers to create designated NSFW channels, it's worth noting that this platform does not offer such channels.
 
 1.1.a - Do not share sexually explicit content in messages or media.
 
-1.1.b - Do not post or hold sexually explicit content in user avatars, custom statuses, “About Me” texts, server banners, server icons, invite splashes, emoji, or stickers.
+1.1.b - Do not portray sexually explicit content in Member avatars, custom statuses, “About Me” texts, banners, emotes, stickers or any other Member profile feature/expression.
 
 1.1.c - Do not share media depicting gore, excessive violence, or animal abuse.
 
@@ -41,7 +41,7 @@ This is a Safe for Work (SFW) environment. Not Safe for Work (NSFW) content and 
 
 Examples of moderation expectations:
 
-Mild: First offenses will get users brought into tickets and warned
+Mild: First offenses will get Members brought into tickets and warned
 
 Medium: Warns, tickets, and timeouts ranging from 1hr-12hours
 
@@ -49,76 +49,77 @@ Severe: Bans are to be expected at this stage
 
 ### 1.2. Concerns of Age
 
-Discord’s minimum age for using their platform is 13. Assume everyone is of this age. Do not assume anyone’s age to be 18 or above by default. Do not use the server as a dating site or communicate using sexually charged undertones and language.
+Discord's age limit for usage is 13 years. Therefore, we should presume that all users here are of this minimum age. Do not automatically assume that any user is 18 or older. Furthermore, this server should not be used as a dating platform, nor should any communication involve sexually suggestive language or undertones.
 
-### 1.3. Respect Each Other
+### 1.3. Mutual Respect
 
-Respecting each other is by far our most important rule for this server.
+Our server prioritizes respect for each other above all else.
 
-Do not promote, coordinate, or engage in harassment. Discord is a platform where everyone can find a place to belong, and harassment prevents users from building healthy communities. We do not allow harassing behavior such as sustained bullying, doxxing, or raiding.
+Harassment of any form is strictly prohibited. Discord is designed to be a welcoming space for everyone, and harassment hinders the growth of healthy communities. Behavior, such as continuous bullying, doxxing, or raiding is not permitted.
 
-Do not use hate speech or engage in other hateful conduct. We consider hate speech to be any form of expression that either attacks other people or promotes hatred or violence against them based on their protected characteristics.
+Hate speech or any form of discriminatory conduct is not accepted here. Hate speech is defined as any expression that instigates violence or promotes prejudice against others based on their unique characteristics.
 
-We consider the following to be protected characteristics: age; caste; color; disability; ethnicity; family responsibilities; gender; gender identity; housing status; national origin; race; refugee or immigration status; religious affiliation; serious illness; sex; sexual orientation; socioeconomic class and status; source of income; status as a victim of domestic violence, sexual violence, or stalking; and weight and size.
+These unique characteristics include age, caste, color, disability, ethnicity, familial responsibilities, gender, gender identity, housing status, national origin, race, refugee or immigration status, religious affiliation, serious illness, sex, sexual orientation, socioeconomic class and status, income source, status as a victim of domestic violence, sexual violence, or stalking, and weight and size.
 
-Do not threaten to harm another individual or group of people. This includes direct, indirect, and suggestive threats.
+Threats, whether direct, indirect, or implied, towards an individual or a group, are not tolerated.
 
-Do not organize, promote, or support violent extremism. This also includes glorifying violent events or the perpetrators of violent acts, as well as promoting conspiracy theories that could encourage or incite violence against others.
+Promoting or supporting violent extremism is also forbidden. Glorifying violent incidents, supporting those who perpetrate violent acts, or promoting conspiracy theories that may incite violence towards others, are all prohibited.
 
 Examples of moderation expectations:
 
-Mild: Pulling users into tickets and requesting that
+Mild: Pulling Members into tickets and requesting that
 
 Medium: Reprimand within tickets and timeouts ranging from 1hr-12hr
 
-Severe:Severe or repeated offenses may result in bans.
+Severe: Severe or repeated offenses may result in bans.
 
-### 1.4. Freedom of Speech, Controversial Discussion & Debates
+### 1.4. Expression, Discourse and Debates
 
-Members are free to express themselves openly and give constructive criticism and feedback. We encourage free expression for all and embrace all of our differences, opinions, and diverse backgrounds.
+Members are free to express themselves and offer constructive criticism and input. We celebrate and encourage our diverse perspectives, backgrounds, and opinions.
 
-While the Community promotes free expression, Members are encouraged to be cautious with sensitive topics and to engage constructively without promoting hatred, violence or other aggressive views.
+However, this community upholds a model of responsible communication. While we lean into the courage of discussions, we urge members to refrain from initiating sensitive topics that might trigger conflict or perpetuate hatred, violence, or dominant ideologies.
 
-If a discussion becomes overly heated and disruptive or “toxic”, the conversation may be stopped or suggested to finish via Moderator discretion.
+Based on feedback from a community poll, we've decided to limit discussions on controversial topics. We believe this step will foster a more serene and inclusive environment for everyone. See here for more information: [Controversial Topics Poll](https://canary.discord.com/channels/1172245377395728464/1172343581495795752/1176257288982503474)
 
-_Examples of moderation expectations:_
+However, bear in mind that if any conversation becomes overly heated, disruptive, or toxic, moderators have the discretion to intervene, redirect the conversation, or advise its conclusion. Our aim is not to suppress free speech but to promote open, respectful, and harmonious conversations among all members.
 
-Mild: Asking users to wrap up or end conversations
+Examples of moderation expectations:
+
+Mild: Asking Members to wrap up or end conversations
 
 Medium: Forcing conversations to end.
 
-Severe: If a user has repetitively offended they may receive timeouts and talked to in tickets within the matter of 5m to 2 hours.
+Severe: If a Member has repetitively offended they may receive timeouts and talked to in tickets within the matter of 5m to 2 hours.
 
-### 1.5. Elitism
+### 1.5. Avoidance of Elitism
 
-Members should refrain from insulting or belittling others based on what they use such as operating systems, desktop environments, and more; the same applies to all other interests a member might have outside of the primary topics of the server. While banter and “warring” is often a part of online communities, intentional and obnoxious elitism is not welcomed.
+Members should avoid disparaging others on the basis of their choices, be it their choice of operating system, desktop environment or other interests outside the main topics of the server. While friendly rivalry and banter can be elements of online communities, we don't welcome deliberate and obnoxious elitism. Respect for each other's preferences and diversity is a cardinal rule in our server.
 
-_Examples of moderation expectation:_
+Examples of moderation expectation:
 
-Mild: Occasional or every now and then is usually something that doesnt require active moderation
+Mild: Occasional or every now and then is usually something that doesn't require active moderation
 
-Medium: if a user is repetitively being rude or just isnt being healthyabout it, moderators may ask them to chill
+Medium: If a Member is repetitively being rude or just isn't being healthy about it, Moderators may ask them to stop.
 
-Severe: If it becomes a problem, Moderators may pull members into tickets and respond accordingly based on their willingness to cooperate
+Severe: If it becomes a problem, Moderators may pull Members into tickets and respond accordingly based on their willingness to cooperate.
 
 ### 1.6 Respecting Authority & Rules
 
-* If a Moderator asks you to stop your behavior, listen to them. If you think something is in error, you can create a support ticket but please do not create more drama by dragging out Moderator actions publicly.
-* Please refrain from back-seat moderating. Report rule breaking via ticket and let a Moderator resolve the situation.
+Should a Moderator request you to modify your behavior, please be cooperative. In case of disagreements or errors with said moderation, we encourage you to submit a support ticket instead of publicly escalating the situation. Any rule violation should be reported via ticket, leaving the resolution to an authorized Moderator. While we discourage backseat moderating, we hope that members will help us maintain a healthy environment by guiding others if they are unaware of the rules or suggesting that certain behavior is inappropriate.
 
 ## Section 2. Participation
 
 ### 2.1. Language Requirement: English Only
 
-The language used in this server is English. Please use English in text, voice and support channels.
+The language used in this server is English only. Please use English in text, voice and support channels.
 
 Examples of moderation expectations:
 
-Mild: Users will be kindly asked in the chat they are spreading non-english messages to keep it to english
+Mild: Members will be kindly asked in the chat they are spreading non-english messages to keep it to english
 
-Medium: Repeated offenses may result in users being pulled into tickets
+Medium: Repeated offenses may result in Members being pulled into tickets
 
-Severe: If a user is unwilling to comply, Moderators may act as they see fit.
+Severe: If a Member is unwilling to comply, Moderators may act as they see fit.
 
 ### 2.2. Text Channels
 
@@ -126,20 +127,20 @@ Severe: If a user is unwilling to comply, Moderators may act as they see fit.
 
 ### 2.3. Voice Channels
 
-* All rules apply when communicating via voice channels if applicable.
+* All text rules apply when communicating via voice channels if applicable.
 * Please maintain a quiet background by muting when away or speaking with others.
 * Refrain from disrupting conversation such as yelling and obnoxious behavior.
 * No music should be played through self inputs.
-* No livestreaming any content that breaks any server/text based rules.
+* No live streaming any content that breaks any server/text based rules.
 * Allow ongoing conversations to conclude before interjecting.
 
 Examples of moderation expectations:
 
-Mild: Users may be asked by moderators to adhere to guidelines
+Mild: Members may be asked by Moderators to adhere to guidelines
 
-Medium: Users may be brought into tickets and talk with moderators about actions
+Medium: Members may be brought into tickets and talk with Moderators about actions
 
-Severe: Users with severe infractions may be handled at Moderator discretion
+Severe: Members with severe infractions may be handled at Moderator discretion
 
 ### 2.4. Bot Usage
 
@@ -148,11 +149,11 @@ Severe: Users with severe infractions may be handled at Moderator discretion
 
 Examples of moderation expectations:
 
-Mild: Users may be asked by moderators to adhere to guidelines
+Mild: Members may be asked by Moderators to adhere to guidelines
 
-Medium: Users may be brought into tickets and talk with moderators about actions
+Medium: Members may be brought into tickets and talk with Moderators about actions
 
-Severe: Users with severe infractions may be recieve mutes from 10 minutes to 3
+Severe: Members with severe infractions may be receive mutes from 10 minutes to 3
 
 ### 2.5. “On” and “Off” topic
 
@@ -194,7 +195,7 @@ It is of your own risk and discretion when sharing personal information to other
 
 ### 3.1. Reporting
 
-Moderators are here to help. If there is a problem that needs Moderator attention, please create a ticket. Any and all problems are discussed as a group among Moderators. Remember nothing can be reported without concrete proof. Reporting because of rumors or hearsay is not acceptable proof. Please provide context, and searchable/linkable information as well as identifying information such as user IDs.
+Moderators are here to help. If there is a problem that needs Moderator attention, please create a ticket. Any and all problems are discussed as a group among Moderators. Remember nothing can be reported without concrete proof. Reporting because of rumors or hearsay is not acceptable proof. Please provide context, and searchable/linkable information as well as identifying information such as Member IDs.
 
 ### 3.2. Consistency
 
@@ -214,7 +215,7 @@ Enforcement of these rules may be done through different means. Listed below are
 
 #### Case by Case
 
-WIth Case by Case moderation, punishment is more subjective and dependent on the nature and frequency of transgressions. While this system gives Moderators a large amount of flexibility, accountability can be difficult due to the lack of standards and certain Moderators may punish users differently. Because of this, all Moderator actions are free to audit and review and may require further agreement from the Moderation team.
+WIth Case by Case moderation, punishment is more subjective and dependent on the nature and frequency of transgressions. While this system gives Moderators a large amount of flexibility, accountability can be difficult due to the lack of standards and certain Moderators may punish Members differently. Because of this, all Moderator actions are free to audit and review and may require further agreement from the Moderation team.
 
 #### Automod
 
@@ -226,7 +227,8 @@ Basic auto moderation will exist in this server to prevent universally severe an
 
 ### 3.5. Punishment
 
-If a Member is found breaking any of these rules, Moderators reserve the right to give any of the following punishments depending on the severity of the offense:
+If a Member is found breaking any of these rules, 
+Moderators reserve the right to give any of the following punishments depending on the severity of the offense:
 
 * Warnings
   * Warnings act as a permanent history for Members and their behavior. Warnings should be descriptive and provide context or reason.
@@ -274,7 +276,7 @@ Please understand that not every single rule can be listed here and that every s
 
 Do not try to take advantage of 'loopholes' in the rules.
 
-These guidelines will continue to evolve over time. This means we may take action against a user or content that violates the spirit of these guidelines when we encounter a new threat or harm that is not explicitly covered in the current version.
+These guidelines will continue to evolve over time. This means we may take action against a Member or content that violates the spirit of these guidelines when we encounter a new threat or harm that is not explicitly covered in the current version.
 
 We will always make our best effort to notify you when we update these guidelines, but it is up to you to follow the spirit of them: keep Discord safe and a place for everyone to belong. Thanks for doing your part.
 
