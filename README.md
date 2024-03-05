@@ -1,5 +1,7 @@
-| ![Discord Banner 1](https://i.imgur.com/6kxPNlG.png)  | ![Discord Banner 2](https://discordapp.com/api/guilds/1172245377395728464/widget.png?style=banner3)  |
-|:---:|:---:|
+![Discord Banner 1](https://i.imgur.com/6kxPNlG.png)
+![Discord Banner 2](https://dcbadge.vercel.app/api/server/linux?style=flat&theme=clean)
+![Discord Shield](https://discordapp.com/api/guilds/1172245377395728464/widget.png?style=shield)
+
 
 # All Things Linux
 
