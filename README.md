@@ -275,12 +275,10 @@ TODO: Define an appeal process
 
 ## Notice
 
-Please understand that not every single rule can be listed here and that every situation requires context. Make sure to read every channel’s pinned messages for additional information and rules for that specific channel. Additionally, make sure to stay up to date with server announcements and polls for any changes to these rules.
+Please note that this article cannot capture all rules and that each situation needs to be assessed individually. Attempting to exploit any "loopholes" within these guidelines is strictly forbidden.
 
-Do not try to take advantage of 'loopholes' in the rules.
+These guidelines are ever-evolving, responding to varied circumstances. Hence, we might take necessary action against members or content that contradicts the core intent of these rules, even if it is not directly mentioned in the current version.
 
-These guidelines will continue to evolve over time. This means we may take action against a Member or content that violates the spirit of these guidelines when we encounter a new threat or harm that is not explicitly covered in the current version.
+We aim to keep you updated whenever these guidelines get revised. However, the responsibility lies with you to upkeep the essence of these rules: to maintain the safety of Discord and uphold its inclusivity.  Moreover, stay informed about server announcements and polls which might induce changes to the rules. We appreciate your contribution in this regard.
 
-We will always make our best effort to notify you when we update these guidelines, but it is up to you to follow the spirit of them: keep Discord safe and a place for everyone to belong. Thanks for doing your part.
-
-Most importantly: Use common sense and good judgment.
+Above all, exercise good judgment and common sense.
