@@ -1,4 +1,5 @@
-![Discord Banner 2](https://discordapp.com/api/guilds/1172245377395728464/widget.png?style=banner2)
+| ![Discord Banner 1](https://i.imgur.com/6kxPNlG.png)  | ![Discord Banner 2](https://discordapp.com/api/guilds/1172245377395728464/widget.png?style=banner3)  |
+|:---:|:---:|
 
 # All Things Linux
 
