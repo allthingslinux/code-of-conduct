@@ -1,4 +1,4 @@
-TODO: Fix markdown from export
+![Discord Banner 2](https://discordapp.com/api/guilds/1172245377395728464/widget.png?style=banner2)
 
 # All Things Linux
 
