@@ -11,7 +11,7 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
 
 ---
 
-# Constitution
+# Code of Conduct
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -84,12 +84,13 @@ This is a Safe for Work (SFW) environment, which strictly prohibits Not Safe for
 
 1.1.d - Do not share content that glorifies, promotes, or normalizes suicide or other acts of self-harm. Self-harm acts or threats used as a form of emotional manipulation or coercion are also prohibited.
 
+Examples of moderation expectations:
+
 | Expectation          | Description                                               |
 |----------------------|-----------------------------------------------------------|
 | **Mild**             | First offenses will result in Members being brought into tickets and warned. |
 | **Medium**           | Warns, tickets, and timeouts ranging from 1hr-12 hours.  |
 | **Severe**           | Bans are to be expected at this stage.                    |
-
 
 ### 1.2. Concerns of Age
 
@@ -109,12 +110,13 @@ Threats, whether direct, indirect, or implied, towards an individual or a group,
 
 Promoting or supporting violent extremism is also forbidden. Glorifying violent incidents, supporting those who perpetrate violent acts, or promoting conspiracy theories that may incite violence towards others, are all prohibited.
 
+Examples of moderation expectations:
+
 | Expectation          | Description                                                  |
 |----------------------|--------------------------------------------------------------|
 | **Mild**             | Pulling Members into tickets and requesting that            |
 | **Medium**           | Reprimand within tickets and timeouts ranging from 1hr-12hr |
 | **Severe**           | Severe or repeated offenses may result in bans.             |
-
 
 ### 1.4. Expression, Discourse and Debates
 
@@ -126,23 +128,25 @@ Based on feedback from a community poll, we've decided to limit discussions on c
 
 However, bear in mind that if any conversation is overly overly repetitive, heated, disruptive, toxic, or indecent, moderators have the discretion to, intervene, redirect, advise, or hault the conversation. These terms are not limited to a specific conversation but the mentioning of said topic. Our aim is not to suppress free speech but to keep an appropriate chatroom while promoting open, respectful, and harmonious conversations among all members.
 
+Examples of moderation expectations:
+
 | Expectation          | Description                                                                               |
 |----------------------|-------------------------------------------------------------------------------------------|
 | **Mild**             | Asking Members to wrap up or end conversations.                                            |
 | **Medium**           | Forcing conversations to end.                                                             |
 | **Severe**           | Members with repetitive offenses may receive timeouts and be addressed in tickets within 5m to 2 hours. |
 
-
 ### 1.5. Avoidance of Elitism
 
 Members should avoid disparaging others on the basis of their choices, be it their choice of operating system, desktop environment or other interests outside the main topics of the server. While friendly rivalry and banter can be elements of online communities, we don't welcome deliberate and obnoxious elitism. Respect for each other's preferences and diversity is a cardinal rule in our server.
+
+Examples of moderation expectations:
 
 | Expectation          | Description                                                                               |
 |----------------------|-------------------------------------------------------------------------------------------|
 | **Mild**             | Occasional or every now and then behavior usually doesn't require active moderation.      |
 | **Medium**           | If a Member is repetitively being rude or unhealthy in their behavior, Moderators may ask them to stop. |
 | **Severe**           | If the behavior becomes a significant problem, Moderators may pull Members into tickets and respond accordingly based on their willingness to cooperate. |
-
 
 ### 1.6 Respecting Authority & Rules
 
@@ -156,11 +160,11 @@ The language used in this server is English only. Please use English in text, vo
 
 Examples of moderation expectations:
 
-Mild: Members will be kindly asked in the chat they are spreading non-english messages to keep it to english
-
-Medium: Repeated offenses may result in Members being pulled into tickets
-
-Severe: If a Member is unwilling to comply, Moderators may act as they see fit.
+| Expectation          | Description                                                                           |
+|----------------------|---------------------------------------------------------------------------------------|
+| **Mild**             | Members will be kindly asked in the chat they are spreading non-english messages to keep it to english                                  |
+| **Medium**           | Repeated offenses may result in Members being pulled into tickets     |
+| **Severe**           | If a Member is unwilling to comply, Moderators may act as they see fit.   |
 
 ### 2.2. Text Channels
 
@@ -175,24 +179,26 @@ Severe: If a Member is unwilling to comply, Moderators may act as they see fit.
 * No live streaming any content that breaks any server/text based rules.
 * Allow ongoing conversations to conclude before interjecting.
 
+Examples of moderation expectations:
+
 | Expectation          | Description                                                                           |
 |----------------------|---------------------------------------------------------------------------------------|
 | **Mild**             | Moderators may ask members to adhere to guidelines.                                    |
 | **Medium**           | Members may be brought into tickets to talk with Moderators about their actions.       |
 | **Severe**           | Members with severe infractions may be handled at the discretion of Moderators.        |
 
-
 ### 2.4. Bot Usage
 
 * Bot commands should be used in the bot commands channel.
 * If a Member is found spamming, misusing or abusing any Bot related features in the server, please report this via ticket.
+
+Examples of moderation expectations:
 
 | Expectation          | Description                                                                                   |
 |----------------------|-----------------------------------------------------------------------------------------------|
 | **Mild**             | Members may be asked by Moderators to adhere to guidelines.                                    |
 | **Medium**           | Members may be brought into tickets to talk with Moderators about their actions.               |
 | **Severe**           | Members with severe infractions may receive mutes ranging from 10 minutes to 3 hours.          |
-
 
 ### 2.5. “On” and “Off” topic
 
