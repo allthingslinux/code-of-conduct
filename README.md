@@ -13,7 +13,8 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
 
 # Constitution
 
-[TOC]
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 ## Preface
 
