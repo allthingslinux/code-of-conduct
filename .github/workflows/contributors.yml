@@ -1,22 +1,40 @@
 name: Add contributors
-on:
+'on':
   workflow_run:
-    workflows: ["TOC Generator"]
+    workflows:
+      - TOC Generator
     types:
       - completed
-
 jobs:
   add-contributors:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: BobAnkh/add-contributors@master
-      with:
-        CONTRIBUTOR: '### Contributors'
-        COLUMN_PER_ROW: '6'
-        ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
-        IMG_WIDTH: '100'
-        FONT_SIZE: '14'
-        PATH: '/README.md'
-        COMMIT_MESSAGE: 'docs(README): update contributors'
-        AVATAR_SHAPE: 'round'
+      - uses: actions/checkout@v2
+      - uses: BobAnkh/add-contributors@master
+        with:
+          CONTRIBUTOR: '### Contributors'
+          COLUMN_PER_ROW: '6'
+          ACCESS_TOKEN: '${{secrets.GITHUB_TOKEN}}'
+          IMG_WIDTH: '100'
+          FONT_SIZE: '14'
+          BRANCH: '${{ env.BRANCH_NAME }}'
+          PULL_REQUEST: ''
+          PATH: /README.md
+          COMMIT_MESSAGE: 'docs(README): update contributors'
+          AVATAR_SHAPE: round
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5.0.1
+        id: create-pr
+        with:
+          token: '${{ secrets.GITHUB_TOKEN }}'
+          base: main
+          branch: '${{ env.BRANCH_NAME }}'
+          title: 'docs: update `CONTRIBUTORS.md`'
+          commit-message: 'docs: update `CONTRIBUTORS.md`'
+          delete-branch: false
+          committer: '${{ env.GIT_USER }} <${{ env.GIT_EMAIL }}>'
+          author: '${{ env.GIT_USER }} <${{ env.GIT_EMAIL }}>'
+          signoff: true
+          body: >
+            Updated `CONTRIBUTORS.md` via the CI workflow:
+            [`contributors.yml`][workflow].
