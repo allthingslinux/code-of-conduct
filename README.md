@@ -52,6 +52,7 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
     - [Bias](#bias)
     - [Appeals](#appeals)
 - [Notice](#notice)
+  - [Contributors](#contributors)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
