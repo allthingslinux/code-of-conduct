@@ -327,3 +327,36 @@ We aim to keep you updated whenever these guidelines get revised. However, the r
 Above all, exercise good judgment and common sense.
 
 ### Contributors
+
+<table>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/kzndotsh>
+            <img src=https://avatars.githubusercontent.com/u/94737187?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=kzndotsh/>
+            <br />
+            <sub style="font-size:14px"><b>kzndotsh</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/scottc943>
+            <img src=https://avatars.githubusercontent.com/u/80804614?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Scott/>
+            <br />
+            <sub style="font-size:14px"><b>Scott</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/jwe66>
+            <img src=https://avatars.githubusercontent.com/u/142009905?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=James Eginton/>
+            <br />
+            <sub style="font-size:14px"><b>James Eginton</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/iprisj>
+            <img src=https://avatars.githubusercontent.com/u/57462316?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=prisj/>
+            <br />
+            <sub style="font-size:14px"><b>prisj</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
