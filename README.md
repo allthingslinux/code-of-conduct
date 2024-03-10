@@ -307,7 +307,7 @@ The rules defined in this document are to be reviewed and agreed upon by the Com
 
 In the event of a Moderator using personal best judgment when dealing with Members and punishments, all Members have the right to audit said actions and the Moderator should provide justification and or seek unanimous approval from the Moderation team.
 
-#### Appeals
+### 3.8 Appeals
 
 * If a Member believes their punishment is unfair, the Member can discuss their warning with the Moderation team via ticket.
 * If a Member has been temporarily or permanently banned from the server and thus cannot create a ticket, the Member may reach out directly to the Moderation team for appeal.
