@@ -14,7 +14,7 @@ jobs:
         with:
           CONTRIBUTOR: '### Contributors'
           COLUMN_PER_ROW: '6'
-          ACCESS_TOKEN: '${{secrets.ADMIN_RIGHTS_TOKEN}}'
+          ACCESS_TOKEN: '${{secrets.ACCESS_TOKEN}}'
           IMG_WIDTH: '100'
           FONT_SIZE: '14'
           BRANCH: 'contributors-update'
