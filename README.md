@@ -50,7 +50,7 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
   - [3.6. Punishment Evasion](#36-punishment-evasion)
   - [3.7 Fairness](#37-fairness)
     - [Bias](#bias)
-    - [Appeals](#appeals)
+  - [3.8 Appeals](#38-appeals)
 - [Notice](#notice)
   - [Contributors](#contributors)
 
