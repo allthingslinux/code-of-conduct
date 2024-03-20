@@ -267,10 +267,6 @@ WIth Case by Case moderation, punishment is more subjective and dependent on the
 
 Basic auto moderation will exist in this server to prevent universally severe and hateful/offensive language. If auto moderation prevents natural discussion at any point, report the issue via ticket. Additionally, basic safety and security precautions will exist to filter out harmful links and material shared within this server.
 
-#### Mark System
-
-* TBD: Decide if a mark system should be set in place for the server (e.g. 3 marks and you’re out)
-
 ### 3.5. Punishment
 
 If a Member is found breaking any of these rules, 
