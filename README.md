@@ -44,7 +44,6 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
     - [Hard Rules](#hard-rules)
     - [Case by Case](#case-by-case)
     - [Automod](#automod)
-    - [Mark System](#mark-system)
   - [3.5. Punishment](#35-punishment)
     - [Additional Actions](#additional-actions)
   - [3.6. Punishment Evasion](#36-punishment-evasion)
