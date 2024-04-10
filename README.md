@@ -274,7 +274,7 @@ Moderators reserve the right to give any of the following punishments depending 
 * Warnings
   * Warnings act as a permanent history for Members and their behavior. Warnings should be descriptive and provide context or reason.
 * Timeouts
-  * TImeouts act as a temporary safeguard against in the moment disruption of the server and allow Members to “cool off” until they mitigate the current situation with a Moderator.
+  * Timeouts act as a temporary safeguard against in the moment disruption of the server and allow Members to “cool off” until they mitigate the current situation with a Moderator.
 * Kicks
   * Kicks are typically not used within this server due to the way rule breaking is handled.
 * Bans
