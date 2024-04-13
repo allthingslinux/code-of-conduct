@@ -78,7 +78,7 @@ This is a Safe for Work (SFW) environment, which strictly prohibits Not Safe for
 
 1.1.a - Do not share sexually explicit content in messages or media.
 
-1.1.b - Do not portray sexually explicit content in Member avatars, custom statuses, “About Me” texts, banners, emotes, stickers or any other Member profile feature/expression.
+1.1.b - Do not portray sexually explicit content in Member avatars, custom statuses, “About Me” texts, banners, emotes, stickers, or any other Member profile feature/expression.
 
 1.1.c - Do not share media depicting gore, excessive violence, or animal abuse.
 
@@ -118,7 +118,7 @@ Examples of moderation expectations:
 | **Medium**           | Reprimand within tickets and timeouts ranging from 1hr-12hr |
 | **Severe**           | Severe or repeated offenses may result in bans.             |
 
-### 1.4. Expression, Discourse and Debates
+### 1.4. Expression, Discourse, and Debates
 
 Members are free to express themselves and offer constructive criticism and input. We celebrate and encourage our diverse perspectives, backgrounds, and opinions.
 
@@ -126,7 +126,7 @@ However, this community upholds a model of responsible communication. While we l
 
 Based on feedback from a community poll, we've decided to limit discussions on controversial topics. We believe this step will foster a more serene and inclusive environment for everyone. See here for more information: [Controversial Topics Poll](https://canary.discord.com/channels/1172245377395728464/1172343581495795752/1176257288982503474)
 
-However, bear in mind that if any conversation is overly overly repetitive, heated, disruptive, toxic, or indecent, moderators have the discretion to, intervene, redirect, advise, or hault the conversation. These terms are not limited to a specific conversation but the mentioning of said topic. Our aim is not to suppress free speech but to keep an appropriate chatroom while promoting open, respectful, and harmonious conversations among all members.
+However, bear in mind that if any conversation is overly repetitive, heated, disruptive, toxic, or indecent, moderators have the discretion to, intervene, redirect, advise, or halt the conversation. These terms are not limited to a specific conversation but the mentioning of said topic. Our aim is not to suppress free speech but to keep an appropriate chatroom while promoting open, respectful, and harmonious conversations among all members.
 
 Examples of moderation expectations:
 
@@ -138,7 +138,7 @@ Examples of moderation expectations:
 
 ### 1.5. Avoidance of Elitism
 
-Members should avoid disparaging others on the basis of their choices, be it their choice of operating system, desktop environment or other interests outside the main topics of the server. While friendly rivalry and banter can be elements of online communities, we don't welcome deliberate and obnoxious elitism. Respect for each other's preferences and diversity is a cardinal rule in our server.
+Members should avoid disparaging others on the basis of their choices, be it their choice of operating system, desktop environment, or other interests outside the main topics of the server. While friendly rivalry and banter can be elements of online communities, we don't welcome deliberate and obnoxious elitism. Respect for each other's preferences and diversity is a cardinal rule in our server.
 
 Examples of moderation expectations:
 
@@ -156,13 +156,13 @@ Should a Moderator request you to modify your behavior, please be cooperative. I
 
 ### 2.1. Language Requirement: English Only
 
-The language used in this server is English only. Please use English in text, voice and support channels.
+The language used in this server is English only. Please use English in text, voice, and support channels.
 
 Examples of moderation expectations:
 
 | Expectation          | Description                                                                           |
 |----------------------|---------------------------------------------------------------------------------------|
-| **Mild**             | Members will be kindly asked in the chat they are spreading non-english messages to keep it to english                                  |
+| **Mild**             | Members will be kindly asked in the chat they are spreading non-English messages to keep it to English                                  |
 | **Medium**           | Repeated offenses may result in Members being pulled into tickets     |
 | **Severe**           | If a Member is unwilling to comply, Moderators may act as they see fit.   |
 
@@ -190,7 +190,7 @@ Examples of moderation expectations:
 ### 2.4. Bot Usage
 
 * Bot commands should be used in the bot commands channel.
-* If a Member is found spamming, misusing or abusing any Bot related features in the server, please report this via ticket.
+* If a Member is found spamming, misusing, or abusing any Bot related features in the server, please report this via ticket.
 
 Examples of moderation expectations:
 
@@ -222,13 +222,13 @@ Examples of moderation expectations:
 * Do not attempt to bypass any blocked words.
 * Do not plan or discuss attempts to raid other servers.
 * Do not record voice channel conversations without consent.
-* Do not scam or hack, or make attempts to do such.
+* Do not scam, hack, or make attempts to do such.
 * Do not send any malicious and harmful links or files, or anything that jeopardizes the security of others.
 * Encouraging the breaking of rules, inciting others to be blatantly rude and offensive, or otherwise promoting and/or encouraging conflicts between other members is prohibited.
 
 ### 2.8. Advertising
 
-Promotion of websites, products, services and communities is permitted if shared in a natural and non artificial manner. It is up to a Member’s own due diligence to verify the quality of any suggested resources shared.
+Promotion of websites, products, services, and communities is permitted if shared in a natural and non artificial manner. It is up to a Member’s own due diligence to verify the quality of any suggested resources shared.
 
 ### 2.9. Doxing and Personal Identifiable Information (PII)
 
@@ -260,7 +260,7 @@ Enforcement of these rules may be done through different means. Listed below are
 
 #### Case by Case
 
-WIth Case by Case moderation, punishment is more subjective and dependent on the nature and frequency of transgressions. While this system gives Moderators a large amount of flexibility, accountability can be difficult due to the lack of standards and certain Moderators may punish Members differently. Because of this, all Moderator actions are free to audit and review and may require further agreement from the Moderation team.
+With Case by Case moderation, punishment is more subjective and dependent on the nature and frequency of transgressions. While this system gives Moderators a large amount of flexibility, accountability can be difficult due to the lack of standards and certain Moderators may punish Members differently. Because of this, all Moderator actions are free to audit and review and may require further agreement from the Moderation team.
 
 #### Automod
 
