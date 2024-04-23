@@ -170,6 +170,8 @@ Examples of moderation expectations:
 
 * All rules apply when communicating via text channels.
 
+NOTE: In our commitment to maintaining a high quality server, we must emphasize the importance of thoughtful and substantial discourse within our community. Accordingly, content that is considered low-effort, including but not limited to messages that lack substantive value or do not encourage meaningful conversation, is prohibited. This includes the use of phrases and slang often known as "brainrot".
+
 ### 2.3. Voice Channels
 
 * All text rules apply when communicating via voice channels if applicable.
