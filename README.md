@@ -174,20 +174,33 @@ NOTE: In our commitment to maintaining a high quality server, we must emphasize 
 
 ### 2.3. Voice Channels
 
+Communication via voice channels take place within the server, therefore the same rules apply there, as well as some additional domain specific rules.
+
+#### 2.3.a General Voice Rules
 * All text rules apply when communicating via voice channels if applicable.
-* Please maintain a quiet background by muting when away or speaking with others.
-* Refrain from disrupting conversation such as yelling and obnoxious behavior.
-* No music should be played through self inputs.
 * No live streaming any content that breaks any server/text based rules.
+
+#### 2.3.b Voice Etiquette
+* Please maintain a quiet background by muting when away or speaking with others not in VC.
+* Your voice should be the only thing audible, try to avoid background noise from keyboards, fans, TVs, etc.
+* No disruptive music or desktop audio should be played through self inputs.
+  * Streaming with sound is okay, but other users should not be forced to mute you if they do not wish to listen to your audio.
+
+#### 2.3.c Flow of Chat
 * Allow ongoing conversations to conclude before interjecting.
+  * Refrain from disrupting conversation such as yelling and obnoxious behavior.
+  * If you wish to mention something off-topic without interrupting, consider using the built-in text chat.
+* Leave room for others to speak, try not to dominate or take over the chat.
+  * If you want to start a new topic but people still wish to discuss the current topic, consider creating or joining a different channel.
 
-Examples of moderation expectations:
-
-| Expectation          | Description                                                                           |
-|----------------------|---------------------------------------------------------------------------------------|
-| **Mild**             | Moderators may ask members to adhere to guidelines.                                    |
-| **Medium**           | Members may be brought into tickets to talk with Moderators about their actions.       |
-| **Severe**           | Members with severe infractions may be handled at the discretion of Moderators.        |
+#### 2.3.d Moderation
+* Moderators have broad discretion over enforcing voice channel guidelines, but will act in the best interest of upholding the spirit of the rules.
+* Examples of moderation expectations:
+  | Expectation          | Description                                                                                                                   |
+  |----------------------|-------------------------------------------------------------------------------------------------------------------------------|
+  | **Mild**             | Moderators may ask members to adhere to guidelines. Moderators may temporarily server mute to ensure any issues are resolved. |
+  | **Medium**           | Members may be brought into tickets to talk with Moderators about their actions.                                              |
+  | **Severe**           | Members with severe infractions may be handled at the discretion of Moderators.                                               |
 
 ### 2.4. Bot Usage
 
@@ -360,6 +373,13 @@ Above all, exercise good judgment and common sense.
             <img src=https://avatars.githubusercontent.com/u/57462316?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=prisj/>
             <br />
             <sub style="font-size:14px"><b>prisj</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/juuyokka>
+            <img src=https://avatars.githubusercontent.com/u/15185244?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=lactose/>
+            <br />
+            <sub style="font-size:14px"><b>lactose</b></sub>
         </a>
     </td>
 </tr>
