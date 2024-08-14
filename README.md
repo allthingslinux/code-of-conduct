@@ -326,10 +326,7 @@ In the event of a Moderator using personal best judgment when dealing with Membe
 
 * If a Member believes their punishment is unfair, the Member can discuss their warning with the Moderation team via ticket.
 * If a Member has been temporarily or permanently banned from the server and thus cannot create a ticket, the Member may reach out directly to the Moderation team for appeal.
-
-<!-- TODO: Define an appeal process -->
-
-* Add in appeals website
+* Appeals currently are managed via Wick and can be accessed at https://appeals.wickbot.com/.
 
 ## Notice
 
