@@ -275,7 +275,7 @@ Enforcement of these rules may be done through different means. Listed below are
 
 #### Hard Rules
 
-* TODO: What should be considered as an instantly bannable offense for this server?
+<!-- TODO: What should be considered as an instantly bannable offense for this server? -->
 
 #### Case by Case
 
@@ -298,7 +298,8 @@ Moderators reserve the right to give any of the following punishments depending 
   * Kicks are typically not used within this server due to the way rule breaking is handled.
 * Bans
   * Bans may either act as a temporary punishment for an allotted time frame based on the severity of the offense and the offender's history or as a permanent punishment if the Member breaks any of the server Hard Rules or has failed to show the ability to correct their behavior after a number of prior offenses.
-    * TODO: Clarification is further needed on this topic.
+
+<!-- TODO: Clarification is further needed on this topic. -->
 
 #### Additional Actions
 
@@ -326,7 +327,7 @@ In the event of a Moderator using personal best judgment when dealing with Membe
 * If a Member believes their punishment is unfair, the Member can discuss their warning with the Moderation team via ticket.
 * If a Member has been temporarily or permanently banned from the server and thus cannot create a ticket, the Member may reach out directly to the Moderation team for appeal.
 
-TODO: Define an appeal process
+<!-- TODO: Define an appeal process -->
 
 * Add in appeals website
 
