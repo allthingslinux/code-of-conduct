@@ -286,21 +286,18 @@ With Case by Case moderation, punishment is more subjective and dependent on the
 Basic auto moderation will exist in this server to prevent universally severe and hateful/offensive language. If auto moderation prevents natural discussion at any point, report the issue via ticket. Additionally, basic safety and security precautions will exist to filter out harmful links and material shared within this server.
 
 ### 3.5. Punishment
-
-If a Member is found breaking any of these rules, 
+#### 3.5.a - Moderator Privileges
+If a Member is found breaking any of these rules,
 Moderators reserve the right to give any of the following punishments depending on the severity of the offense:
 
-* Warnings
+* **Warnings**
   * Warnings act as a permanent history for Members and their behavior. Warnings should be descriptive and provide context or reason.
-* Timeouts
+* **Timeouts**
   * Timeouts act as a temporary safeguard against in the moment disruption of the server and allow Members to “cool off” until they mitigate the current situation with a Moderator.
-* Kicks
+* **Kicks**
   * Kicks are typically not used within this server due to the way rule breaking is handled.
-* Bans
+* **Bans**
   * Bans may either act as a temporary punishment for an allotted time frame based on the severity of the offense and the offender's history or as a permanent punishment if the Member breaks any of the server Hard Rules or has failed to show the ability to correct their behavior after a number of prior offenses.
-
-<!-- TODO: Clarification is further needed on this topic. -->
-
 #### Additional Actions
 
 Additionally, Moderators reserve the right to:
@@ -309,6 +306,17 @@ Additionally, Moderators reserve the right to:
 * Change nicknames that violate our SFW policy or Discord ToS.
 * Request for the change of any features found on a Member’s profile/server profile.
 * Use their own discretion, but must justify these decisions and seek approval from their peers
+
+#### 3.5.b - Administrator Privileges
+Administrators outline and uphold our standards.
+
+* **Dispute regarding guidelines**
+  * Administrators are permitted to resolve dispute regarding guidelines by using Context, Perspective and Interpretation to ensure order.
+* **Internel and Externel**
+  * Administrators are permitted to Investigate internel and externel interest and speak for the organization.
+* **Termination**
+  * Administrators are permitted to Terminate Members displaying any description of unsuitable behavior, unrelated to compliance with conduct.
+<!-- TODO: Clarification is further needed on this topic. -->
 
 ### 3.6. Punishment Evasion
 
