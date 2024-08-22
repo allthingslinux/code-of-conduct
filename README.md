@@ -310,8 +310,8 @@ Additionally, Moderators reserve the right to:
 #### 3.5.b - Administrator Privileges
 Administrators outline and uphold our standards.
 
-* **Dispute regarding guidelines**
-  * Administrators are permitted to resolve dispute regarding guidelines by using Context, Perspective and Interpretation to ensure order.
+* **Dispute regarding conduct**
+  * Administrators are permitted to resolve dispute regarding the code of conduct by using Context, Perspective and Interpretation to ensure order.
 * **Internel and Externel**
   * Administrators are permitted to Investigate internel and externel interest and speak for the organization.
 * **Termination**
