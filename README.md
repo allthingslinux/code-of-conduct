@@ -49,7 +49,9 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
     - [Case by Case](#case-by-case)
     - [Automod](#automod)
   - [3.5. Punishment](#35-punishment)
+    - [3.5.a - Moderator Privileges](#35a---moderator-privileges)
     - [Additional Actions](#additional-actions)
+    - [3.5.b - Administrator Privileges](#35b---administrator-privileges)
   - [3.6. Punishment Evasion](#36-punishment-evasion)
   - [3.7 Fairness](#37-fairness)
     - [Bias](#bias)
@@ -310,8 +312,8 @@ Additionally, Moderators reserve the right to:
 #### 3.5.b - Administrator Privileges
 Administrators outline and uphold our standards.
 
-* **Dispute regarding guidelines**
-  * Administrators are permitted to resolve dispute regarding guidelines by using Context, Perspective and Interpretation to ensure order.
+* **Dispute regarding conduct**
+  * Administrators are permitted to resolve dispute regarding the code of conduct by using Context, Perspective and Interpretation to ensure order.
 * **Internel and Externel**
   * Administrators are permitted to Investigate internel and externel interest and speak for the organization.
 * **Termination**
