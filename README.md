@@ -386,26 +386,26 @@ Above all, exercise good judgment and common sense.
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/fndov>
+            <img src=https://avatars.githubusercontent.com/u/168955383?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=miyu/>
+            <br />
+            <sub style="font-size:14px"><b>miyu</b></sub>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/iprisj>
             <img src=https://avatars.githubusercontent.com/u/57462316?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=prisj/>
             <br />
             <sub style="font-size:14px"><b>prisj</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/0x4248>
             <img src=https://avatars.githubusercontent.com/u/60709927?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=0x4248 (Blix)/>
             <br />
             <sub style="font-size:14px"><b>0x4248 (Blix)</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/fndov>
-            <img src=https://avatars.githubusercontent.com/u/168955383?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=miyu/>
-            <br />
-            <sub style="font-size:14px"><b>miyu</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
