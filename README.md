@@ -100,7 +100,7 @@ Examples of moderation expectations:
 
 ### 1.2. Concerns of Age
 
-Discord's age limit for usage is 13 years. Therefore, we should presume that all users here are of this minimum age. Do not automatically assume that any user is 18 or older. Furthermore, this server should not be used as a dating platform, nor should any communication involve sexually suggestive language or undertones.
+Discord's minimum age for usage is 13. Therefore, we should presume that all users here are of this minimum age. Do not automatically assume that any user is 18 or older. Furthermore, this server should not be used as a dating platform, nor should any communication involve sexually suggestive language or undertones.
 
 ### 1.3. Mutual Respect
 
