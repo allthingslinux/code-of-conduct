@@ -106,6 +106,10 @@ Discord's minimum age for usage is 13. Therefore, we should presume that all use
 
 Our server prioritizes respect for each other above all else.
 
+Maintain a respectful and humble attitude in all interactions. Avoid displaying unwarranted arrogance or belittling others.
+
+Refrain from excessive emotional oversharing. Be considerate of the emotional impact your words may have on others.
+
 Harassment of any form is strictly prohibited. Discord is designed to be a welcoming space for everyone, and harassment hinders the growth of healthy communities. Behavior, such as continuous bullying, doxxing, or raiding is not permitted.
 
 Hate speech or any form of discriminatory conduct is not accepted here. Hate speech is defined as any expression that instigates violence or promotes prejudice against others based on their unique characteristics.
@@ -129,6 +133,8 @@ Examples of moderation expectations:
 Members are free to express themselves and offer constructive criticism and input. We celebrate and encourage our diverse perspectives, backgrounds, and opinions.
 
 However, this community upholds a model of responsible communication. While we lean into the courage of discussions, we urge members to refrain from initiating sensitive topics that might trigger conflict, perpetuate hatred, or incite violence.
+
+Avoid offering or seeking professional advice, including but not limited to medical, legal, therapeutic, religious, or financial matters.
 
 Based on feedback from a community poll, we've decided to limit discussions on controversial topics. We believe this step will foster a more serene and inclusive environment for everyone. See here for more information: [Controversial Topics Poll](https://canary.discord.com/channels/1172245377395728464/1172343581495795752/1176257288982503474)
 
