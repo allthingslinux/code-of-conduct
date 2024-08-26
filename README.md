@@ -128,7 +128,7 @@ Examples of moderation expectations:
 
 Members are free to express themselves and offer constructive criticism and input. We celebrate and encourage our diverse perspectives, backgrounds, and opinions.
 
-However, this community upholds a model of responsible communication. While we lean into the courage of discussions, we urge members to refrain from initiating sensitive topics that might trigger conflict or perpetuate hatred, violence, or dominant ideologies.
+However, this community upholds a model of responsible communication. While we lean into the courage of discussions, we urge members to refrain from initiating sensitive topics that might trigger conflict, perpetuate hatred, or incite violence.
 
 Based on feedback from a community poll, we've decided to limit discussions on controversial topics. We believe this step will foster a more serene and inclusive environment for everyone. See here for more information: [Controversial Topics Poll](https://canary.discord.com/channels/1172245377395728464/1172343581495795752/1176257288982503474)
 
