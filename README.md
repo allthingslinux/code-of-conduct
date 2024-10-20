@@ -160,7 +160,7 @@ Examples of moderation expectations:
 | **Medium**           | If a Member is repetitively being rude or unhealthy in their behavior, Moderators may ask them to stop. |
 | **Severe**           | If the behavior becomes a significant problem, Moderators may pull Members into tickets and respond accordingly based on their willingness to cooperate. |
 
-### 1.6 Respecting Authority & Rules
+### 1.6. Respecting Authority & Rules
 
 Should a Moderator request you to modify your behavior, please be cooperative. In case of disagreements or errors with said moderation, we encourage you to submit a support ticket instead of publicly escalating the situation. Any rule violation should be reported via ticket, leaving the resolution to an authorized Moderator. While we discourage backseat moderating, we hope that members will help us maintain a healthy environment by guiding others if they are unaware of the rules or suggesting that certain behavior is inappropriate.
 
