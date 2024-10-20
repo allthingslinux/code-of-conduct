@@ -25,7 +25,7 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
   - [1.3. Mutual Respect](#13-mutual-respect)
   - [1.4. Expression, Discourse, and Debates](#14-expression-discourse-and-debates)
   - [1.5. Avoidance of Elitism](#15-avoidance-of-elitism)
-  - [1.6 Respecting Authority & Rules](#16-respecting-authority--rules)
+  - [1.6. Respecting Authority & Rules](#16-respecting-authority--rules)
 - [Section 2. Participation](#section-2-participation)
   - [2.1. Language Requirement: English Only](#21-language-requirement-english-only)
   - [2.2. Text Channels](#22-text-channels)
