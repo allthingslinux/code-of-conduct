@@ -25,7 +25,7 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
   - [1.3. Mutual Respect](#13-mutual-respect)
   - [1.4. Expression, Discourse, and Debates](#14-expression-discourse-and-debates)
   - [1.5. Avoidance of Elitism](#15-avoidance-of-elitism)
-  - [1.6 Respecting Authority & Rules](#16-respecting-authority--rules)
+  - [1.6. Respecting Authority & Rules](#16-respecting-authority--rules)
 - [Section 2. Participation](#section-2-participation)
   - [2.1. Language Requirement: English Only](#21-language-requirement-english-only)
   - [2.2. Text Channels](#22-text-channels)
@@ -53,9 +53,9 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
     - [Additional Actions](#additional-actions)
     - [3.5.b - Administrator Privileges](#35b---administrator-privileges)
   - [3.6. Punishment Evasion](#36-punishment-evasion)
-  - [3.7 Fairness](#37-fairness)
+  - [3.7. Fairness](#37-fairness)
     - [Bias](#bias)
-  - [3.8 Appeals](#38-appeals)
+  - [3.8. Appeals](#38-appeals)
 - [Notice](#notice)
   - [Contributors](#contributors)
 
@@ -160,7 +160,7 @@ Examples of moderation expectations:
 | **Medium**           | If a Member is repetitively being rude or unhealthy in their behavior, Moderators may ask them to stop. |
 | **Severe**           | If the behavior becomes a significant problem, Moderators may pull Members into tickets and respond accordingly based on their willingness to cooperate. |
 
-### 1.6 Respecting Authority & Rules
+### 1.6. Respecting Authority & Rules
 
 Should a Moderator request you to modify your behavior, please be cooperative. In case of disagreements or errors with said moderation, we encourage you to submit a support ticket instead of publicly escalating the situation. Any rule violation should be reported via ticket, leaving the resolution to an authorized Moderator. While we discourage backseat moderating, we hope that members will help us maintain a healthy environment by guiding others if they are unaware of the rules or suggesting that certain behavior is inappropriate.
 
@@ -330,7 +330,7 @@ Administrators outline and uphold our standards.
 
 Members should not attempt to evade the consequences of their actions such as using an alternate account to bypass restrictions. Punishment evasion will result in an immediate ban.
 
-### 3.7 Fairness
+### 3.7. Fairness
 
 #### Bias
 
@@ -338,7 +338,7 @@ The rules defined in this document are to be reviewed and agreed upon by the Com
 
 In the event of a Moderator using personal best judgment when dealing with Members and punishments, all Members have the right to audit said actions and the Moderator should provide justification and or seek unanimous approval from the Moderation team.
 
-### 3.8 Appeals
+### 3.8. Appeals
 
 * If a Member believes their punishment is unfair, the Member can discuss their warning with the Moderation team via ticket.
 * If a Member has been temporarily or permanently banned from the server and thus cannot create a ticket, the Member may reach out directly to the Moderation team for appeal.
