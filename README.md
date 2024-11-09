@@ -405,10 +405,17 @@ Above all, exercise good judgment and common sense.
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/0x4248>
-            <img src=https://avatars.githubusercontent.com/u/60709927?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Lewis/>
+        <a href=https://github.com/wlinator>
+            <img src=https://avatars.githubusercontent.com/u/75494059?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=wlinator/>
             <br />
-            <sub style="font-size:14px"><b>Lewis</b></sub>
+            <sub style="font-size:14px"><b>wlinator</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/0x4248>
+            <img src=https://avatars.githubusercontent.com/u/60709927?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=4248/>
+            <br />
+            <sub style="font-size:14px"><b>4248</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
@@ -416,13 +423,6 @@ Above all, exercise good judgment and common sense.
             <img src=https://avatars.githubusercontent.com/u/168192606?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=FarCotton/>
             <br />
             <sub style="font-size:14px"><b>FarCotton</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/wlinator>
-            <img src=https://avatars.githubusercontent.com/u/75494059?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=wlinator/>
-            <br />
-            <sub style="font-size:14px"><b>wlinator</b></sub>
         </a>
     </td>
 </tr>
