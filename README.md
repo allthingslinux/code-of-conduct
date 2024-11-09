@@ -17,47 +17,48 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Preface](#preface)
-  - [Discord Community Guidelines and Terms of Service](#discord-community-guidelines-and-terms-of-service)
-- [Section 1. Essentials](#section-1-essentials)
-  - [1.1. SFW Policy](#11-sfw-policy)
-  - [1.2. Concerns of Age](#12-concerns-of-age)
-  - [1.3. Mutual Respect](#13-mutual-respect)
-  - [1.4. Expression, Discourse, and Debates](#14-expression-discourse-and-debates)
-  - [1.5. Avoidance of Elitism](#15-avoidance-of-elitism)
-  - [1.6. Respecting Authority & Rules](#16-respecting-authority--rules)
-- [Section 2. Participation](#section-2-participation)
-  - [2.1. Language Requirement: English Only](#21-language-requirement-english-only)
-  - [2.2. Text Channels](#22-text-channels)
-  - [2.3. Voice Channels](#23-voice-channels)
-    - [2.3.a General Voice Rules](#23a-general-voice-rules)
-    - [2.3.b Voice Etiquette](#23b-voice-etiquette)
-    - [2.3.c Flow of Chat](#23c-flow-of-chat)
-    - [2.3.d Moderation](#23d-moderation)
-  - [2.4. Bot Usage](#24-bot-usage)
-  - [2.5. “On” and “Off” topic](#25-on-and-off-topic)
-  - [2.6. Spam](#26-spam)
-  - [2.7. Malicious Behavior](#27-malicious-behavior)
-  - [2.8. Advertising](#28-advertising)
-  - [2.9. Doxing and Personal Identifiable Information (PII)](#29-doxing-and-personal-identifiable-information-pii)
-- [Section 3. Moderation](#section-3-moderation)
-  - [3.1. Reporting](#31-reporting)
-  - [3.2. Consistency](#32-consistency)
-  - [3.3. Transparency](#33-transparency)
-  - [3.4. Enforcement](#34-enforcement)
-    - [Hard Rules](#hard-rules)
-    - [Case by Case](#case-by-case)
-    - [Automod](#automod)
-  - [3.5. Punishment](#35-punishment)
-    - [3.5.a - Moderator Privileges](#35a---moderator-privileges)
-    - [Additional Actions](#additional-actions)
-    - [3.5.b - Administrator Privileges](#35b---administrator-privileges)
-  - [3.6. Punishment Evasion](#36-punishment-evasion)
-  - [3.7. Fairness](#37-fairness)
-    - [Bias](#bias)
-  - [3.8. Appeals](#38-appeals)
-- [Notice](#notice)
-  - [Contributors](#contributors)
+- [Code of Conduct](#code-of-conduct)
+  - [Preface](#preface)
+    - [Discord Community Guidelines and Terms of Service](#discord-community-guidelines-and-terms-of-service)
+  - [Section 1. Essentials](#section-1-essentials)
+    - [1.1. SFW Policy](#11-sfw-policy)
+    - [1.2. Concerns of Age](#12-concerns-of-age)
+    - [1.3. Mutual Respect](#13-mutual-respect)
+    - [1.4. Expression, Discourse, and Debates](#14-expression-discourse-and-debates)
+    - [1.5. Avoidance of Elitism](#15-avoidance-of-elitism)
+    - [1.6. Respecting Authority \& Rules](#16-respecting-authority--rules)
+  - [Section 2. Participation](#section-2-participation)
+    - [2.1. Language Requirement: English Only](#21-language-requirement-english-only)
+    - [2.2. Text Channels](#22-text-channels)
+    - [2.3. Voice Channels](#23-voice-channels)
+      - [2.3.a General Voice Rules](#23a-general-voice-rules)
+      - [2.3.b Voice Etiquette](#23b-voice-etiquette)
+      - [2.3.c Flow of Chat](#23c-flow-of-chat)
+      - [2.3.d Moderation](#23d-moderation)
+    - [2.4. Bot Usage](#24-bot-usage)
+    - [2.5. “On” and “Off” topic](#25-on-and-off-topic)
+    - [2.6. Spam](#26-spam)
+    - [2.7. Malicious Behavior](#27-malicious-behavior)
+    - [2.8. Advertising](#28-advertising)
+    - [2.9. Doxing and Personal Identifiable Information (PII)](#29-doxing-and-personal-identifiable-information-pii)
+  - [Section 3. Moderation](#section-3-moderation)
+    - [3.1. Reporting](#31-reporting)
+    - [3.2. Consistency](#32-consistency)
+    - [3.3. Transparency](#33-transparency)
+    - [3.4. Enforcement](#34-enforcement)
+      - [Hard Rules](#hard-rules)
+      - [Case by Case](#case-by-case)
+      - [Automod](#automod)
+    - [3.5. Punishment](#35-punishment)
+      - [3.5.a - Moderator Privileges](#35a---moderator-privileges)
+      - [Additional Actions](#additional-actions)
+      - [3.5.b - Administrator Privileges](#35b---administrator-privileges)
+    - [3.6. Punishment Evasion](#36-punishment-evasion)
+    - [3.7. Fairness](#37-fairness)
+      - [Bias](#bias)
+    - [3.8. Appeals](#38-appeals)
+  - [Notice](#notice)
+    - [Contributors](#contributors)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -67,14 +68,8 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
 
 Your presence in this server implies accepting Discord’s Community Guidelines and Terms of Service, including all further changes. These changes might be done at any time with or without notice, it is your responsibility to check and follow them.
 
-<table>
-  <tr>
-   <td><a href="https://discord.com/guidelines">Discord Community Guidelines</a>
-   </td>
-   <td><a href="https://discord.com/terms">Discord Terms of Service</a>
-   </td>
-  </tr>
-</table>
+- [Discord Community Guidelines](https://discord.com/guidelines)
+- [Discord Terms of Service](https://discord.com/terms)
 
 ## Section 1. Essentials
 
@@ -92,11 +87,11 @@ This is a Safe for Work (SFW) environment, which strictly prohibits Not Safe for
 
 Examples of moderation expectations:
 
-| Expectation          | Description                                               |
-|----------------------|-----------------------------------------------------------|
-| **Mild**             | First offenses will result in Members being brought into tickets and warned. |
-| **Medium**           | Warns, tickets, and timeouts ranging from 1hr-12 hours.  |
-| **Severe**           | Bans are to be expected at this stage.                    |
+| Expectation | Description                                                                  |
+| ----------- | ---------------------------------------------------------------------------- |
+| **Mild**    | First offenses will result in Members being brought into tickets and warned. |
+| **Medium**  | Warns, tickets, and timeouts ranging from 1hr-12 hours.                      |
+| **Severe**  | Bans are to be expected at this stage.                                       |
 
 ### 1.2. Concerns of Age
 
@@ -122,11 +117,11 @@ Promoting or supporting violent extremism is also forbidden. Glorifying violent 
 
 Examples of moderation expectations:
 
-| Expectation          | Description                                                  |
-|----------------------|--------------------------------------------------------------|
-| **Mild**             | Pulling Members into tickets and requesting that            |
-| **Medium**           | Reprimand within tickets and timeouts ranging from 1hr-12hr |
-| **Severe**           | Severe or repeated offenses may result in bans.             |
+| Expectation | Description                                                 |
+| ----------- | ----------------------------------------------------------- |
+| **Mild**    | Pulling Members into tickets and requesting that            |
+| **Medium**  | Reprimand within tickets and timeouts ranging from 1hr-12hr |
+| **Severe**  | Severe or repeated offenses may result in bans.             |
 
 ### 1.4. Expression, Discourse, and Debates
 
@@ -142,11 +137,11 @@ However, bear in mind that if any conversation is overly repetitive, heated, dis
 
 Examples of moderation expectations:
 
-| Expectation          | Description                                                                               |
-|----------------------|-------------------------------------------------------------------------------------------|
-| **Mild**             | Asking Members to wrap up or end conversations.                                            |
-| **Medium**           | Forcing conversations to end.                                                             |
-| **Severe**           | Members with repetitive offenses may receive timeouts and be addressed in tickets within 5m to 2 hours. |
+| Expectation | Description                                                                                             |
+| ----------- | ------------------------------------------------------------------------------------------------------- |
+| **Mild**    | Asking Members to wrap up or end conversations.                                                         |
+| **Medium**  | Forcing conversations to end.                                                                           |
+| **Severe**  | Members with repetitive offenses may receive timeouts and be addressed in tickets within 5m to 2 hours. |
 
 ### 1.5. Avoidance of Elitism
 
@@ -154,11 +149,11 @@ Members should avoid disparaging others on the basis of their choices, be it the
 
 Examples of moderation expectations:
 
-| Expectation          | Description                                                                               |
-|----------------------|-------------------------------------------------------------------------------------------|
-| **Mild**             | Occasional or every now and then behavior usually doesn't require active moderation.      |
-| **Medium**           | If a Member is repetitively being rude or unhealthy in their behavior, Moderators may ask them to stop. |
-| **Severe**           | If the behavior becomes a significant problem, Moderators may pull Members into tickets and respond accordingly based on their willingness to cooperate. |
+| Expectation | Description                                                                                                                                              |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mild**    | Occasional or every now and then behavior usually doesn't require active moderation.                                                                     |
+| **Medium**  | If a Member is repetitively being rude or unhealthy in their behavior, Moderators may ask them to stop.                                                  |
+| **Severe**  | If the behavior becomes a significant problem, Moderators may pull Members into tickets and respond accordingly based on their willingness to cooperate. |
 
 ### 1.6. Respecting Authority & Rules
 
@@ -172,11 +167,11 @@ The language used in this server is English only. Please use English in text, vo
 
 Examples of moderation expectations:
 
-| Expectation          | Description                                                                           |
-|----------------------|---------------------------------------------------------------------------------------|
-| **Mild**             | Members will be kindly asked in the chat they are spreading non-English messages to keep it to English                                  |
-| **Medium**           | Repeated offenses may result in Members being pulled into tickets     |
-| **Severe**           | If a Member is unwilling to comply, Moderators may act as they see fit.   |
+| Expectation | Description                                                                                            |
+| ----------- | ------------------------------------------------------------------------------------------------------ |
+| **Mild**    | Members will be kindly asked in the chat they are spreading non-English messages to keep it to English |
+| **Medium**  | Repeated offenses may result in Members being pulled into tickets                                      |
+| **Severe**  | If a Member is unwilling to comply, Moderators may act as they see fit.                                |
 
 ### 2.2. Text Channels
 
@@ -208,11 +203,11 @@ Communication via voice channels take place within the server, therefore the sam
 #### 2.3.d Moderation
 * Moderators have broad discretion over enforcing voice channel guidelines, but will act in the best interest of upholding the spirit of the rules.
 * Examples of moderation expectations:
-  | Expectation          | Description                                                                                                                   |
-  |----------------------|-------------------------------------------------------------------------------------------------------------------------------|
-  | **Mild**             | Moderators may ask members to adhere to guidelines. Moderators may temporarily server mute to ensure any issues are resolved. |
-  | **Medium**           | Members may be brought into tickets to talk with Moderators about their actions.                                              |
-  | **Severe**           | Members with severe infractions may be handled at the discretion of Moderators.                                               |
+  | Expectation | Description                                                                                                                   |
+  | ----------- | ----------------------------------------------------------------------------------------------------------------------------- |
+  | **Mild**    | Moderators may ask members to adhere to guidelines. Moderators may temporarily server mute to ensure any issues are resolved. |
+  | **Medium**  | Members may be brought into tickets to talk with Moderators about their actions.                                              |
+  | **Severe**  | Members with severe infractions may be handled at the discretion of Moderators.                                               |
 
 ### 2.4. Bot Usage
 
@@ -221,11 +216,11 @@ Communication via voice channels take place within the server, therefore the sam
 
 Examples of moderation expectations:
 
-| Expectation          | Description                                                                                   |
-|----------------------|-----------------------------------------------------------------------------------------------|
-| **Mild**             | Members may be asked by Moderators to adhere to guidelines.                                    |
-| **Medium**           | Members may be brought into tickets to talk with Moderators about their actions.               |
-| **Severe**           | Members with severe infractions may receive mutes ranging from 10 minutes to 3 hours.          |
+| Expectation | Description                                                                           |
+| ----------- | ------------------------------------------------------------------------------------- |
+| **Mild**    | Members may be asked by Moderators to adhere to guidelines.                           |
+| **Medium**  | Members may be brought into tickets to talk with Moderators about their actions.      |
+| **Severe**  | Members with severe infractions may receive mutes ranging from 10 minutes to 3 hours. |
 
 ### 2.5. “On” and “Off” topic
 
