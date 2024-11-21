@@ -119,7 +119,7 @@ Examples of moderation expectations:
 
 | Expectation | Description                                                 |
 | ----------- | ----------------------------------------------------------- |
-| **Mild**    | Pulling Members into tickets and requesting that            |
+| **Mild**    | Pulling Members into tickets and requesting that they stop this behavior.    |
 | **Medium**  | Reprimand within tickets and timeouts ranging from 1hr-12hr |
 | **Severe**  | Severe or repeated offenses may result in bans.             |
 
