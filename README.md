@@ -349,81 +349,8 @@ We aim to keep you updated whenever these guidelines get revised. However, the r
 
 Above all, exercise good judgment and common sense.
 
-### Contributors
+## Contributors
 
-<table>
-<tr>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/kzndotsh>
-            <img src=https://avatars.githubusercontent.com/u/94737187?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=kzndotsh/>
-            <br />
-            <sub style="font-size:14px"><b>kzndotsh</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/scottc943>
-            <img src=https://avatars.githubusercontent.com/u/80804614?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Scott/>
-            <br />
-            <sub style="font-size:14px"><b>Scott</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/fndov>
-            <img src=https://avatars.githubusercontent.com/u/168955383?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=miyu/>
-            <br />
-            <sub style="font-size:14px"><b>miyu</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/juuyokka>
-            <img src=https://avatars.githubusercontent.com/u/15185244?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=lactose/>
-            <br />
-            <sub style="font-size:14px"><b>lactose</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/wlinator>
-            <img src=https://avatars.githubusercontent.com/u/75494059?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=wlinator/>
-            <br />
-            <sub style="font-size:14px"><b>wlinator</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Ow0cast>
-            <img src=https://avatars.githubusercontent.com/u/57546895?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=owuh/>
-            <br />
-            <sub style="font-size:14px"><b>owuh</b></sub>
-        </a>
-    </td>
-</tr>
-<tr>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/jwe66>
-            <img src=https://avatars.githubusercontent.com/u/142009905?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=James Eginton/>
-            <br />
-            <sub style="font-size:14px"><b>James Eginton</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/iprisj>
-            <img src=https://avatars.githubusercontent.com/u/57462316?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=prisj/>
-            <br />
-            <sub style="font-size:14px"><b>prisj</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/0x4248>
-            <img src=https://avatars.githubusercontent.com/u/60709927?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=4248/>
-            <br />
-            <sub style="font-size:14px"><b>4248</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/FarCotton>
-            <img src=https://avatars.githubusercontent.com/u/168192606?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=FarCotton/>
-            <br />
-            <sub style="font-size:14px"><b>FarCotton</b></sub>
-        </a>
-    </td>
-</tr>
-</table>
+<sub>Made with [contrib.rocks](https://contrib.rocks).</sub>
+
+[![Contributors](https://contrib.rocks/image?repo=allthingslinux/code-of-conduct)](https://github.com/allthingslinux/code-of-conduct/graphs/contributors)
