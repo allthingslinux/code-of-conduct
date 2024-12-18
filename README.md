@@ -253,7 +253,7 @@ Promotion of websites, products, services, and communities is permitted if share
 
 ### 2.9. Doxing and Personal Identifiable Information (PII)
 
-No doxxing other Members. Keep information about other Members private. Don’t share messages, addresses, phone numbers, social media information, or anything else about a Member without their permission. This includes people from other Discord servers.
+No doxxing other Members. Keep information about other Members private. Don’t share messages, addresses, phone numbers, social media information, or anything else that contains PII. This includes people from other Discord servers.
 
 It is of your own risk and discretion when sharing personal information to others.
 
