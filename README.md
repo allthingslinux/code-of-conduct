@@ -176,7 +176,17 @@ Examples of moderation expectations:
 
 * All rules apply when communicating via text channels.
 
-NOTE: In our commitment to maintaining a high quality server, we must emphasize the importance of thoughtful and substantial discourse within our community. Accordingly, content that is considered low-effort, including but not limited to messages that lack substantive value or do not encourage meaningful conversation, is prohibited. This includes the use of phrases and slang often known as "brainrot".
+In our commitment to maintaining a high quality server, we must emphasize the importance of thoughtful and substantial discourse within our community. Accordingly, content that is considered low-effort/low-quality, including but not limited to messages that lack substantive value or do not encourage meaningful conversation, is prohibited.
+
+This includes "brainrot" which are words or phrases with no substantial value. (an example would be animal sounds)
+
+Examples of moderation expectations if this rule/automod is bypassed:
+
+| Expectation | Description                                                                                            |
+| ----------- | ------------------------------------------------------------------------------------------------------ |
+| **Mild**    | Members will be kindly asked in the chat to not post low-effort/low-quality content or bypass automod  |
+| **Medium**  | Repeated offenses may result in Members being timed out for a period of time at the moderators discretion                                   |
+| **Severe**  | If a Member is unwilling to comply, they will be ticketed and warned                                   |
 
 ### 2.3. Voice Channels
 
