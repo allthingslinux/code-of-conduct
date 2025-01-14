@@ -185,7 +185,7 @@ Examples of moderation expectations if this rule/automod is bypassed:
 | Expectation | Description                                                                                            |
 | ----------- | ------------------------------------------------------------------------------------------------------ |
 | **Mild**    | Members will be kindly asked in the chat to not post low-effort/low-quality content or bypass automod  |
-| **Medium**  | Repeated offenses may result in Members being timed out for 10m-2h                                     |
+| **Medium**  | Repeated offenses may result in Members being timed out for a period of time at the moderators discretion                                   |
 | **Severe**  | If a Member is unwilling to comply, they will be ticketed and warned                                   |
 
 ### 2.3. Voice Channels
