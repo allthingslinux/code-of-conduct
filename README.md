@@ -178,7 +178,7 @@ Examples of moderation expectations:
 
 In our commitment to maintaining a high quality server, we must emphasize the importance of thoughtful and substantial discourse within our community. Accordingly, content that is considered low-effort/low-quality, including but not limited to messages that lack substantive value or do not encourage meaningful conversation, is prohibited.
 
-This includes "brainrot" which are words or phrases with no substantial value. (a example would be animal sounds)
+This includes "brainrot" which are words or phrases with no substantial value. (an example would be animal sounds)
 
 Examples of moderation expectations if this rule/automod is bypassed:
 
