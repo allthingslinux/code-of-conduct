@@ -65,7 +65,7 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
 
 ### Discord Community Guidelines and Terms of Service
 
-Your presence in this server implies accepting Discord’s Community Guidelines and Terms of Service, including all further changes. These changes might be done at any time with or without notice, it is your responsibility to check and follow them.
+Your presence in this server implies accepting Discord’s Community Guidelines and Terms of Service, including all further changes. These changes might be done at any time with or without notice, it is your responsibility to consistently review and follow them.
 
 - [Discord Community Guidelines](https://discord.com/guidelines)
 - [Discord Terms of Service](https://discord.com/terms)
@@ -74,7 +74,7 @@ Your presence in this server implies accepting Discord’s Community Guidelines 
 
 ### 1.1. SFW Policy
 
-This is a Safe for Work (SFW) environment, which strictly prohibits Not Safe for Work (NSFW) content and discussions. NSFW usually refers to sexually explicit content, but the definition is expanding to include a broader range of sensitive topics over time. Although Discord allows servers to create designated NSFW channels, it's worth noting that this platform does not offer such channels.
+This is a Safe for Work (SFW) environment, which strictly prohibits Not Safe for Work (NSFW) content and discussions. NSFW usually refers to sexually explicit content, however the definition is expanding to include a broader range of sensitive topics over time. Although Discord allows servers to create designated NSFW channels, it's worth noting that this platform does not offer such channels.
 
 1.1.a - Do not share sexually explicit content in messages or media.
 
@@ -84,6 +84,8 @@ This is a Safe for Work (SFW) environment, which strictly prohibits Not Safe for
 
 1.1.d - Do not share content that glorifies, promotes, or normalizes suicide or other acts of self-harm. Self-harm acts or threats used as a form of emotional manipulation or coercion are also prohibited.
 
+1.1.e - Do not share media depicting harmful or offensive language and/or content, this can include or is not limited to; Offensive jokes or comments with the intention of causing harm or "Drama". This may also include language that promotes exclusion or marginalization.
+
 Examples of moderation expectations:
 
 | Expectation | Description                                                                  |
@@ -92,9 +94,41 @@ Examples of moderation expectations:
 | **Medium**  | Warns, tickets, and timeouts ranging from 1hr-12 hours.                      |
 | **Severe**  | Bans are to be expected at this stage.                                       |
 
-### 1.2. Concerns of Age
+### 1.2. Concerns of Age and Appropriate Conduct
 
-Discord's minimum age for usage is 13. Therefore, we should presume that all users here are of this minimum age. Do not automatically assume that any user is 18 or older. Furthermore, this server should not be used as a dating platform, nor should any communication involve sexually suggestive language or undertones.
+**1.2.a. Minimum Age Requirement:**
+
+* Discord's Terms of Service stipulate that users must be at least 13 years of age to utilize the platform. Therefore, within this server, we operate under the presumption that all members meet this minimum age requirement.
+* It is crucial to understand that age verification is not conducted within this server.
+
+**1.2.b. Presumption of Minimum Age:**
+
+* Due to the limitations of age verification, we must treat all members as if they are within the 13-17 age bracket, unless explicitly and verifiably stated otherwise.
+* Do not assume that any member is an adult (18 years or older) based on their online persona, profile information, or perceived maturity.
+
+**1.2.c. Prohibited Inappropriate Interactions:**
+
+* This server is not a platform for dating, romantic pursuits, or the establishment of relationships with a sexual or romantic nature.
+* All interactions must remain strictly platonic and professional.
+* The following behaviors are explicitly prohibited:
+    * Sexually suggestive language, innuendo, or undertones in any form of communication (text, voice, media).
+    * Direct or indirect solicitation of romantic or sexual relationships.
+    * The sharing of sexually explicit or suggestive content, including but not limited to images, videos, or text.
+    * Any form of communication that could be perceived as grooming or predatory behavior towards a minor.
+    * Asking for, or the sharing of, personal information that could be used to identify a minor.
+    * Any discussion of sexual topics that may make a minor uncomfortable.
+    * Any attempt to bypass the server's rules in order to engage in inappropriate interactions.
+
+**1.2.d. Protecting Minors:**
+
+* The safety and well-being of all members, especially minors, are of paramount importance.
+* Any behavior that jeopardizes the safety of a minor will be dealt with swiftly and severely.
+* Members are encouraged to report any suspected instances of inappropriate behavior towards minors to the moderation team immediately.
+
+**1.2.e. Context and Interpretation:**
+
+* Moderators will use contextual awareness and reasonable judgment to interpret interactions and enforce these guidelines.
+* Even if a user claims to be an adult, if their actions appear to be preying on a minor, actions will be taken against them.
 
 ### 1.3. Mutual Respect
 
