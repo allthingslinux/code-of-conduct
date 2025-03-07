@@ -208,6 +208,7 @@ Communication via voice channels take place within the server, therefore the sam
   * If you wish to mention something off-topic without interrupting, consider using the built-in text chat.
 * Leave room for others to speak, try not to dominate or take over the chat.
   * If you want to start a new topic but people still wish to discuss the current topic, consider creating or joining a different channel.
+  * When first entering a chat, be mindful of the conversation currently going on. Don't interrupt an already ongoing conversation with something unrelated. Read the room before interjecting.
 
 #### 2.3.d Moderation
 * Moderators have broad discretion over enforcing voice channel guidelines, but will act in the best interest of upholding the spirit of the rules.
