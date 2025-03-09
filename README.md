@@ -113,11 +113,11 @@ Promoting or supporting violent extremism is also forbidden. Glorifying violent 
 
 Examples of moderation expectations:
 
-| Expectation | Description                                                 |
-| ----------- | ----------------------------------------------------------- |
+| Expectation | Description                                                                  |
+| ----------- | ---------------------------------------------------------------------------- |
 | **Mild**    | Pulling Members into tickets and requesting that they stop this behavior.    |
-| **Medium**  | Reprimand within tickets and timeouts ranging from 1hr-12hr |
-| **Severe**  | Severe or repeated offenses may result in bans.             |
+| **Medium**  | Reprimand within tickets and timeouts ranging from 1hr-12hr                  |
+| **Severe**  | Severe or repeated offenses may result in bans.                              |
 
 ### 1.4. Expression, Discourse, and Debates
 
@@ -179,11 +179,11 @@ This includes "brainrot" which are words or phrases with no substantial value. (
 
 Examples of moderation expectations if this rule/automod is bypassed:
 
-| Expectation | Description                                                                                            |
-| ----------- | ------------------------------------------------------------------------------------------------------ |
-| **Mild**    | Members will be kindly asked in the chat to not post low-effort/low-quality content or bypass automod  |
-| **Medium**  | Repeated offenses may result in Members being timed out for a period of time at the moderators discretion                                   |
-| **Severe**  | If a Member is unwilling to comply, they will be ticketed and warned                                   |
+| Expectation | Description                                                                                               |
+| ----------- | --------------------------------------------------------------------------------------------------------- |
+| **Mild**    | Members will be kindly asked in the chat to not post low-effort/low-quality content or bypass automod     |
+| **Medium**  | Repeated offenses may result in Members being timed out for a period of time at the moderators discretion |
+| **Severe**  | If a Member is unwilling to comply, they will be ticketed and warned                                      |
 
 ### 2.3. Voice Channels
 
