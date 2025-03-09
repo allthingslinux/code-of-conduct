@@ -30,10 +30,6 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
   - [2.1. Language Requirement: English Only](#21-language-requirement-english-only)
   - [2.2. Text Channels](#22-text-channels)
   - [2.3. Voice Channels](#23-voice-channels)
-    - [2.3.a General Voice Rules](#23a-general-voice-rules)
-    - [2.3.b Voice Etiquette](#23b-voice-etiquette)
-    - [2.3.c Flow of Chat](#23c-flow-of-chat)
-    - [2.3.d Moderation](#23d-moderation)
   - [2.4. Bot Usage](#24-bot-usage)
   - [2.5. “On” and “Off” topic](#25-on-and-off-topic)
   - [2.6. Spam](#26-spam)
@@ -190,34 +186,31 @@ Examples of moderation expectations if this rule/automod is bypassed:
 
 ### 2.3. Voice Channels
 
-Communication via voice channels take place within the server, therefore the same rules apply there, as well as some additional domain specific rules.
+All rules apply to conduct in voice channels along with additional rules.
 
-#### 2.3.a General Voice Rules
-* All text rules apply when communicating via voice channels if applicable.
-* No live streaming any content that breaks any server/text based rules.
-
-#### 2.3.b Voice Etiquette
-* Please maintain a quiet background by muting when away or speaking with others not in VC.
-* Your voice should be the only thing audible, try to avoid background noise from keyboards, fans, TVs, etc.
-* No disruptive music or desktop audio should be played through self inputs.
-  * Streaming with sound is okay, but other users should not be forced to mute you if they do not wish to listen to your audio.
-
-#### 2.3.c Flow of Chat
-* Allow ongoing conversations to conclude before interjecting.
-  * Refrain from disrupting conversation such as yelling and obnoxious behavior.
-  * If you wish to mention something off-topic without interrupting, consider using the built-in text chat.
+* Ensure a quiet background by muting when AFK or talking to people not in VC.
+* Avoid exessive background noise from keyboards, fans, TVs, music, etc.
+* "Echoing", or reflecting other people's voices back should be minimized.
+  * This usually happens when the microphone picks up audio from open back headphones or speakers.
+  * Consider using closed back headphones or earbuds; increasing the voice activity threshold can also reduce echoing along with echo cancellation in voice settings.
+* Avoid disrupting ongoing conversations and interjecting.
+  * Refrain from obnoxious behavior such as yelling or otherwise disturbing others.
+  * If you wish to mention something off-topic or to get someone's attention without interrupting, consider using the built-in text chat for the voice channel.
+  * When first entering a chat, be mindful of the conversation currently going on. Don't interrupt an already ongoing conversation with something unrelated.
 * Leave room for others to speak, try not to dominate or take over the chat.
-  * If you want to start a new topic but people still wish to discuss the current topic, consider creating or joining a different channel.
-  * When first entering a chat, be mindful of the conversation currently going on. Don't interrupt an already ongoing conversation with something unrelated. Read the room before interjecting.
+  * If you want to start a different topic but there is already a discussion, create or join another channel.
+Read the room before interjecting.
 
-#### 2.3.d Moderation
-* Moderators have broad discretion over enforcing voice channel guidelines, but will act in the best interest of upholding the spirit of the rules.
-* Examples of moderation expectations:
-  | Expectation | Description                                                                                                                   |
-  | ----------- | ----------------------------------------------------------------------------------------------------------------------------- |
-  | **Mild**    | Moderators may ask members to adhere to guidelines. Moderators may temporarily server mute to ensure any issues are resolved. |
-  | **Medium**  | Members may be brought into tickets to talk with Moderators about their actions.                                              |
-  | **Severe**  | Members with severe infractions may be handled at the discretion of Moderators.                                               |
+#### Moderation
+Moderators have broad discretion over enforcing voice channel guidelines, but will act in the best interest of upholding the spirit of the rules.
+
+Examples of moderation expectations:
+
+| Expectation | Description                                                                                                                   |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **Mild**    | Moderators may ask members to adhere to guidelines. Moderators may temporarily server mute to ensure any issues are resolved. |
+| **Medium**  | Members may be brought into tickets to talk with Moderators about their actions.                                              |
+| **Severe**  | Members with severe infractions may be handled at the discretion of Moderators.                                               |
 
 ### 2.4. Bot Usage
 
