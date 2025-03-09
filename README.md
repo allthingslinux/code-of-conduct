@@ -30,6 +30,7 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
   - [2.1. Language Requirement: English Only](#21-language-requirement-english-only)
   - [2.2. Text Channels](#22-text-channels)
   - [2.3. Voice Channels](#23-voice-channels)
+    - [Moderation](#moderation)
   - [2.4. Bot Usage](#24-bot-usage)
   - [2.5. “On” and “Off” topic](#25-on-and-off-topic)
   - [2.6. Spam](#26-spam)
