@@ -351,7 +351,7 @@ These guidelines are ever-evolving, responding to varied circumstances. Hence, w
 
 We aim to keep you updated whenever these guidelines get revised. However, the responsibility lies with you to upkeep the essence of these rules: to maintain the safety of Discord and uphold its inclusivity.  Moreover, stay informed about server announcements and polls which might induce changes to the rules. We appreciate your contribution in this regard.
 
-Above all, exercise good judgment and common sense.
+Above all, exercise good judgement and common sense.
 
 ## Contributors
 
