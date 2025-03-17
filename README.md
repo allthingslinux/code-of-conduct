@@ -36,7 +36,7 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
   - [2.6. Spam](#26-spam)
   - [2.7. Malicious Behavior](#27-malicious-behavior)
   - [2.8. Advertising](#28-advertising)
-  - [2.9. Doxing and Personal Identifiable Information (PII)](#29-doxing-and-personal-identifiable-information-pii)
+  - [2.9. Doxxing and Personal Identifiable Information (PII)](#29-doxxing-and-personal-identifiable-information-pii)
 - [Section 3. Moderation](#section-3-moderation)
   - [3.1. Reporting](#31-reporting)
   - [3.2. Consistency](#32-consistency)
@@ -77,7 +77,11 @@ This is a Safe for Work (SFW) environment, which strictly prohibits Not Safe for
 
 1.1.b - Do not portray sexually explicit content in Member avatars, custom statuses, “About Me” texts, banners, emotes, stickers, or any other Member profile feature/expression.
 
-1.1.c - Do not share media depicting gore, excessive violence, or animal abuse.
+1.1.c - Do not share media depicting gore, excessive violence, or animal abuse. Excessive violence, for the puposes of this CoC, is defined as content that includes but is not limited to:
+
+* Real-life imagery, including gore, severe injury or death.
+* Violent ficitional content.
+* Any media that is intended to shock, disturb or incite harm.
 
 1.1.d - Do not share content that glorifies, promotes, or normalizes suicide or other acts of self-harm. Self-harm acts or threats used as a form of emotional manipulation or coercion are also prohibited.
 
@@ -175,9 +179,9 @@ Examples of moderation expectations:
 
 In our commitment to maintaining a high quality server, we must emphasize the importance of thoughtful and substantial discourse within our community. Accordingly, content that is considered low-effort/low-quality, including but not limited to messages that lack substantive value or do not encourage meaningful conversation, is prohibited.
 
-This includes "brainrot" which are words or phrases with no substantial value. (an example would be animal sounds)
+This includes "brainrot" which are words or phrases with no substantial value as well as animal sounds or incoherent strings of letters.
 
-Examples of moderation expectations if this rule/automod is bypassed:
+Examples of moderation expectations if this rule is violated and or automod is bypassed:
 
 | Expectation | Description                                                                                               |
 | ----------- | --------------------------------------------------------------------------------------------------------- |
@@ -256,7 +260,7 @@ Examples of moderation expectations:
 
 Promotion of websites, products, services, and communities is permitted if shared in a natural and non artificial manner. It is up to a Member’s own due diligence to verify the quality of any suggested resources shared.
 
-### 2.9. Doxing and Personal Identifiable Information (PII)
+### 2.9. Doxxing and Personal Identifiable Information (PII)
 
 No doxxing other Members. Keep information about other Members private. Don’t share messages, addresses, phone numbers, social media information, or anything else that contains PII. This includes people from other Discord servers.
 
