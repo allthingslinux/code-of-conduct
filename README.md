@@ -36,7 +36,7 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
   - [2.6. Spam](#26-spam)
   - [2.7. Malicious Behavior](#27-malicious-behavior)
   - [2.8. Advertising](#28-advertising)
-  - [2.9. Doxing and Personal Identifiable Information (PII)](#29-doxing-and-personal-identifiable-information-pii)
+  - [2.9. Doxxing and Personal Identifiable Information (PII)](#29-doxxing-and-personal-identifiable-information-pii)
 - [Section 3. Moderation](#section-3-moderation)
   - [3.1. Reporting](#31-reporting)
   - [3.2. Consistency](#32-consistency)
