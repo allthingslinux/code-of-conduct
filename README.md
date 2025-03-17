@@ -95,7 +95,13 @@ Examples of moderation expectations:
 
 ### 1.2. Concerns of Age
 
-Discord's minimum age for usage is 13. Therefore, we should presume that all users here are of this minimum age. Do not automatically assume that any user is 18 or older. Furthermore, this server should not be used as a dating platform, nor should any communication involve sexually suggestive language or undertones.
+1.2.a - Discord's minimum age for usage is 13. Therefore, we should presume that all users here are of this minimum age as per the Terms of Service you agree to when joining the Discord platform. Failure to comply will result in your immediate removal from the community due to concerns regarding age and safeguarding.
+
+1.2.b - Do not automatically assume that any user is 18 or older. Furthermore, this server should not be used as a dating platform, nor should any communication involve sexually suggestive language or undertones.
+
+1.2.c - Any form of pedophilia apologism, which includes encouraging, supporting or empasising with anyone who has commited such acts may result in removal from the community with no notice. This rule extends to user profiles including status', profile pictures, bio's and other ways a user may express themselves.
+
+Note - A large amount of bans made for this rule before the inclusion of 1.2.c on the 17th March 2025 are likely not 1.2.c applicable and we ask that members do not assume such.
 
 ### 1.3. Mutual Respect
 
