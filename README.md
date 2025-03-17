@@ -101,7 +101,7 @@ Examples of moderation expectations:
 
 1.2.c - Any form of pedophilia apologism, which includes encouraging, supporting or empasising with anyone who has commited such acts may result in removal from the community with no notice. This rule extends to user profiles including status', profile pictures, bio's and other ways a user may express themselves.
 
-Note - A large amount of bans made for this rule before the inclusion of 1.2.c on the 17th March 2025 are likely not 1.2.c applicable and we ask that members do not assume such.
+Please do note that a large amount of bans made for this rule before the inclusion of 1.2.c on the 17th March 2025 are likely not 1.2.c applicable and we ask that members do not assume such.
 
 ### 1.3. Mutual Respect
 
