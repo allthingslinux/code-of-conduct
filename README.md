@@ -378,7 +378,7 @@ These guidelines are ever-evolving, responding to varied circumstances. Hence, w
 
 Moderator actions may cite rules from this document. Please be aware that section numbers may change over time and may not be the same when the action was issued. Sections referenced do not imply their respective subsections (e.g. citing 1.2 does not imply 1.2.c).
 
-We aim to keep you updated whenever these guidelines get revised. However, the responsibility lies with you to upkeep the essence of these rules: to maintain the safety of Discord and uphold its inclusivity.  Moreover, stay informed about server announcements and polls which might induce changes to the rules. We appreciate your contribution in this regard.
+We aim to keep you updated whenever these guidelines get revised. However, the responsibility lies with you to upkeep the essence of these rules: to maintain the safety of Discord and uphold its inclusivity. Stay informed about server announcements and polls which might induce changes to the rules. We appreciate your contribution in this regard.
 
 Above all, exercise good judgment and common sense.
 
