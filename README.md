@@ -62,7 +62,7 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
 
 ### Discord Community Guidelines and Terms of Service
 
-Your presence in this server implies accepting Discord’s Community Guidelines and Terms of Service, including all further changes. These changes might be done at any time with or without notice, it is your responsibility to check and follow them.
+Your presence in this server implies accepting Discord’s Community Guidelines and Terms of Service, including all further changes. These changes might be done at any time with or without notice, it is your responsibility to consistently review and follow them.
 
 - [Discord Community Guidelines](https://discord.com/guidelines)
 - [Discord Terms of Service](https://discord.com/terms)
@@ -71,7 +71,7 @@ Your presence in this server implies accepting Discord’s Community Guidelines 
 
 ### 1.1. SFW Policy
 
-This is a Safe for Work (SFW) environment, which strictly prohibits Not Safe for Work (NSFW) content and discussions. NSFW usually refers to sexually explicit content, but the definition is expanding to include a broader range of sensitive topics over time. Although Discord allows servers to create designated NSFW channels, it's worth noting that this platform does not offer such channels.
+This is a Safe for Work (SFW) environment, which strictly prohibits Not Safe for Work (NSFW) content and discussions. NSFW usually refers to sexually explicit content, however the definition is expanding to include a broader range of sensitive topics over time. Although Discord allows servers to create designated NSFW channels, it's worth noting that this platform does not offer such channels.
 
 1.1.a - Do not share sexually explicit content in messages or media.
 
@@ -93,15 +93,30 @@ Examples of moderation expectations:
 | **Medium**  | Warns, tickets, and timeouts ranging from 1hr-12 hours.                      |
 | **Severe**  | Bans are to be expected at this stage.                                       |
 
-### 1.2. Concerns of Age
+### 1.2. Concerns of Age and Appropriate Conduct
 
-1.2.a - Discord's minimum age for usage is 13. Therefore, we should presume that all users here are of this minimum age as per the Terms of Service you agree to when joining the Discord platform. Failure to comply will result in your immediate removal from the community due to concerns regarding age and safeguarding.
+1.2.a - Age Requirements and Presumptions
 
-1.2.b - Do not automatically assume that any user is 18 or older. Furthermore, this server should not be used as a dating platform, nor should any communication involve sexually suggestive language or undertones.
+* Members must be at least 13 years old, in line with Discord's Terms of Service. Our server assumes all members meet this age requirement, though we do not verify ages.
+* Members are treated as if they are within the 13-17 age range unless verified otherwise. Do not assume any member is an adult based on their online persona or profile.
 
-1.2.c - Any form of pedophilia apologism, which includes encouraging, supporting or empasising with anyone who has commited such acts may result in removal from the community with no notice. This rule extends to user profiles including status', profile pictures, bio's and other ways a user may express themselves.
+1.2.b - Conduct Guidelines
 
-Please do note that a large amount of bans made for this rule before the inclusion of 1.2.c on the 17th March 2025 are likely not 1.2.c applicable and we ask that members do not assume such.
+This server is for platonic and professional interactions only. The following behaviors are prohibited:
+
+* Using sexually suggestive language or innuendo.
+* Soliciting romantic or sexual relationships.
+* Sharing sexually explicit or suggestive content.
+* Engaging in grooming or predatory behavior towards minors.
+* Sharing personal information that could identify a minor.
+* Discussing sexual topics that might discomfort minors.
+* Attempting to bypass rules to engage in inappropriate interactions.
+
+1.2.c - Protecting Minors
+
+* The safety of minors is our top priority. Any behavior that risks their safety will be dealt with promptly. Members should report any suspected inappropriate behavior regarding minors.
+* Any form of pedophilia apologism, which includes encouraging, supporting, or sympathizing with anyone who has commited such acts, may result in removal from the community. This extends to user profiles including statuses, profile pictures, bios and other ways a member may express themselves.
+* Moderators will interpret interactions using context and judgment. Regardless of age claims, inappropriate actions towards minors will result in severe consequences.
 
 ### 1.3. Mutual Respect
 
@@ -119,7 +134,9 @@ These unique characteristics include age, caste, color, disability, ethnicity, f
 
 Threats, whether direct, indirect, or implied, towards an individual or a group, are not tolerated.
 
-Promoting or supporting violent extremism is also forbidden. Glorifying violent incidents, supporting those who perpetrate violent acts, or promoting conspiracy theories that may incite violence towards others, are all prohibited.
+Promoting or supporting violent extremism is forbidden. Glorifying violent incidents, supporting those who perpetrate violent acts, or promoting conspiracy theories that may incite violence towards others, are all prohibited.
+
+Do not share media depicting harmful or offensive language and/or content, this can include or is not limited to; Offensive jokes or comments with the intention of causing harm or "drama". This may also include language that promotes exclusion or marginalization.
 
 Examples of moderation expectations:
 
