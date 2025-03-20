@@ -21,7 +21,7 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
   - [Discord Community Guidelines and Terms of Service](#discord-community-guidelines-and-terms-of-service)
 - [Section 1. Essentials](#section-1-essentials)
   - [1.1. SFW Policy](#11-sfw-policy)
-  - [1.2. Concerns of Age](#12-concerns-of-age)
+  - [1.2. Concerns of Age and Appropriate Conduct](#12-concerns-of-age-and-appropriate-conduct)
   - [1.3. Mutual Respect](#13-mutual-respect)
   - [1.4. Expression, Discourse, and Debates](#14-expression-discourse-and-debates)
   - [1.5. Avoidance of Elitism](#15-avoidance-of-elitism)
