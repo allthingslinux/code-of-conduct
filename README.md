@@ -26,6 +26,7 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
   - [1.4. Expression, Discourse, and Debates](#14-expression-discourse-and-debates)
   - [1.5. Avoidance of Elitism](#15-avoidance-of-elitism)
   - [1.6. Respecting Authority & Rules](#16-respecting-authority--rules)
+  - [1.7. Piracy & Penetration Testing](#17-piracy--penetration-testing)
 - [Section 2. Participation](#section-2-participation)
   - [2.1. Language Requirement: English Only](#21-language-requirement-english-only)
   - [2.2. Text Channels](#22-text-channels)
@@ -181,6 +182,17 @@ Examples of moderation expectations:
 ### 1.6. Respecting Authority & Rules
 
 Should a Moderator request you to modify your behavior, please be cooperative. In case of disagreements or errors with said moderation, we encourage you to submit a support ticket instead of publicly escalating the situation. Any rule violation should be reported via ticket, leaving the resolution to an authorized Moderator. While we discourage backseat moderating, we hope that members will help us maintain a healthy environment by guiding others if they are unaware of the rules or suggesting that certain behavior is inappropriate.
+
+### 1.7. Piracy & Penetration Testing
+
+Discussions about piracy, penetration testing, and ethical hacking are allowed strictly for educational and informational purposes. However, sharing, facilitating, or encouraging illegal activities in any form is strictly prohibited. Discussions of aforementioned topics must remain neutral, educational, and should not promote, endorse, or instruct on illegal activities.
+
+* Do not share, request, or distribute pirated software, games, movies, music, or any other type of copyrighted material.
+* Do not share or request links to torrent websites, warez forums, or any other platforms known for distributing illegal content.
+* Do not discuss or promote methods for bypassing digital rights management (DRM), cracking software, or other forms of copyright circumvention.
+* Do not promote or ask for support on unauthorized access, data breaches, credential stuffing, phishing, malware development, or any other illegal hacking activities.
+* Do not ask for or give support to any type of penetration testing or ethical hacking questions.
+  * Discussion on these topics is allowed, however talking about on how to actually do them is strictly prohibited.
 
 ## Section 2. Participation
 
