@@ -275,6 +275,7 @@ Examples of moderation expectations:
 * Do not attempt to bypass any blocked words.
 * Do not plan or discuss attempts to raid other servers.
 * Do not record voice channel conversations without consent.
+  * If a rule violation occurs during a voice call, you may request permission to record by opening a ticket using `/ticket`. Any recordings must be shared exclusively within the same ticket.
 * Do not scam, hack, or make attempts to do such.
 * Do not send any malicious and harmful links or files, or anything that jeopardizes the security of others.
 * Encouraging the breaking of rules, inciting others to be blatantly rude and offensive, or otherwise promoting and/or encouraging conflicts between other members is prohibited.
