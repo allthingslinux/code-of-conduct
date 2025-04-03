@@ -185,7 +185,7 @@ Should a Moderator request you to modify your behavior, please be cooperative. I
 
 ### 1.7. Piracy & Penetration Testing
 
-Discussions about piracy, penetration testing, and ethical hacking are allowed strictly for educational and informational purposes. However, sharing, facilitating, or encouraging illegal activities in any form is strictly prohibited. Discussions of aforementioned topics must remain neutral, educational, and should not promote, endorse, or instruct on illegal activities.
+Discussions about piracy, penetration testing, and ethical hacking are allowed strictly for educational and informational purposes. However, sharing, facilitating, or encouraging illegal activities in any form is strictly prohibited. Discussions of aforementioned topics must remain neutral, educational, and should not promote, endorse, display or instruct on illegal activities.
 
 * Do not share, request, or distribute pirated software, games, movies, music, or any other type of copyrighted material.
 * Do not share or request links to torrent websites, warez forums, or any other platforms known for distributing illegal content.
