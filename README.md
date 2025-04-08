@@ -5,398 +5,302 @@
 </p>
 
 
-<h1 align="center">All Things Linux</h1>
 
-Welcome to "All Things Linux," a vibrant and inclusive community dedicated to exploring the vast and varied world of Linux. Our mission is to provide a friendly and supportive environment where enthusiasts, professionals, hobbyists, and newcomers alike can share their passion, knowledge, and experiences with Linux. Whether it's discussing the newest distributions, offering tips and tricks, troubleshooting, or celebrating the open-source spirit, "All Things Linux" is a place for collaboration, learning, and fostering a deeper appreciation for an operating system that powers much of the digital world. Join us as we navigate the limitless possibilities of Linux together!
+All Things Linux Code of Conduct Version 1 (ATL-CoC1)
+
+Copyright (C) [2025] [All Things Linux]
+
+This document (hereinafter “ATL-CoC1”) establishes that upon participation in the All Things Linux community—whether as a user of digital platforms, contributor of discourse, or participant in community events—each Member is deemed to have accepted and assumed COMPLETE RESPONSIBILITY for compliance with all stipulated guidelines herein. Payment, voluntary association, or any form of acquisition of community privileges shall be considered an acceptance of these terms.
+
+                             PREAMBLE
+
+Given the rapid evolution of digital communication and the necessity of maintaining respectful interactions in modern online communities, it is imperative that All Things Linux adopts a Code of Conduct that ensures a safe, respectful, and inclusive environment. ATL-CoC1 articulates clear guidelines defining the rights and obligations of community participants, codifying behavioral expectations, participation standards, and the enforcement of these regulations for the benefit of the entire community.
+
+                             DEFINITIONS
+                             
+0.	Definitions.
+ 
+   a) “Member” denotes any individual who has joined or participates in the All Things Linux community, including, without limitation, users, contributors, and observers.
+   
+   b) “Moderator” shall mean any Member vested with the authority to enforce ATL-CoC1, including but not limited to actions such as moderating discourse and issuing punishments.
+   
+   c) “Administrator” refers to those Members empowered to exercise higher-level oversight, including dispute resolution and final enforcement actions.
+   
+   d) “Discord Platform” means the digital service provided by Discord Inc., including all channels, servers, and associated media, through which the community operates.
+   
+   e) “SFW Environment” is defined as the prescribed “Safe For Work” setting, which prohibits Not Safe For Work (NSFW) content within the community.
+   
+   f) “NSFW Content” shall encompass any media or textual content deemed sexually explicit, graphically violent, or otherwise unsuitable for a general audience, as further enumerated herein.
+   
+   g) “Ticket” signifies any formal request or report submitted by a Member seeking Moderator review or dispute resolution.
+   
+   h) “Automod” refers to the automated moderation tools deployed within the community to prevent unequivocally harmful or disruptive content.
+   
+   i) “Complete Compliance” implies full adherence to the guidelines set forth, with any breach considered a violation of community trust and legal decorum.
+   
+
+                             SECTION 1 – ESSENTIALS
+                             
+
+1.1 SFW Environment and Prohibited Content.
+
+   a) The community is hereby established as a SFW Environment. Any and all NSFW content—including, but not limited to, sexually explicit images, texts, avatars, custom statuses, or any form of profile expression—is strictly prohibited.
+   
+   b) Media depicting gore, excessive violence (as defined herein to include real-life imagery of severe injury or death and content intended to shock or disturb), or any depiction of animal abuse is likewise disallowed.
+   
+   c) Content that glorifies, promotes, or normalizes self-harm, suicide, or other acts of personal endangerment, including any act intended for emotional manipulation, shall be categorically forbidden.
+   
+   d) Moderation Expectation:
+   
+      - Mild: Initial instances shall result in the issuance of a formal warning, documented via a Ticket.
+      
+      - Medium: Recurrent behaviors may result in timeouts ranging from one hour up to twelve hours.
+      
+      - Severe: Persistent or egregious violations will be subject to banishment from the community.
+
+      
+
+1.2 Age and Appropriate Conduct.
+
+   a) Age Requirements:
+   
+      i. All Members must be, at a minimum, 13 years old as per the Discord Platform’s Terms of Service.
+      
+      ii. In the absence of explicit verification, Members are presumed to be within the 13–17 age range for all interactions.
+      
+   b) Conduct Toward Minors:
+   
+      i. Communications and conduct toward minors shall be strictly platonic, professional, and devoid of any sexually suggestive language or explicit propositions.
+      
+      ii. Any behavior interpreted as grooming, predatory, or otherwise endangering the well-being of minors is strictly inadmissible and subject to immediate and severe punitive measures.
+      
+      iii. The community mandates reporting and investigation of any such conduct with absolute expediency.
+      
+
+1.3 Mutual Respect and Non-discrimination.
+
+   a) All interactions among Members are expected to be governed by mutual respect. This includes avoiding unwarranted arrogance, bullying, or any form of personal humiliation.
+   
+   b) Harassment—including doxxing, hate speech, and discriminatory language targeting any unique characteristic (e.g., age, gender, race, disability, etc.)—is expressly prohibited.
+   
+   c) Threats, whether direct, implied, or indirect, and any form of support for violent extremism or conspiracy theories that incite harm shall be deemed violations of this Code.
+   
+   d) Moderation Expectation:
+   
+      - Mild: Informal admonition via a Ticket with a request for behavioral adjustment.
+      
+      - Medium: Formal reprimand and issuance of a timeout ranging from one to twelve hours.
+      
+      - Severe: Consistent or grave abuse shall result in permanent removal from the community.
+
+
+1.4 Expression, Discourse, and Debates.
+
+   a) Free expression of ideas and constructive debate is promoted; however, discussions on sensitive topics must be undertaken responsibly.
+   
+   b) Controversial topics, as determined by community consensus, may be subject to restrictions to preserve a serene conversational environment.
+   
+   c) Any discourse that turns repetitive, excessively heated, or disruptive shall invoke Moderator intervention, including redirection or cessation of discussion.
+
+
+1.5 Avoidance of Elitism.
+
+   a) Derogatory commentary or disparagement based on Members’ choices—whether in operating systems, desktop environments, or peripheral interests—is strictly forbidden.
+   
+   b) Incidents of elitism shall be managed following the tiered moderation policy (refer to Section 1.3).
+   
 
----
-
-# Code of Conduct
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
+1.6 Respect for Authority and Internal Guidelines.
 
-- [Preface](#preface)
-  - [Discord Community Guidelines and Terms of Service](#discord-community-guidelines-and-terms-of-service)
-- [Section 1. Essentials](#section-1-essentials)
-  - [1.1. SFW Policy](#11-sfw-policy)
-  - [1.2. Concerns of Age and Appropriate Conduct](#12-concerns-of-age-and-appropriate-conduct)
-  - [1.3. Mutual Respect](#13-mutual-respect)
-  - [1.4. Expression, Discourse, and Debates](#14-expression-discourse-and-debates)
-  - [1.5. Avoidance of Elitism](#15-avoidance-of-elitism)
-  - [1.6. Respecting Authority & Rules](#16-respecting-authority--rules)
-  - [1.7. Piracy & Penetration Testing](#17-piracy--penetration-testing)
-- [Section 2. Participation](#section-2-participation)
-  - [2.1. Language Requirement: English Only](#21-language-requirement-english-only)
-  - [2.2. Text Channels](#22-text-channels)
-  - [2.3. Voice Channels](#23-voice-channels)
-    - [Moderation](#moderation)
-  - [2.4. Bot Usage](#24-bot-usage)
-  - [2.5. “On” and “Off” topic](#25-on-and-off-topic)
-  - [2.6. Spam](#26-spam)
-  - [2.7. Malicious Behavior](#27-malicious-behavior)
-  - [2.8. Advertising](#28-advertising)
-  - [2.9. Doxxing and Personal Identifiable Information (PII)](#29-doxxing-and-personal-identifiable-information-pii)
-- [Section 3. Moderation](#section-3-moderation)
-  - [3.1. Reporting](#31-reporting)
-  - [3.2. Consistency](#32-consistency)
-  - [3.3. Transparency](#33-transparency)
-  - [3.4. Enforcement](#34-enforcement)
-    - [Hard Rules](#hard-rules)
-    - [Case by Case](#case-by-case)
-    - [Automod](#automod)
-  - [3.5. Punishment](#35-punishment)
-    - [3.5.a - Moderator Privileges](#35a---moderator-privileges)
-    - [Additional Actions](#additional-actions)
-    - [3.5.b - Administrator Privileges](#35b---administrator-privileges)
-  - [3.6. Punishment Evasion](#36-punishment-evasion)
-  - [3.7. Fairness](#37-fairness)
-    - [Bias](#bias)
-  - [3.8. Appeals](#38-appeals)
-- [Notice](#notice)
-- [Contributors](#contributors)
+   a) Directives issued by any Moderator shall be followed without public dispute.
+   
+   b) Disagreements or appeals regarding Moderator actions must be relayed exclusively via a Ticket, refraining from escalation in public forums.
+   
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+1.7 Discussions of Piracy, Penetration Testing, and Ethical Hacking.
 
-## Preface
+   a) Permissible solely for educational and informational purposes and must be conducted in a neutral tone devoid of endorsement for illegal activities.
+   
+   b) Any facilitation, distribution, or instruction on executing any illegal activities, including but not limited to copyright infringement or unauthorized access, is categorically prohibited.
+   
 
-### Discord Community Guidelines and Terms of Service
+                             SECTION 2 – PARTICIPATION
+                             
 
-Your presence in this server implies accepting Discord’s Community Guidelines and Terms of Service, including all further changes. These changes might be done at any time with or without notice, it is your responsibility to consistently review and follow them.
+2.1 Language Requirement.
 
-- [Discord Community Guidelines](https://discord.com/guidelines)
-- [Discord Terms of Service](https://discord.com/terms)
+   a) The official language of communication within the community is English. All text, voice, and support communications shall be conducted exclusively in English.
+   
+   b) Moderation Expectation: Non-compliance may result in formal warnings, Ticket-mediated discussions, or more severe actions upon repetition.
+   
 
-## Section 1. Essentials
+2.2 Textual Engagement and Quality Standards.
 
-### 1.1. SFW Policy
+   a) All textual communications (hereafter “Text Channels”) shall reflect thoughtful and substantive contributions.
+   
+   b) Posting low-effort, low-quality content—including “brainrot”, incoherent strings, or excessive emulation of animalistic sounds—is expressly disallowed.
+   
+   c) Moderation Expectation:
+   
+      - Mild: A request to refrain from such behavior.
+      
+      - Medium: Issue a temporary timeout.
+      
+      - Severe: Persistent disregard may lead to formal warnings issued via a Ticket.
 
-This is a Safe for Work (SFW) environment, which strictly prohibits Not Safe for Work (NSFW) content and discussions. NSFW usually refers to sexually explicit content, however the definition is expanding to include a broader range of sensitive topics over time. Although Discord allows servers to create designated NSFW channels, it's worth noting that this platform does not offer such channels.
 
-1.1.a - Do not share sexually explicit content in messages or media.
+2.3 Oral Communications in Voice Channels.
 
-1.1.b - Do not portray sexually explicit content in Member avatars, custom statuses, “About Me” texts, banners, emotes, stickers, or any other Member profile feature/expression.
+   a) Engagement in Voice Channels shall be conducted with consideration for auditory clarity and mutual participation.
+   
+   b) Requirements include: muting when inactive, minimizing disruptive background noise, and refraining from dominating the conversation.
+   
+   c) Recording of any Voice Channel conversations is prohibited unless expressly permitted via a formal Ticket request.
+   
+   d) Moderation Expectation: Violations may result in mute actions, Ticket referrals, or other punitive measures at the Moderator’s discretion.
+   
 
-1.1.c - Do not share media depicting gore, excessive violence, or animal abuse. Excessive violence, for the puposes of this CoC, is defined as content that includes but is not limited to:
+2.4 Utilization of Automated Services (“Bot Usage”).
 
-* Real-life imagery, including gore, severe injury or death.
-* Violent ficitional content.
-* Any media that is intended to shock, disturb or incite harm.
+   a) Commands intended for Bots shall be restricted to designated channels.
+   
+   b) Abusive or excessive Bot usage that disrupts the community environment shall invoke escalation to Moderator oversight.
+   
 
-1.1.d - Do not share content that glorifies, promotes, or normalizes suicide or other acts of self-harm. Self-harm acts or threats used as a form of emotional manipulation or coercion are also prohibited.
+2.5 Adherence to Channel Topics.
 
-Examples of moderation expectations:
+   a) Members shall restrict discourse to the purpose of the designated channel. Off-topic discussions should be redirected to appropriate channels or separate threads.
+   
+   b) Derailing support channels or public commentaries on Moderator activities are disallowed; any grievances must be submitted via Ticket.
+   
 
-| Expectation | Description                                                                  |
-| ----------- | ---------------------------------------------------------------------------- |
-| **Mild**    | First offenses will result in Members being brought into tickets and warned. |
-| **Medium**  | Warns, tickets, and timeouts ranging from 1hr-12 hours.                      |
-| **Severe**  | Bans are to be expected at this stage.                                       |
+2.6 Prohibition Against Spam.
 
-### 1.2. Concerns of Age and Appropriate Conduct
+   a) The sending of unsolicited, disruptive, or excessive messages, including overuse of CAPS, mass mentions, or rapid cross-posting, is forbidden.
+   
+   b) Media that may pose medical risks (e.g., strobe effects) must be appropriately flagged or avoided.
+   
+   c) Unsolicited private messaging for support purposes is disallowed; all support engagements are to remain within the Ticket system.
 
-1.2.a - Age Requirements and Presumptions
+   
 
-* Members must be at least 13 years old, in line with Discord's Terms of Service. Our server assumes all members meet this age requirement, though we do not verify ages.
-* Members are treated as if they are within the 13-17 age range unless verified otherwise. Do not assume any member is an adult based on their online persona or profile.
+2.7 Restriction on Malicious Behavior.
 
-1.2.b - Conduct Guidelines
+   a) Circumvention of blocked words or other Automod parameters is prohibited.
+   
+   b) Planning or inciting external raids, scams, or hacks is strictly forbidden.
+   
+   c) Distribution of harmful links or files is subject to immediate punitive measures.
 
-This server is for platonic and professional interactions only. The following behaviors are prohibited:
+   
 
-* Using sexually suggestive language or innuendo.
-* Soliciting romantic or sexual relationships.
-* Sharing sexually explicit or suggestive content.
-* Engaging in grooming or predatory behavior towards minors.
-* Sharing personal information that could identify a minor.
-* Discussing sexual topics that might discomfort minors.
-* Attempting to bypass rules to engage in inappropriate interactions.
+2.8 Advertising and External Promotion.
 
-1.2.c - Protecting Minors
+   a) Promotion of external websites, products, services, or communities is allowed only if shared in a naturally integrated manner and not deemed artificial.
+   
+   b) Members are encouraged to independently verify promoted resources.
 
-* The safety of minors is our top priority. Any behavior that risks their safety will be dealt with promptly. Members should report any suspected inappropriate behavior regarding minors.
-* Any form of pedophilia apologism, which includes encouraging, supporting, or sympathizing with anyone who has commited such acts, may result in removal from the community. This extends to user profiles including statuses, profile pictures, bios and other ways a member may express themselves.
-* Moderators will interpret interactions using context and judgment. Regardless of age claims, inappropriate actions towards minors will result in severe consequences.
+   
 
-### 1.3. Mutual Respect
+2.9 Protection of Personal Identifiable Information (PII).
 
-Our server prioritizes respect for each other above all else.
+   a) Any attempt at doxxing or the exposure of PII—including addresses, phone numbers, or social media identifiers—is strictly forbidden.
+   
+   b) Members shall exercise due care when disclosing personal information, and risk is assumed solely by the individual.
 
-Maintain a respectful and humble attitude in all interactions. Avoid displaying unwarranted arrogance or belittling others.
+   
 
-Refrain from excessive emotional oversharing. Be considerate of the emotional impact your words may have on others.
+                             SECTION 3 – MODERATION
+                             
 
-Harassment of any form is strictly prohibited. Discord is designed to be a welcoming space for everyone, and harassment hinders the growth of healthy communities. Behavior, such as continuous bullying, doxxing, or raiding is not permitted.
+3.1 Reporting Mechanism.
 
-Hate speech or any form of discriminatory conduct is not accepted here. Hate speech is defined as any expression that instigates violence or promotes prejudice against others based on their unique characteristics.
+   a) Members shall report any rule violations via a Ticket with detailed, concrete evidence (including context, links, or Member IDs).
+   
+   b) Reports based solely on hearsay or unverified rumors shall be disregarded.
 
-These unique characteristics include age, caste, color, disability, ethnicity, familial responsibilities, gender, gender identity, housing status, national origin, race, refugee or immigration status, religious affiliation, serious illness, sex, sexual orientation, socioeconomic class and status, income source, status as a victim of domestic violence, sexual violence, or stalking, and weight and size.
 
-Threats, whether direct, indirect, or implied, towards an individual or a group, are not tolerated.
 
-Promoting or supporting violent extremism is forbidden. Glorifying violent incidents, supporting those who perpetrate violent acts, or promoting conspiracy theories that may incite violence towards others, are all prohibited.
+3.2 Uniform Application of Guidelines.
 
-Do not share media depicting harmful or offensive language and/or content, this can include or is not limited to; Offensive jokes or comments with the intention of causing harm or "drama". This may also include language that promotes exclusion or marginalization.
+   a) All sections of ATL-CoC1 apply uniformly to every Member, including Moderators and Administrators.
+   
+   b) Any evidence to the contrary, including any unfitness of a community Owner, may prompt a request for change in ownership rights.
 
-Examples of moderation expectations:
 
-| Expectation | Description                                                                  |
-| ----------- | ---------------------------------------------------------------------------- |
-| **Mild**    | Pulling Members into tickets and requesting that they stop this behavior.    |
-| **Medium**  | Reprimand within tickets and timeouts ranging from 1hr-12hr                  |
-| **Severe**  | Severe or repeated offenses may result in bans.                              |
 
-### 1.4. Expression, Discourse, and Debates
+3.3 Auditability and Transparency.
 
-Members are free to express themselves and offer constructive criticism and input. We celebrate and encourage our diverse perspectives, backgrounds, and opinions.
+   a) A comprehensive Audit Log of Moderator actions shall be maintained and made available to Members, documenting all enforcement activities.
+   
+   b) Such records ensure transparency in the application of ATL-CoC1.
+   
 
-However, this community upholds a model of responsible communication. While we lean into the courage of discussions, we urge members to refrain from initiating sensitive topics that might trigger conflict, perpetuate hatred, or incite violence.
+3.4 Modes of Enforcement.
 
-Avoid offering or seeking professional advice, including but not limited to medical, legal, therapeutic, religious, or financial matters.
+Enforcement actions shall be executed under one or more of the following frameworks:
 
-Based on feedback from a community poll, we've decided to limit discussions on controversial topics. We believe this step will foster a more serene and inclusive environment for everyone. See here for more information: [Controversial Topics Poll](https://canary.discord.com/channels/1172245377395728464/1172343581495795752/1176257288982503474)
+   a) Hard Rules: Violations deemed instantly bannable as defined by ATL-CoC1.
+   
+   b) Case by Case: Discretionary enforcement based on nature and frequency of violations, subject to group moderation review.
+   
+   c) Automod Intervention: Automated filters shall preclude unequivocally severe or hateful/offensive language. Any failure in Automod resulting in suppression of natural conversation must be reported via Ticket.
+   
 
-However, bear in mind that if any conversation is overly repetitive, heated, disruptive, toxic, or indecent, moderators have the discretion to, intervene, redirect, advise, or halt the conversation. These terms are not limited to a specific conversation but the mentioning of said topic. Our aim is not to suppress free speech but to keep an appropriate chatroom while promoting open, respectful, and harmonious conversations among all members.
+3.5 Punishment and Sanctions.
 
-Examples of moderation expectations:
 
-| Expectation | Description                                                                                             |
-| ----------- | ------------------------------------------------------------------------------------------------------- |
-| **Mild**    | Asking Members to wrap up or end conversations.                                                         |
-| **Medium**  | Forcing conversations to end.                                                                           |
-| **Severe**  | Members with repetitive offenses may receive timeouts and be addressed in tickets within 5m to 2 hours. |
+3.5.a Moderator Actions.
 
-### 1.5. Avoidance of Elitism
+   a) Upon detecting any infraction, Moderators are authorized to administer any or all of the following:
+   
+      i. Warnings: Permanent notations attached to a Member’s record, detailing the infraction.
+      
+      ii. Timeouts: Temporary suspension of community privileges, allowing a cooling-off period.
+      
+      iii. Kicks: Removal from community sessions, though typically reserved as a last resort.
+      
+      iv. Bans: Either temporary or permanent expulsion from the community for severe or recurrent violations.
+      
+   b) Moderators additionally reserve the right to delete messages, modify Member profiles (including nicknames) that contravene the SFW policy, or enact any adjustments deemed necessary, provided such actions are duly justified and subject to team review.
 
-Members should avoid disparaging others on the basis of their choices, be it their choice of operating system, desktop environment, or other interests outside the main topics of the server. While friendly rivalry and banter can be elements of online communities, we don't welcome deliberate and obnoxious elitism. Respect for each other's preferences and diversity is a cardinal rule in our server.
 
-Examples of moderation expectations:
+3.5.b Administrator Oversight.
 
-| Expectation | Description                                                                                                                                              |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Mild**    | Occasional or every now and then behavior usually doesn't require active moderation.                                                                     |
-| **Medium**  | If a Member is repetitively being rude or unhealthy in their behavior, Moderators may ask them to stop.                                                  |
-| **Severe**  | If the behavior becomes a significant problem, Moderators may pull Members into tickets and respond accordingly based on their willingness to cooperate. |
+   a) Administrators shall resolve any disputes related to conduct by employing context, interpretation, and consensus.
+   
+   b) They retain the exclusive authority for terminating Members or modifying the Code where conduct extends beyond disciplinary non-compliance.
+   
 
-### 1.6. Respecting Authority & Rules
+3.6 Prohibition Against Punishment Evasion.
 
-Should a Moderator request you to modify your behavior, please be cooperative. In case of disagreements or errors with said moderation, we encourage you to submit a support ticket instead of publicly escalating the situation. Any rule violation should be reported via ticket, leaving the resolution to an authorized Moderator. While we discourage backseat moderating, we hope that members will help us maintain a healthy environment by guiding others if they are unaware of the rules or suggesting that certain behavior is inappropriate.
+   a) Attempts to evade penalties—such as adopting alternate accounts to circumvent restrictions—shall result in immediate and irrevocable bans.
+   
 
-### 1.7. Piracy & Penetration Testing
+3.7 Commitment to Fairness.
 
-Discussions about piracy, penetration testing, and ethical hacking are allowed strictly for educational and informational purposes. However, sharing, facilitating, or encouraging illegal activities in any form is strictly prohibited. Discussions of aforementioned topics must remain neutral, educational, and should not promote, endorse, display or instruct on illegal activities.
+   a) All Moderator decisions, particularly those influenced by individual judgment, shall be subject to audit.
+   
+   b) Any perceived bias may be contested via the established Ticket system, and Moderator actions shall be justified in tandem with community standards.
+   
 
-* Do not share, request, or distribute pirated software, games, movies, music, or any other type of copyrighted material.
-* Do not share or request links to torrent websites, warez forums, or any other platforms known for distributing illegal content.
-* Do not discuss or promote methods for bypassing digital rights management (DRM), cracking software, or other forms of copyright circumvention.
-* Do not promote or ask for support on unauthorized access, data breaches, credential stuffing, phishing, malware development, or any other illegal hacking activities.
-* Do not ask for or give support to any type of penetration testing or ethical hacking questions.
-  * Discussion on these topics is allowed, however talking about on how to actually do them is strictly prohibited.
+3.8 Appeals Process.
 
-## Section 2. Participation
+   a) Members contesting disciplinary measures may submit an appeal via Ticket or directly to the Moderator team.
+   
+   b) Appeals for Members banned from accessing the Ticket system should be directed to the appropriate appeal interface at: https://appeals.wickbot.com/.
+   
 
-### 2.1. Language Requirement: English Only
+                             NOTICE
+                             
 
-The language used in this server is English only. Please use English in text, voice, and support channels.
+This document does not purport to capture every conceivable scenario. Individual circumstances shall be evaluated in their entirety, and any attempts to exploit potential ambiguities, loopholes, or oversight in ATL-CoC1 are strictly prohibited. As the digital landscape evolves, modifications may be necessary; however, the onus is on each Member to remain informed regarding updates through official community channels and announcements.
 
-Examples of moderation expectations:
 
-| Expectation | Description                                                                                            |
-| ----------- | ------------------------------------------------------------------------------------------------------ |
-| **Mild**    | Members will be kindly asked in the chat they are spreading non-English messages to keep it to English |
-| **Medium**  | Repeated offenses may result in Members being pulled into tickets                                      |
-| **Severe**  | If a Member is unwilling to comply, Moderators may act as they see fit.                                |
+                             CONTRIBUTORS
 
-### 2.2. Text Channels
-
-* All rules apply when communicating via text channels.
-
-In our commitment to maintaining a high quality server, we must emphasize the importance of thoughtful and substantial discourse within our community. Accordingly, content that is considered low-effort/low-quality, including but not limited to messages that lack substantive value or do not encourage meaningful conversation, is prohibited.
-
-This includes "brainrot" which are words or phrases with no substantial value as well as animal sounds or incoherent strings of letters.
-
-Examples of moderation expectations if this rule is violated and or automod is bypassed:
-
-| Expectation | Description                                                                                               |
-| ----------- | --------------------------------------------------------------------------------------------------------- |
-| **Mild**    | Members will be kindly asked in the chat to not post low-effort/low-quality content or bypass automod     |
-| **Medium**  | Repeated offenses may result in Members being timed out for a period of time at the moderators discretion |
-| **Severe**  | If a Member is unwilling to comply, they will be ticketed and warned                                      |
-
-### 2.3. Voice Channels
-
-All rules apply to conduct in voice channels along with additional rules.
-
-* Ensure a quiet background by muting when AFK or talking to people not in VC.
-* Avoid exessive background noise from keyboards, fans, TVs, music, etc.
-* "Echoing", or reflecting other people's voices back should be minimized.
-  * This usually happens when the microphone picks up audio from open back headphones or speakers.
-  * Consider using closed back headphones or earbuds; increasing the voice activity threshold can also reduce echoing along with echo cancellation in voice settings.
-* Avoid disrupting ongoing conversations and interjecting.
-  * Refrain from obnoxious behavior such as yelling or otherwise disturbing others.
-  * If you wish to mention something off-topic or to get someone's attention without interrupting, consider using the built-in text chat for the voice channel.
-  * When first entering a chat, be mindful of the conversation currently going on. Don't interrupt an already ongoing conversation with something unrelated.
-* Leave room for others to speak, try not to dominate or take over the chat.
-  * If you want to start a different topic but there is already a discussion, create or join another channel.
-Read the room before interjecting.
-* Do not record voice channel conversations without consent.
-  * If a rule violation occurs during a voice call, you may request permission to record by opening a ticket using `/ticket`. Any recordings must be shared exclusively within the same ticket.
-  
-#### Moderation
-Moderators have broad discretion over enforcing voice channel guidelines, but will act in the best interest of upholding the spirit of the rules.
-
-Examples of moderation expectations:
-
-| Expectation | Description                                                                                                                   |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| **Mild**    | Moderators may ask members to adhere to guidelines. Moderators may temporarily server mute to ensure any issues are resolved. |
-| **Medium**  | Members may be brought into tickets to talk with Moderators about their actions.                                              |
-| **Severe**  | Members with severe infractions may be handled at the discretion of Moderators.                                               |
-
-### 2.4. Bot Usage
-
-* Bot commands should be used in the bot commands channel.
-* If a Member is found spamming, misusing, or abusing any Bot related features in the server, please report this via ticket.
-
-Examples of moderation expectations:
-
-| Expectation | Description                                                                           |
-| ----------- | ------------------------------------------------------------------------------------- |
-| **Mild**    | Members may be asked by Moderators to adhere to guidelines.                           |
-| **Medium**  | Members may be brought into tickets to talk with Moderators about their actions.      |
-| **Severe**  | Members with severe infractions may receive mutes ranging from 10 minutes to 3 hours. |
-
-### 2.5. “On” and “Off” topic
-
-* Use the correct channels. Please try to keep the correct chatter theme to the dedicated channels. Although we are not very strict about this rule, it would be greatly appreciated. We strive to keep channels somewhat organized.
-* If you're unsure what a channel is for you can check the description for further details. If you're still confused you can ask in general chat, a Moderator or send in a ticket as a last resort.
-* Please do not derail support threads or comment on Moderator actions in community channels. If you have concerns or questions regarding a Moderator’s actions, create a ticket to discuss the matter.
-
-### 2.6. Spam
-
-* Do not misuse or spam in any channels. The #random channel is the only exception for spam.
-* Do not use excessive CAPS to make a point aggressively or seek attention.
-* Do not ping without legitimate reasoning behind them nor do not mass mention via pings.
-* Do not cross post messages without legitimate reasoning behind them.
-* Using Discord Stickers and Emotes excessively is to be avoided.
-* Do not send medically triggering, strobe-effect, or severely flashing media without warnings and using the spoiler feature.
-* Do not contact Members or Staff unsolicited via private messages. All support is to be handled internally via ticket.
-* If you’re sharing a link, please include a description (unless the nature of the link is obvious).
-
-### 2.7. Malicious Behavior
-
-* Do not attempt to bypass any blocked words.
-* Do not plan or discuss attempts to raid other servers.
-* Do not scam, hack, or make attempts to do such.
-* Do not send any malicious and harmful links or files, or anything that jeopardizes the security of others.
-* Encouraging the breaking of rules, inciting others to be blatantly rude and offensive, or otherwise promoting and/or encouraging conflicts between other members is prohibited.
-
-### 2.8. Advertising
-
-Promotion of websites, products, services, and communities is permitted if shared in a natural and non artificial manner. It is up to a Member’s own due diligence to verify the quality of any suggested resources shared.
-
-### 2.9. Doxxing and Personal Identifiable Information (PII)
-
-No doxxing other Members. Keep information about other Members private. Don’t share messages, addresses, phone numbers, social media information, or anything else that contains PII. This includes people from other Discord servers.
-
-It is of your own risk and discretion when sharing personal information to others.
-
-## Section 3. Moderation
-
-### 3.1. Reporting
-
-Moderators are here to help. If there is a problem that needs Moderator attention, please create a ticket. Any and all problems are discussed as a group among Moderators. Remember nothing can be reported without concrete proof. Reporting because of rumors or hearsay is not acceptable proof. Please provide context, and searchable/linkable information as well as identifying information such as Member IDs.
-
-### 3.2. Consistency
-
-All rules apply to all Members, including Moderators. If the Community has reason to believe the Owner is unfit for ownership due to breaching any rules defined in this document or misusing the server outside of what is listed, the Community may request for ownership to be removed and changed.
-
-### 3.3. Transparency
-
-Audit Logs are visible to all server Members. Audit Logs contain a history of all changes and actions within the server as well as all Moderator actions such as punishments given to Members.
-
-### 3.4. Enforcement
-
-Enforcement of these rules may be done through different means. Listed below are the typical forms.
-
-#### Hard Rules
-
-<!-- TODO: What should be considered as an instantly bannable offense for this server? -->
-
-#### Case by Case
-
-With Case by Case moderation, punishment is more subjective and dependent on the nature and frequency of transgressions. While this system gives Moderators a large amount of flexibility, accountability can be difficult due to the lack of standards and certain Moderators may punish Members differently. Because of this, all Moderator actions are free to audit and review and may require further agreement from the Moderation team.
-
-#### Automod
-
-Basic auto moderation will exist in this server to prevent universally severe and hateful/offensive language. If auto moderation prevents natural discussion at any point, report the issue via ticket. Additionally, basic safety and security precautions will exist to filter out harmful links and material shared within this server.
-
-### 3.5. Punishment
-#### 3.5.a - Moderator Privileges
-If a Member is found breaking any of these rules,
-Moderators reserve the right to give any of the following punishments depending on the severity of the offense:
-
-* **Warnings**
-  * Warnings act as a permanent history for Members and their behavior. Warnings should be descriptive and provide context or reason.
-* **Timeouts**
-  * Timeouts act as a temporary safeguard against in the moment disruption of the server and allow Members to “cool off” until they mitigate the current situation with a Moderator.
-* **Kicks**
-  * Kicks are typically not used within this server due to the way rule breaking is handled.
-* **Bans**
-  * Bans may either act as a temporary punishment for an allotted time frame based on the severity of the offense and the offender's history or as a permanent punishment if the Member breaks any of the server Hard Rules or has failed to show the ability to correct their behavior after a number of prior offenses.
-#### Additional Actions
-
-Additionally, Moderators reserve the right to:
-
-* Delete any messages or posts with good reason.
-* Change nicknames that violate our SFW policy or Discord ToS.
-* Request for the change of any features found on a Member’s profile/server profile.
-* Use their own discretion, but must justify these decisions and seek approval from their peers
-
-#### 3.5.b - Administrator Privileges
-Administrators outline and uphold our standards.
-
-* **Dispute regarding conduct**
-  * Administrators are permitted to resolve dispute regarding the code of conduct by using Context, Perspective and Interpretation to ensure order.
-* **Internel and Externel**
-  * Administrators are permitted to Investigate internel and externel interest and speak for the organization.
-* **Termination**
-  * Administrators are permitted to Terminate Members displaying any description of unsuitable behavior, unrelated to compliance with conduct.
-<!-- TODO: Clarification is further needed on this topic. -->
-
-### 3.6. Punishment Evasion
-
-Members should not attempt to evade the consequences of their actions such as using an alternate account to bypass restrictions. Punishment evasion will result in an immediate ban.
-
-### 3.7. Fairness
-
-#### Bias
-
-The rules defined in this document are to be reviewed and agreed upon by the Community as a whole. If a rule is unclear, it is to be revised until it is clear. If a Member believes that this document is missing any rules or exceptions, the Member may request for this addition to be reviewed and agreed upon by the Community.
-
-In the event of a Moderator using personal best judgment when dealing with Members and punishments, all Members have the right to audit said actions and the Moderator should provide justification and or seek unanimous approval from the Moderation team.
-
-### 3.8. Appeals
-
-* If a Member believes their punishment is unfair, the Member can discuss their warning with the Moderation team via ticket.
-* If a Member has been temporarily or permanently banned from the server and thus cannot create a ticket, the Member may reach out directly to the Moderation team for appeal.
-* Appeals currently are managed via Wick and can be accessed at https://appeals.wickbot.com/.
-
-## Notice
-
-Please note that this article cannot capture all rules and that each situation needs to be assessed individually. Attempting to exploit any "loopholes" within these guidelines is strictly forbidden.
-
-These guidelines are ever-evolving, responding to varied circumstances. Hence, we might take necessary action against members or content that contradicts the core intent of these rules, even if it is not directly mentioned in the current version.
-
-Moderator actions may cite rules from this document. Please be aware that section numbers may change over time and may not be the same when the action was issued. Sections referenced do not imply their respective subsections (e.g. citing 1.2 does not imply 1.2.c).
-
-We aim to keep you updated whenever these guidelines get revised. However, the responsibility lies with you to upkeep the essence of these rules: to maintain the safety of Discord and uphold its inclusivity. Stay informed about server announcements and polls which might induce changes to the rules. We appreciate your contribution in this regard.
-
-Above all, exercise good judgment and common sense.
-
-## Contributors
 
 <sub>Made with [contrib.rocks](https://contrib.rocks).</sub>
 
 [![Contributors](https://contrib.rocks/image?repo=allthingslinux/code-of-conduct)](https://github.com/allthingslinux/code-of-conduct/graphs/contributors)
+                             END OF ALL THINGS LINUX CODE OF CONDUCT VERSION 1
