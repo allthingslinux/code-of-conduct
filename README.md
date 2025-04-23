@@ -193,6 +193,7 @@ Discussions about piracy, penetration testing, and ethical hacking are allowed s
 * Do not promote or ask for support on unauthorized access, data breaches, credential stuffing, phishing, malware development, or any other illegal hacking activities.
 * Do not ask for or give support to any type of penetration testing or ethical hacking questions.
   * Discussion on these topics is allowed, however talking about on how to actually do them is strictly prohibited.
+* Do not promote, request, display, or discuss methods of cheating in online games, online exams, or any other type of cheating or anticheat bypassing.
 
 ## Section 2. Participation
 
