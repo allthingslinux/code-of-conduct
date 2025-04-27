@@ -322,7 +322,18 @@ Enforcement of these rules may be done through different means. Listed below are
 
 #### Hard Rules
 
-<!-- TODO: What should be considered as an instantly bannable offense for this server? -->
+Hard rules are non-negotiable and result in a ban with little exception. They are as follows:
+
+* Using slurs or hate speech.
+* Sending abusive, not safe for work, or graphic images.
+* Brigading or raiding.
+* Threatening with intent of violence or to cause bodily harm.
+* Doxxing of any kind.
+* Sending or spamming malicious links.
+* Using the server as a platform for scams, either within the server or privately via DMs.
+* Being under the age of 13.
+
+Violations of hard rules may still be appealable depending on severity and time of appeal.
 
 #### Case by Case
 
