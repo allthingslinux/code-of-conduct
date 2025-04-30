@@ -369,11 +369,11 @@ Additionally, Moderators reserve the right to:
 Administrators outline and uphold our standards.
 
 * **Dispute regarding conduct**
-  * Administrators are permitted to resolve dispute regarding the code of conduct by using Context, Perspective and Interpretation to ensure order.
-* **Internel and Externel**
-  * Administrators are permitted to Investigate internel and externel interest and speak for the organization.
+  * Administrators are permitted to resolve dispute regarding the Code of Conduct by using Context, Perspective and Interpretation to ensure order.
+* **Internal and External**
+  * Administrators are permitted to investigate internal and external interests and speak for the organization.
 * **Termination**
-  * Administrators are permitted to Terminate Members displaying any description of unsuitable behavior, unrelated to compliance with conduct.
+  * Administrators are permitted to Terminate Members displaying any description of unsuitable behavior, unrelated to compliance with the Code of Cconduct.
 <!-- TODO: Clarification is further needed on this topic. -->
 
 ### 3.6. Punishment Evasion
