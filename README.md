@@ -373,7 +373,7 @@ Administrators outline and uphold our standards.
 * **Internal and External**
   * Administrators are permitted to investigate internal and external interests and speak for the organization.
 * **Termination**
-  * Administrators are permitted to Terminate Members displaying any description of unsuitable behavior, unrelated to compliance with the Code of Cconduct.
+  * Administrators are permitted to terminate Members displaying any description of unsuitable behavior, unrelated to compliance with the Code of Conduct.
 <!-- TODO: Clarification is further needed on this topic. -->
 
 ### 3.6. Punishment Evasion
