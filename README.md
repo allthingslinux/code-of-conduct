@@ -369,7 +369,7 @@ Additionally, Moderators reserve the right to:
 Administrators outline and uphold our standards.
 
 * **Dispute regarding conduct**
-  * Administrators are permitted to resolve dispute regarding the Code of Conduct by using Context, Perspective and Interpretation to ensure order.
+  * Administrators are permitted to resolve disputes regarding the Code of Conduct by using context, perspective and interpretation to ensure order.
 * **Internal and External**
   * Administrators are permitted to investigate internal and external interests and speak for the organization.
 * **Termination**
