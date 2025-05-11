@@ -56,6 +56,7 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
   - [3.8. Appeals](#38-appeals)
 - [Notice](#notice)
 - [Contributors](#contributors)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
