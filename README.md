@@ -333,6 +333,7 @@ Hard rules are non-negotiable and result in a ban with little exception. They ar
 * Sending or spamming malicious links.
 * Using the server as a platform for scams, either within the server or privately via DMs.
 * Being under the age of 13.
+* Violating Discord's Terms of Service and/or Guidelines.
 
 Violations of hard rules may still be appealable depending on severity and time of appeal.
 
