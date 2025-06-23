@@ -24,15 +24,11 @@ and warned.
 
 [[rule.expectations]]
 expectation = "Medium"
-description = """
-Warns, tickets, and timeouts ranging from 1hr-12 hours.
-"""
+description = "Warns, tickets, and timeouts ranging from 1hr-12 hours."
 
 [[rule.expectations]]
 expectation = "Severe"
-description = """
-Bans are to be expected at this stage.
-"""
+description = "Bans are to be expected at this stage."
 
 [[rule.glossary]]
 word = "Content"
@@ -108,19 +104,25 @@ violent incidents, supporting those who perpetrate violent acts, or
 promoting conspiracy theories that may incite violence towards others,
 are all prohibited.
 
-Do not share media depicting harmful or offensive language and/or content,
-this can include or is not limited to; Offensive jokes or comments with the
-intention of causing harm or "drama". This may also include language that
-promotes exclusion or marginalization.
+Do not share media depicting harmful or offensive language and/or
+content, this can include or is not limited to; Offensive jokes or
+comments with the intention of causing harm or "drama". This may also
+include language that promotes exclusion or marginalization.
 """
 
 [[rule.expectations]]
 expectation = "Mild"
-description = "Pulling Members into tickets and requesting that they stop this behavior"
+description = """
+Pulling Members into tickets and requesting that they
+stop this behavior
+"""
 
 [[rule.expectations]]
 expectation = "Medium"
-description = "Reprimand within tickets and timeouts ranging from 1hr-12hr"
+description = """
+Reprimand within tickets and timeouts ranging from
+1hr-12hr
+"""
 
 [[rule.expectations]]
 expectation = "Severe"

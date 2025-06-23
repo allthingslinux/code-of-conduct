@@ -13,10 +13,14 @@ description = """
 Members will be kindly asked in the chat they are spreading non-English
 messages to keep it to English
 """
+
+[[rule.expectations]]
 expectation = "Medium"
 description = """
 Repeated offenses may result in Members being pulled into tickets
 """
+
+[[rule.expectations]]
 expectation = "Severe"
 description = """
 If a Member is unwilling to comply, Moderators may act as they see fit.
@@ -36,16 +40,21 @@ This includes "brainrot" which are words or phrases with no substantial
 value as well as animal sounds or incoherent strings of letters.
 """
 
+[[rule.expectations]]
 expectation = "Mild"
 description = """
 Members will be kindly asked in the chat to not post
 low-effort/low-quality content or bypass automod
 """
+
+[[rule.expectations]]
 expectation = "Medium"
 description = """
 Repeated offenses may result in Members being timed out for a period of
 time at the moderators discretion
 """
+
+[[rule.expectations]]
 expectation = "Severe"
 description = """
 If a Member is unwilling to comply, they will be ticketed and warned
