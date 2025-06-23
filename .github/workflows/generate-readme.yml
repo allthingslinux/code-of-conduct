@@ -1,0 +1,38 @@
+name: "Generate README.md"
+on: "push"
+jobs:
+  generateREADME:
+    name: "Generate README.md"
+    runs-on: "ubuntu-latest"
+    steps:
+      - name: "Checkout repository"
+        uses: "actions/checkout@v4"
+      - name: "Install Python"
+        run: |
+          sudo apt install python3 -y
+      - name: "Generate .venv"
+        run: |
+          python3 -m venv .venv
+      - name: "Source the venv"
+        run: |
+          source ./.venv/bin/activate
+      - name: "Update pip"
+        run: |
+          pip install --upgrade pip
+      - name: "Install poetry"
+        run: |
+          pip install poetry
+      - name: "Install code_of_conduct"
+        run: |
+          poetry install
+      - name: "Run code_of_conduct"
+        run: |
+          python3 -m code_of_conduct
+      - name: "Commit new README.md"
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git add .
+          git commit -m "README.md: Update" -m "[skip ci]"
+          git push
+
