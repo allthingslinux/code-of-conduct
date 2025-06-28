@@ -92,7 +92,7 @@ Examples of moderation expectations:
 | Expectation | Description                                                                  |
 | ----------- | ---------------------------------------------------------------------------- |
 | **Mild**    | First offenses will result in Members being brought into tickets and warned. |
-| **Medium**  | Warns, tickets, and timeouts ranging from 1hr-12 hours.                      |
+| **Medium**  | Timeouts ranging from 1hr-12 hours.                                          |
 | **Severe**  | Bans are to be expected at this stage.                                       |
 
 ### 1.2. Concerns of Age and Appropriate Conduct
@@ -169,8 +169,8 @@ Examples of moderation expectations:
 | Expectation | Description                                                                                             |
 | ----------- | ------------------------------------------------------------------------------------------------------- |
 | **Mild**    | Asking Members to wrap up or end conversations.                                                         |
-| **Medium**  | Forcing conversations to end.                                                                           |
-| **Severe**  | Members with repetitive offenses may receive timeouts and be addressed in tickets within 5m to 2 hours. |
+| **Medium**  | Forcing conversations to end and warns.                                                                 |
+| **Severe**  | Members with repetitive offenses may receive timeouts or bans if this continue.                         |
 
 ### 1.5. Avoidance of Elitism
 
@@ -210,7 +210,7 @@ Examples of moderation expectations:
 | Expectation | Description                                                                                            |
 | ----------- | ------------------------------------------------------------------------------------------------------ |
 | **Mild**    | Members will be kindly asked in the chat they are spreading non-English messages to keep it to English |
-| **Medium**  | Repeated offenses may result in Members being pulled into tickets                                      |
+| **Medium**  | Repeated offenses may result in Members being pulled into tickets.                                     |
 | **Severe**  | If a Member is unwilling to comply, Moderators may act as they see fit.                                |
 
 ### 2.2. Text Channels
