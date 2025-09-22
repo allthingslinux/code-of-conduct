@@ -2,60 +2,37 @@ import os
 import sys
 import tomllib
 
-from jinja2 import Environment, PackageLoader, select_autoescape
-
 from pathlib import Path
 
+from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-def read_file(fp: Path) -> str:
-    with fp.open("r") as f:
-        return f.read()
-
-
-TWO_ARGS = 2
-
-def main() -> None:
-    if len(sys.argv) > TWO_ARGS:
-        error = f"expected 0 to 1 arguments, got {len(sys.argv) - 1}"
-        raise AssertionError(error)
-
+def _run(output_path: Path, verbose: bool = False) -> None:
     env = Environment(
-        loader=PackageLoader("code_of_conduct"),
+        loader=FileSystemLoader("src/templates"),
         autoescape=select_autoescape(),
     )
 
-    sections: list[map] = []
+    sections: list[dict] = []
     for dirpath, _, filenames in os.walk("./src/sections/"):
-        filenames.sort()
-        for filename in filenames:
-            output = read_file(Path(dirpath) / Path(filename))
-            sections.append(tomllib.loads(output))
+        for filename in sorted(filenames):
+            content = Path(dirpath, filename).read_text(encoding="utf-8")
+            sections.append(tomllib.loads(content))
 
-    template = env.get_template("README.md.jinja")
+    rendered = env.get_template("README.md.jinja").render(sections=sections)
+    output_path.write_text(rendered, encoding="utf-8")
 
-    path = sys.argv[1] if len(sys.argv) > 1 else "test-README.md"
+    if verbose:
+        print(f"Generated {output_path.name} for local development")
 
-    with Path(path).open("w", encoding="utf-8") as f:
-        f.write(template.render(sections=sections))
+
+def main() -> None:
+    if len(sys.argv) > 2:
+        raise AssertionError(f"expected 0 to 1 arguments, got {len(sys.argv) - 1}")
+
+    out = Path(sys.argv[1]) if len(sys.argv) == 2 else Path("README.md")
+    _run(out)
 
 
 def main_test() -> None:
     """Generate test-README.md for local development."""
-    env = Environment(
-        loader=PackageLoader("code_of_conduct"),
-        autoescape=select_autoescape(),
-    )
-
-    sections: list[map] = []
-    for dirpath, _, filenames in os.walk("./src/sections/"):
-        filenames.sort()
-        for filename in filenames:
-            output = read_file(Path(dirpath) / Path(filename))
-            sections.append(tomllib.loads(output))
-
-    template = env.get_template("README.md.jinja")
-
-    with Path("test-README.md").open("w", encoding="utf-8") as f:
-        f.write(template.render(sections=sections))
-
-    print("Generated test-README.md for local development")
+    _run(Path("test-README.md"), verbose=True)
