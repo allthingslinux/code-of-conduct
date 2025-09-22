@@ -12,18 +12,31 @@ jobs:
     steps:
       - name: "Checkout repository"
         uses: "actions/checkout@v4"
+
+      - name: "Generate App Token"
+        uses: actions/create-github-app-token@v1
+        id: app-token
+        with:
+          app-id: ${{ secrets.GENERATOR_APP_ID }}
+          private-key: ${{ secrets.GENERATOR_APP_PRIVATE_KEY }}
+
       - name: "Install uv"
         uses: "astral-sh/setup-uv@38f3f104447c67c051c4a08e39b64a148898af3a" # v4
         with:
           version: "latest"
+
       - name: "Set up Python"
         run: "uv python install"
+
       - name: "Generate the code of conduct"
         run: "uv run gencoc README.md"
+
       - name: "Commit and push README.md"
+        env:
+          GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
         run: |
-          git config --global user.name "${{ github.actor }}"
-          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           if git diff --staged --quiet; then
             echo "No changes to commit"
