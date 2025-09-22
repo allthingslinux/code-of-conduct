@@ -1,0 +1,43 @@
+name: "Update Website Submodule"
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-website:
+    name: "Update submodule in allthingslinux website"
+    runs-on: "ubuntu-latest"
+    steps:
+      - name: "Generate GitHub App Token"
+        id: app-token
+        uses: "actions/create-github-app-token@v1"
+        with:
+          app-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+          owner: "allthingslinux"
+
+      - name: "Checkout website repository"
+        uses: "actions/checkout@v4"
+        with:
+          repository: "allthingslinux/allthingslinux"
+          token: ${{ steps.app-token.outputs.token }}
+          submodules: true
+
+      - name: "Update code-of-conduct submodule"
+        run: |
+          git submodule update --remote --merge
+
+      - name: "Commit and push changes"
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet; then
+            echo "No changes to commit"
+          else
+            git add .
+            git commit -m "chore(coc): update code-of-conduct submodule"
+            git push
+          fi
