@@ -43,3 +43,4 @@ jobs:
           else
             git commit -m "chore(gencoc): update the code of conduct" -m "[skip ci]"
             git push --force-with-lease origin main
+          fi
