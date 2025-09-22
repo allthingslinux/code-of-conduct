@@ -27,7 +27,8 @@ jobs:
 
       - name: "Update code-of-conduct submodule"
         run: |
-          git submodule update --remote --merge
+          git submodule update --remote
+          git add code-of-conduct
 
       - name: "Commit and push changes"
         run: |

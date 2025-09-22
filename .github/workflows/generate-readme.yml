@@ -42,5 +42,4 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore(gencoc): update the code of conduct" -m "[skip ci]"
-            git push
-          fi
+            git push --force-with-lease origin main
