@@ -25,7 +25,7 @@ def main() -> None:
     )
 
     sections: list[map] = []
-    for dirpath, _, filenames in os.walk("./src/code_of_conduct/sections/"):
+    for dirpath, _, filenames in os.walk("./src/sections/"):
         filenames.sort()
         for filename in filenames:
             output = read_file(Path(dirpath) / Path(filename))
@@ -47,7 +47,7 @@ def main_test() -> None:
     )
 
     sections: list[map] = []
-    for dirpath, _, filenames in os.walk("./src/code_of_conduct/sections/"):
+    for dirpath, _, filenames in os.walk("./src/sections/"):
         filenames.sort()
         for filename in filenames:
             output = read_file(Path(dirpath) / Path(filename))
