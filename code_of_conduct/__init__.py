@@ -7,13 +7,17 @@ from pathlib import Path
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 def _run(output_path: Path, verbose: bool = False) -> None:
+    # Get the directory where this module is located
+    package_dir = Path(__file__).parent
+
     env = Environment(
-        loader=FileSystemLoader("src/templates"),
+        loader=FileSystemLoader(package_dir / "templates"),
         autoescape=select_autoescape(),
     )
 
     sections: list[dict] = []
-    for dirpath, _, filenames in os.walk("./src/sections/"):
+    sections_dir = package_dir / "sections"
+    for dirpath, _, filenames in os.walk(sections_dir):
         for filename in sorted(filenames):
             content = Path(dirpath, filename).read_text(encoding="utf-8")
             sections.append(tomllib.loads(content))

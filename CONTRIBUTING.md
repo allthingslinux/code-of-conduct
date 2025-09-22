@@ -3,7 +3,7 @@
 ## How the Code of Conduct is created
 
 Rules are made from sections, these sections are in a
-`section{index}.toml` that you can find in `src/sections/`.
+`section{index}.toml` that you can find in `code_of_conduct/sections/`.
 Additionally, rules can have expectations, as well as a glossary.
 
 ## How to add new rules
@@ -43,7 +43,7 @@ meaning = "talking about"
 ## How to add a new section
 
 To create a new section, you can create a new file in
-`src/sections/{{index}}.toml` to maintain consistency
+`code_of_conduct/sections/{{index}}.toml` to maintain consistency
 as well as not trip the generator into writing the COC out of order.
 
 ```toml
