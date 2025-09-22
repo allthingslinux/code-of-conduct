@@ -1,0 +1,25 @@
+name: "Generate README.md"
+on: "push"
+jobs:
+  generateREADME:
+    name: "Generate README.md"
+    runs-on: "ubuntu-latest"
+    steps:
+      - name: "Checkout repository"
+        uses: "actions/checkout@v4"
+      - name: "Create a Python virtual environment"
+        run: "sudo apt install python3 -y\n
+          python3 -m venv .venv\n
+          source ./.venv/bin/activate\n
+          pip install --upgrade pip\n
+          pip install poetry"
+      - name: "Generate the new code of conduct"
+        run: "source ./.venv/bin/activate\n
+          poetry install\n
+          poetry run gencoc"
+      - name: "Create and push the modified README"
+        run: "git config --global user.name \"${{ github.actor }}\"\n
+          git config --global user.email \"${{ github.actor }}@users.noreply.github.com\"\n
+          git add .\n
+          git commit -m \"chore(gencoc): update the code of conduct\" -m \"[skip ci]\"\n
+          git push\n"
