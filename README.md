@@ -1,8 +1,7 @@
-<!-- Please check CONTRIBUTING.md for how to merge changes into the Code of Conduct -->
+<!-- Please check CONTRIBUTING.md on how to merge changes into the Code of Conduct -->
 ![Discord Banner 1](https://i.imgur.com/6kxPNlG.png)
 <p align="center">
   <img src="https://discordapp.com/api/guilds/1172245377395728464/widget.png?style=shield" alt="Discord Shield">
-  <img src="https://dcbadge.vercel.app/api/server/linux?style=flat&theme=clean" alt="Discord Banner 2">
 </p>
 
 
@@ -433,7 +432,7 @@ Above all, exercise good judgment and common sense.
 
 ## Contributors
 
-<sub>Made with [contrib.rocks](https://contrib.rocks).</sub>
+<sub>Made with [contrib.rocks](https://contrib.rocks)</sub>
 
 [![Contributors](https://contrib.rocks/image?repo=allthingslinux/code-of-conduct)](https://github.com/allthingslinux/code-of-conduct/graphs/contributors)
 
