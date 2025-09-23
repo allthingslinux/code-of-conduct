@@ -1,5 +1,5 @@
 <!-- Please check CONTRIBUTING.md on how to merge changes into the Code of Conduct -->
-<!-- Test change to trigger workflow -->
+<!-- Test change to trigger workflow - testing branch fix -->
 ![Discord Banner 1](https://i.imgur.com/6kxPNlG.png)
 <p align="center">
   <img src="https://discordapp.com/api/guilds/1172245377395728464/widget.png?style=shield" alt="Discord Shield">
