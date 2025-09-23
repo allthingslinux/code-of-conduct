@@ -45,12 +45,11 @@ jobs:
             git commit -m "chore(gencoc): update the code of conduct"
             git push origin "$BRANCH"
             
-            PR_NUMBER=$(gh pr create \
+            gh pr create \
               --title "chore(gencoc): update the code of conduct" \
               --body "Automated CoC update [skip ci]" \
               --head "$BRANCH" \
-              --base main \
-              --output json | jq -r '.number')
+              --base main
             
-            gh pr merge "$PR_NUMBER" --auto --squash
+            gh pr merge --auto --squash
           fi
