@@ -31,16 +31,26 @@ jobs:
       - name: "Generate the code of conduct"
         run: "uv run gencoc README.md"
 
-      - name: "Commit and push README.md"
+      - name: "Create and auto-merge PR"
         env:
           GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "chore(gencoc): update the code of conduct" -m "[skip ci]"
-            git push --force-with-lease origin main
+          
+          if ! git diff --staged --quiet; then
+            BRANCH="auto-coc-$(date +%s)"
+            git checkout -b "$BRANCH"
+            git commit -m "chore(gencoc): update the code of conduct"
+            git push origin "$BRANCH"
+            
+            PR_NUMBER=$(gh pr create \
+              --title "chore(gencoc): update the code of conduct" \
+              --body "Automated CoC update [skip ci]" \
+              --head "$BRANCH" \
+              --base main \
+              --output json | jq -r '.number')
+            
+            gh pr merge "$PR_NUMBER" --auto --squash
           fi
