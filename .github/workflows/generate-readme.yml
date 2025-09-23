@@ -44,7 +44,7 @@ jobs:
           git add README.md
 
           if ! git diff --staged --quiet; then
-            HEAD_REF="${GITHUB_HEAD_REF:-${GITHUB_REF#refs/heads/}}"
+            HEAD_REF="${{ github.event.pull_request.head.ref }}"
             git commit -m "chore(gencoc): update the code of conduct"
             git push origin "${HEAD_REF}"
             echo "README updated and pushed to PR branch"
