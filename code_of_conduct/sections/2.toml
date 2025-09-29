@@ -3,13 +3,15 @@ title = "Participation"
 [[rule]]
 title = "Language Requirement: English Only"
 description = """
-The language used in this server is English only. Please use English in text, voice, and support channels.
+The language used in this server is English only. Please use English in
+text, voice, and support channels.
 """
 
 [[rule.expectations]]
 expectation = "Mild"
 description = """
-Members will be kindly asked in the chat they are spreading non-English messages to keep it to English
+Members will be kindly asked in the chat they are spreading non-English
+messages to keep it to English
 """
 
 [[rule.expectations]]
@@ -27,11 +29,15 @@ If a Member is unwilling to comply, Moderators may act as they see fit.
 [[rule]]
 title = "Text Channels"
 description = """
-* All rules apply when communicating via text channels.
+In our commitment to maintaining a high quality server, we must
+emphasize the importance of thoughtful and substantial discourse within
+rur community. Accordingly, content that is considered
+low-effort/low-quality, including but not limited to messages that lack
+substantive value or do not encourage meaningful conversation, is
+prohibited.
 
-In our commitment to maintaining a high quality server, we must emphasize the importance of thoughtful and substantial discourse within our community. Accordingly, content that is considered low-effort/low-quality, including but not limited to messages that lack substantive value or do not encourage meaningful conversation, is prohibited.
-
-This includes "brainrot" which are words or phrases with no substantial value as well as animal sounds or incoherent strings of letters.
+This includes "brainrot" which are words or phrases with no substantial
+value as well as animal sounds or incoherent strings of letters.
 """
 
 [[rule.expectations]]
@@ -56,26 +62,33 @@ If a Member is unwilling to comply, they will be ticketed and warned
 
 [[rule]]
 title = "Voice Channels"
+
 description = """
-All rules apply to conduct in voice channels along with additional rules.
+Please maintain a quiet background and mute when AFK or talking to
+people not in voice chat. Additionally, avoid excessive background noise
+or echoing the voices of others. This can be assisted by using
+closed-back headphones or earbuds.
 
-* Ensure a quiet background by muting when AFK or talking to people not in VC.
-* Avoid exessive background noise from keyboards, fans, TVs, music, etc.
-* "Echoing", or reflecting other people's voices back should be minimized.
-  * This usually happens when the microphone picks up audio from open back headphones or speakers.
-  * Consider using closed back headphones or earbuds; increasing the voice activity threshold can also reduce echoing along with echo cancellation in voice settings.
-* Avoid disrupting ongoing conversations and interjecting.
-  * Refrain from obnoxious behavior such as yelling or otherwise disturbing others.
-  * If you wish to mention something off-topic or to get someone's attention without interrupting, consider using the built-in text chat for the voice channel.
-  * When first entering a chat, be mindful of the conversation currently going on. Don't interrupt an already ongoing conversation with something unrelated.
-* Leave room for others to speak, try not to dominate or take over the chat.
-  * If you want to start a different topic but there is already a discussion, create or join another channel.
-Read the room before interjecting.
-* Do not record voice channel conversations without consent.
-  * If a rule violation occurs during a voice call, you may request permission to record by opening a ticket using `/ticket`. Any recordings must be shared exclusively within the same ticket.
+Please maintain respect for others by waiting for your turn to talk.
+Refrain from being obnoxious by keeping a normal volume and not
+disturbing others. If you want to have an off topic conversation, or
+grab the attention of someone else, please make another voice chat or
+ping them in the voice channel you are in at the moment. This also
+applies to when you initially join a voice channel.
 
-#### Moderation
-Moderators have broad discretion over enforcing voice channel guidelines, but will act in the best interest of upholding the spirit of the rules.
+Leave room for others to speak, try not to dominate or take over the
+chat. If you want to start a different topic but there is already a
+discussion, create or join another channel. Read the room before
+interjecting.
+
+Do not record voice channel conversations without consent. If a rule
+violation occurs during a voice call, you may request permission to
+record by opening a ticket using `/ticket`. Any recordings must be
+shared exclusively within the same ticket.
+
+Moderators have broad discretion over enforcing voice channel
+guidelines, but will act in the best interest of upholding the spirit of
+the rules.
 """
 
 [[rule.expectations]]
@@ -102,8 +115,9 @@ Moderators.
 [[rule]]
 title = "Bot Usage"
 description = """
-* Bot commands should be used in the bot commands channel.
-* If a Member is found spamming, misusing, or abusing any Bot related features in the server, please report this via ticket.
+Bot commands should be used in the bot commands channel. If a Member is
+found spamming, misusing, or abusing any Bot related features in the
+server, please report this via ticket.
 """
 
 [[rule.expectations]]
@@ -127,46 +141,71 @@ minutes to 3 hours.
 """
 
 [[rule]]
-title = "\"On\" and \"Off\" topic"
+title = "On and Off-topic"
 description = """
-* Use the correct channels. Please try to keep the correct chatter theme to the dedicated channels. Although we are not very strict about this rule, it would be greatly appreciated. We strive to keep channels somewhat organized.
-* If you're unsure what a channel is for you can check the description for further details. If you're still confused you can ask in general chat, a Moderator or send in a ticket as a last resort.
-* Please do not derail support threads or comment on Moderator actions in community channels. If you have concerns or questions regarding a Moderator’s actions, create a ticket to discuss the matter.
+Use the correct channels. Please try to keep the correct chatter theme
+to the dedicated channels. Although we are not very strict about this
+rule, it would be greatly appreciated. We strive to keep channels
+somewhat organized.
+
+If you're unsure what a channel is for you can check the description for
+further details. If you're still confused you can ask in general chat, a
+Moderator or send in a ticket as a last resort.
+
+Please do not derail support threads or comment on Moderator actions in
+community channels. If you have concerns or questions regarding a
+Moderator’s actions, create a ticket to discuss the matter.
 """
 
 [[rule]]
 title = "Spam"
 description = """
-* Do not misuse or spam in any channels. The #random channel is the only exception for spam.
-* Do not use excessive CAPS to make a point aggressively or seek attention.
-* Do not ping without legitimate reasoning behind them nor do not mass mention via pings.
-* Do not cross post messages without legitimate reasoning behind them.
-* Using Discord Stickers and Emotes excessively is to be avoided.
-* Do not send medically triggering, strobe-effect, or severely flashing media without warnings and using the spoiler feature.
-* Do not contact Members or Staff unsolicited via private messages. All support is to be handled internally via ticket.
-* If you’re sharing a link, please include a description (unless the nature of the link is obvious).
+Do not misuse or spam in any channels. The #random channel is the only
+exception for spam.
+Do not use excessive CAPS to make a point aggressively or seek
+attention.
+Do not ping without legitimate reasoning behind them nor do not mass
+mention via pings.
+Do not cross post messages without legitimate reasoning behind them.
+Using Discord Stickers and Emotes excessively is to be avoided.
+Do not send medically triggering, strobe-effect, or severely
+flashing media without warnings and using the spoiler feature.
+Do not contact Members or Staff unsolicited via private messages.
+All support is to be handled internally via ticket.
+If you’re sharing a link, please include a description (unless the
+nature of the link is obvious).
 """
 
 [[rule]]
 title = "Malicious Behavior"
 description = """
-* Do not attempt to bypass any blocked words.
-* Do not plan or discuss attempts to raid other servers.
-* Do not scam, hack, or make attempts to do such.
-* Do not send any malicious and harmful links or files, or anything that jeopardizes the security of others.
-* Encouraging the breaking of rules, inciting others to be blatantly rude and offensive, or otherwise promoting and/or encouraging conflicts between other members is prohibited.
+Do not attempt to bypass any blocked words. Do not plan or discuss
+attempts to raid other servers.
+Do not scam, hack, or make attempts to do such.
+Do not send any malicious and harmful links or files, or anything that
+jeopardizes the security of others.
+Encouraging the breaking of rules, inciting others to be blatantly rude
+and offensive, or otherwise promoting and/or encouraging conflicts
+between other members is prohibited.
 """
 
 [[rule]]
 title = "Advertising"
 description = """
-Promotion of websites, products, services, and communities is permitted if shared in a natural and non artificial manner. It is up to a Member’s own due diligence to verify the quality of any suggested resources shared.
+Promotion of websites, products, services, and communities is permitted
+if shared in a natural and non artificial manner. It is up to a Member’s
+own due diligence to verify the quality of any suggested resources
+shared.
 """
 
 [[rule]]
 title = "Doxxing and Personal Identifiable Information (PII)"
 description = """
-No doxxing other Members. Keep information about other Members private. Don’t share messages, addresses, phone numbers, social media information, or anything else that contains PII. This includes people from other Discord servers.
+No doxxing other Members. Keep information about other Members private.
+Don’t share messages, addresses, phone numbers, social media
+information, or anything else that contains PII. This includes people
+from other Discord servers.
 
-It is of your own risk and discretion when sharing personal information to others.
+It is of your own risk and discretion when sharing personal information
+to others.
 """
