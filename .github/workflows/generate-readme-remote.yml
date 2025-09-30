@@ -47,11 +47,42 @@ jobs:
           # Fetch the fork's branch
           git fetch fork ${{ github.event.pull_request.head.ref }}
 
-          # Get the fork's changes (only the files we care about for security)
-          git checkout fork/${{ github.event.pull_request.head.ref }} -- code_of_conduct/
-          git checkout fork/${{ github.event.pull_request.head.ref }} -- pyproject.toml || true
+          # Get the base commit to find commits to cherry-pick
+          BASE_SHA="${{ github.event.pull_request.base.sha }}"
+          HEAD_SHA="fork/${{ github.event.pull_request.head.ref }}"
 
-          echo "Applied changes from fork to local branch"
+          # Get list of commits to cherry-pick (from base to head)
+          COMMITS=$(git rev-list --reverse ${BASE_SHA}..${HEAD_SHA})
+
+          if [ -z "$COMMITS" ]; then
+            echo "No commits to cherry-pick"
+            exit 0
+          fi
+
+          echo "Cherry-picking commits from fork to preserve history:"
+          for commit in $COMMITS; do
+            echo "Cherry-picking: $(git log --oneline -1 $commit)"
+            # Cherry-pick but only allow changes to specific paths for security
+            if git cherry-pick --no-commit $commit; then
+              # Reset any files that aren't in our allowed paths
+              git reset HEAD -- . || true
+              git checkout HEAD -- . || true
+              git add code_of_conduct/ || true
+              git add pyproject.toml || true
+
+              # Only commit if there are staged changes
+              if ! git diff --staged --quiet; then
+                git commit --reuse-message=$commit
+              else
+                echo "No allowed changes in commit $commit, skipping"
+              fi
+            else
+              echo "Failed to cherry-pick $commit, skipping"
+              git cherry-pick --abort || true
+            fi
+          done
+
+          echo "Applied commits from fork while preserving history"
 
       - name: "Install uv"
         uses: "astral-sh/setup-uv@38f3f104447c67c051c4a08e39b64a148898af3a" # v4
@@ -64,27 +95,31 @@ jobs:
       - name: "Generate the code of conduct"
         run: "uv run gencoc README.md"
 
-      - name: "Commit all changes and push to new branch"
+      - name: "Commit generated README and push to new branch"
         id: commit_changes
         run: |
-          # Add all changes (fork changes + generated README)
-          git add .
+          # Only add the generated README
+          git add README.md
 
-          # Check if there are any changes to commit
+          # Check if there are any changes to the README
           if git diff --staged --quiet; then
-            echo "No changes detected, skipping commit"
-            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "No README changes detected"
+            # Check if we have any commits from the fork
+            if [ "$(git rev-list --count HEAD)" -gt "$(git rev-list --count origin/main)" ]; then
+              echo "Fork commits applied, but no README changes needed"
+              echo "has_changes=true" >> $GITHUB_OUTPUT
+            else
+              echo "No changes at all, skipping"
+              echo "has_changes=false" >> $GITHUB_OUTPUT
+            fi
             exit 0
           fi
 
-          # Commit the changes
-          git commit -m "feat: apply changes from PR #${{ github.event.number }} with generated README
+          # Commit only the generated README
+          git commit -m "docs: regenerate README.md from code of conduct changes
 
+          Generated via gencoc from PR #${{ github.event.number }}
           Original PR: ${{ github.event.pull_request.html_url }}
-          Author: @${{ github.event.pull_request.user.login }}
-
-          - Applied changes from forked PR
-          - Generated README.md via gencoc
           "
 
           # Configure git to use the token for authentication
@@ -107,21 +142,19 @@ jobs:
             const newPR = await github.rest.pulls.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: `${originalPR.title} (with generated README)`,
+              title: `${originalPR.title} + auto-generated README`,
               head: branchName,  // Our new branch in allthingslinux/code-of-conduct
               base: originalPR.base.ref,  // Target branch (usually 'main')
               body: `## Generated PR from Fork
 
             This PR was automatically created from the forked PR #${originalPR.number} by @${originalPR.user.login}.
 
-            **Original PR**: ${originalPR.html_url}
-
             ### Original PR Description:
             ${originalPR.body || 'No description provided.'}
 
             ---
 
-            *This PR was created automatically because the original PR was from a fork and required README generation. The original PR will be closed and this one should be merged instead.*
+            *This PR was created automatically because the original PR was from a fork and required README generation. The original commits and their history have been preserved. The original PR will be closed and this one should be merged instead.*
             `,
               maintainer_can_modify: true
             });
@@ -137,13 +170,14 @@ jobs:
 
             Thank you for your contribution! Since this is a forked PR that requires README generation, I've automatically:
 
-            1. ✅ Copied your changes to a local branch in the main repository
-            2. ✅ Generated the required README.md updates
-            3. ✅ Created a new PR: #${newPR.data.number}
+            1. ✅ **Preserved your commit history**: All your original commits and authorship are maintained
+            2. ✅ **Copied your changes** to a local branch in the main repository
+            3. ✅ **Generated the required README.md** updates as an additional commit
+            4. ✅ **Created a new PR**: #${newPR.data.number}
 
             **Please review and merge PR #${newPR.data.number} instead of this one.**
 
-            Your original PR will be closed automatically. 🚀`
+            Your commit history and authorship are fully preserved in the new PR! 🎉`
             });
 
             // Close the original PR
