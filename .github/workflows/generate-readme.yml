@@ -9,12 +9,11 @@ on:
       - 'pyproject.toml'
 
 jobs:
-  generateREADME:
-    name: "Generate README.md"
+  generate-readme:
+    name: "Generate README"
     runs-on: "ubuntu-latest"
     permissions:
       contents: write
-      pull-requests: read
     steps:
       - name: "Checkout repository"
         uses: "actions/checkout@v4"
@@ -39,7 +38,8 @@ jobs:
       - name: "Generate the code of conduct"
         run: "uv run gencoc README.md"
 
-      - name: "Amend PR with updated README"
+      - name: "Commit and push changes"
+        if: github.event.pull_request.head.repo.full_name == github.repository || github.event.pull_request.maintainer_can_modify == true
         run: |
           # Check if this is a forked PR
           if [ "${{ github.event.pull_request.head.repo.full_name }}" != "${{ github.repository }}" ]; then
@@ -53,10 +53,16 @@ jobs:
           git add README.md
 
           if ! git diff --staged --quiet; then
-            HEAD_REF="${{ github.event.pull_request.head.ref }}"
             git commit -m "chore(gencoc): update the code of conduct"
-            git push origin "${HEAD_REF}"
-            echo "README updated and pushed to PR branch"
+            git push origin ${{ github.event.pull_request.head.ref }}
+            echo "README updated and pushed successfully"
           else
             echo "No changes to README.md"
           fi
+
+      - name: "Fail for forked PRs without maintainer access"
+        if: github.event.pull_request.head.repo.full_name != github.repository && github.event.pull_request.maintainer_can_modify != true
+        run: |
+          echo "::error::This is a forked PR without maintainer edit permissions"
+          echo "::error::Enable 'Allow edits by maintainers' and recreate the PR to allow README auto-generation"
+          exit 1
