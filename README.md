@@ -57,6 +57,7 @@ Your presence in this server implies accepting Discord’s Community Guidelines 
 
 ## Section 1. Essentials
 ### 1.1. SFW Policy
+TESTING
 This is a Safe for Work (SFW) environment, which strictly prohibits Not Safe for Work (NSFW) content and discussions. Although Discord allows servers to create designated NSFW channels, it's worth noting that this platform does not offer such channels.
 
 1.1.a - Do not share sexually explicit content in messages or media.
