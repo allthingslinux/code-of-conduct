@@ -1,0 +1,168 @@
+name: "Generate README"
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - 'code_of_conduct/sections/**'
+      - 'code_of_conduct/templates/**'
+      - 'pyproject.toml'
+
+jobs:
+  generate-readme:
+    name: "Generate README"
+    runs-on: "ubuntu-latest"
+    # Only run on forked PRs - same repo PRs can be handled normally
+    if: github.event.pull_request.head.repo.full_name != github.repository
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: "Checkout base repository"
+        uses: "actions/checkout@v4"
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: "Setup git and create local branch"
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Create a unique branch name for this PR
+          BRANCH_NAME="auto-readme-pr-${{ github.event.number }}-$(date +%s)"
+          echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
+
+          # Create and checkout the new branch
+          git checkout -b "$BRANCH_NAME"
+
+      - name: "Fetch and apply fork changes"
+        run: |
+          # Add the fork as a remote
+          git remote add fork https://github.com/${{ github.event.pull_request.head.repo.full_name }}.git
+
+          # Fetch the fork's branch
+          git fetch fork ${{ github.event.pull_request.head.ref }}
+
+          # Get the fork's changes (only the files we care about for security)
+          git checkout fork/${{ github.event.pull_request.head.ref }} -- code_of_conduct/
+          git checkout fork/${{ github.event.pull_request.head.ref }} -- pyproject.toml || true
+
+          echo "Applied changes from fork to local branch"
+
+      - name: "Install uv"
+        uses: "astral-sh/setup-uv@38f3f104447c67c051c4a08e39b64a148898af3a" # v4
+        with:
+          version: "latest"
+
+      - name: "Set up Python"
+        run: "uv python install"
+
+      - name: "Generate the code of conduct"
+        run: "uv run gencoc README.md"
+
+      - name: "Commit all changes and push"
+        id: commit_changes
+        run: |
+          # Add all changes (fork changes + generated README)
+          git add .
+
+          # Check if there are any changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes detected, skipping commit"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          # Commit the changes
+          git commit -m "feat: apply changes from PR #${{ github.event.number }} with auto-generated README
+
+          Original PR: ${{ github.event.pull_request.html_url }}
+          Author: @${{ github.event.pull_request.user.login }}
+
+          Changes include:
+          - Applied changes from forked PR
+          - Auto-generated README.md via gencoc
+          "
+
+          # Push the branch
+          git push origin "$BRANCH_NAME"
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+
+      - name: "Close original PR and create new PR"
+        if: steps.commit_changes.outputs.has_changes == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const branchName = process.env.BRANCH_NAME;
+            const originalPR = context.payload.pull_request;
+
+            // Create a new PR from our local branch
+            const newPR = await github.rest.pulls.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `${originalPR.title} (with auto-generated README)`,
+              head: branchName,
+              base: originalPR.base.ref,
+              body: `## Auto-generated PR from Fork
+
+            This PR was automatically created from the forked PR #${originalPR.number} by @${originalPR.user.login}.
+
+            **Original PR**: ${originalPR.html_url}
+
+            ### Original PR Description:
+            ${originalPR.body || 'No description provided.'}
+
+            ---
+
+            *This PR was created automatically because the original PR was from a fork and required README generation. The original PR will be closed and this one should be merged instead.*
+            `,
+              maintainer_can_modify: true
+            });
+
+            console.log(`Created new PR #${newPR.data.number}: ${newPR.data.html_url}`);
+
+            // Comment on the original PR
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: originalPR.number,
+              body: `## 🔄 PR Automatically Recreated
+
+            Thank you for your contribution! Since this is a forked PR that requires README generation, I've automatically:
+
+            1. ✅ Copied your changes to a local branch in the main repository
+            2. ✅ Generated the required README.md updates
+            3. ✅ Created a new PR: #${newPR.data.number}
+
+            **Please review and merge PR #${newPR.data.number} instead of this one.**
+
+            Your original PR will be closed automatically. 🚀`
+            });
+
+            // Close the original PR
+            await github.rest.pulls.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: originalPR.number,
+              state: 'closed'
+            });
+
+            console.log(`Closed original PR #${originalPR.number}`);
+
+      - name: "Handle no changes case"
+        if: steps.commit_changes.outputs.has_changes == 'false'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const originalPR = context.payload.pull_request;
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: originalPR.number,
+              body: `## ✅ No README Changes Needed
+
+            I've checked your PR and the README.md is already up to date! No auto-generation was necessary.
+
+            Your PR can be reviewed and merged as-is. 🎉`
+            });
