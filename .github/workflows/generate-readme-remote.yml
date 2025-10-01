@@ -64,17 +64,29 @@ jobs:
             echo "Cherry-picking: $(git log --oneline -1 $commit)"
             # Cherry-pick but only allow changes to specific paths for security
             if git cherry-pick --no-commit $commit; then
-              # Reset any files that aren't in our allowed paths
+              # Get list of changed files in this commit
+              CHANGED_FILES=$(git diff --staged --name-only)
+              echo "Files changed in commit: $CHANGED_FILES"
+
+              # Reset everything first
               git reset HEAD -- . || true
-              git checkout HEAD -- . || true
-              git add code_of_conduct/ || true
-              git add pyproject.toml || true
+
+              # Only add back files in allowed paths
+              echo "$CHANGED_FILES" | while read -r file; do
+                if [[ "$file" == code_of_conduct/* ]] || [[ "$file" == "pyproject.toml" ]]; then
+                  echo "Allowing file: $file"
+                  git add "$file" || true
+                fi
+              done
 
               # Only commit if there are staged changes
               if ! git diff --staged --quiet; then
                 git commit --reuse-message=$commit
+                echo "Committed filtered changes from $commit"
               else
                 echo "No allowed changes in commit $commit, skipping"
+                # Clean up any remaining unstaged changes
+                git checkout HEAD -- . || true
               fi
             else
               echo "Failed to cherry-pick $commit, skipping"
