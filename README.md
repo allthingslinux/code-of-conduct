@@ -57,19 +57,7 @@ Your presence in this server implies accepting Discord’s Community Guidelines 
 
 ## Section 1. Essentials
 ### 1.1. SFW Policy
-This is a Safe for Work (SFW) environment, which strictly prohibits Not Safe for Work (NSFW) content and discussions. Although Discord allows servers to create designated NSFW channels, it's worth noting that this platform does not offer such channels.
-
-1.1.a - Do not share sexually explicit content in messages or media.
-
-1.1.b - Do not portray sexually explicit content in Member avatars, custom statuses, “About Me” texts, banners, emotes, stickers, or any other Member profile feature/expression.
-
-1.1.c - Do not share media depicting gore, excessive violence, or animal abuse. Excessive violence, for the purposes of this CoC, is defined as content that includes but is not limited to:
-
-* Real-life imagery, including gore, severe injury or death.
-* Violent fictional content.
-* Any media that is intended to shock, disturb or incite harm.
-
-1.1.d - Do not share content that glorifies, promotes, or normalizes suicide or other acts of self-harm. Self-harm acts or threats used as a form of emotional manipulation or coercion are also prohibited.
+TESTCHANGE1
 
 
 #### Examples of moderation expectations
@@ -198,7 +186,7 @@ Discussions about piracy, penetration testing, and ethical hacking are allowed s
 
 ## Section 2. Participation
 ### 2.1. Language Requirement: English Only
-The language used in this server is English only. Please use English in text, voice, and support channels.
+TESTCHANGE2
 
 
 #### Examples of moderation expectations
