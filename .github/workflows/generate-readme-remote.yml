@@ -1,0 +1,222 @@
+name: "Generate README"
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+    paths:
+      - 'code_of_conduct/sections/**'
+      - 'code_of_conduct/templates/**'
+      - 'pyproject.toml'
+
+jobs:
+  generate-readme:
+    name: "Generate README"
+    runs-on: "ubuntu-latest"
+    # Only run on forked PRs - same repo PRs can be handled normally
+    if: github.event.pull_request.head.repo.full_name != github.repository
+    permissions:
+      contents: write
+      pull-requests: write
+      actions: write
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: "Checkout base repository"
+        uses: "actions/checkout@v4"
+        with:
+          token: ${{ env.GH_TOKEN }}
+          fetch-depth: 0
+
+      - name: "Setup git and create local branch"
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Create branch name in format external/<username>-<ogprnumber>
+          BRANCH_NAME="external/${{ github.event.pull_request.user.login }}-${{ github.event.number }}"
+          echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
+
+          # Create and checkout the new branch
+          git checkout -b "$BRANCH_NAME"
+
+      - name: "Fetch and apply fork changes"
+        run: |
+          # Add the fork as a remote
+          git remote add fork https://github.com/${{ github.event.pull_request.head.repo.full_name }}.git
+
+          # Fetch the fork's branch
+          git fetch fork ${{ github.event.pull_request.head.ref }}
+
+          # Get the base commit to find commits to cherry-pick
+          BASE_SHA="${{ github.event.pull_request.base.sha }}"
+          HEAD_SHA="fork/${{ github.event.pull_request.head.ref }}"
+
+          # Get list of commits to cherry-pick (from base to head)
+          COMMITS=$(git rev-list --reverse ${BASE_SHA}..${HEAD_SHA})
+
+          if [ -z "$COMMITS" ]; then
+            echo "No commits to cherry-pick"
+            exit 0
+          fi
+
+          echo "Cherry-picking commits from fork to preserve history:"
+          for commit in $COMMITS; do
+            echo "Cherry-picking: $(git log --oneline -1 $commit)"
+            # Cherry-pick but only allow changes to specific paths for security
+            if git cherry-pick --no-commit $commit; then
+              # Get list of changed files in this commit
+              CHANGED_FILES=$(git diff --staged --name-only)
+              echo "Files changed in commit: $CHANGED_FILES"
+
+              # Reset everything first
+              git reset HEAD -- . || true
+
+              # Only add back files in allowed paths
+              echo "$CHANGED_FILES" | while read -r file; do
+                if [[ "$file" == code_of_conduct/* ]] || [[ "$file" == "pyproject.toml" ]]; then
+                  echo "Allowing file: $file"
+                  git add "$file" || true
+                fi
+              done
+
+              # Only commit if there are staged changes
+              if ! git diff --staged --quiet; then
+                git commit --reuse-message=$commit
+                echo "Committed filtered changes from $commit"
+              else
+                echo "No allowed changes in commit $commit, skipping"
+                # Clean up any remaining unstaged changes
+                git checkout HEAD -- . || true
+              fi
+            else
+              echo "Failed to cherry-pick $commit, skipping"
+              git cherry-pick --abort || true
+            fi
+          done
+
+          echo "Applied commits from fork while preserving history"
+
+      - name: "Install uv"
+        uses: "astral-sh/setup-uv@38f3f104447c67c051c4a08e39b64a148898af3a" # v4
+        with:
+          version: "latest"
+
+      - name: "Set up Python"
+        run: "uv python install"
+
+      - name: "Generate the code of conduct"
+        run: "uv run gencoc README.md"
+
+      - name: "Commit generated README and push to new branch"
+        id: commit_changes
+        run: |
+          # Only add the generated README
+          git add README.md
+
+          # Check if there are any changes to the README
+          if git diff --staged --quiet; then
+            echo "No README changes detected"
+            # Check if we have any commits from the fork
+            if [ "$(git rev-list --count HEAD)" -gt "$(git rev-list --count origin/main)" ]; then
+              echo "Fork commits applied, but no README changes needed"
+              echo "has_changes=true" >> $GITHUB_OUTPUT
+            else
+              echo "No changes at all, skipping"
+              echo "has_changes=false" >> $GITHUB_OUTPUT
+            fi
+            exit 0
+          fi
+
+          # Commit only the generated README
+          git commit -m "docs: regenerate README.md from code of conduct changes
+
+          Generated via gencoc from PR #${{ github.event.number }}
+          Original PR: ${{ github.event.pull_request.html_url }}
+          "
+
+          # Configure git to use the token for authentication
+          git remote set-url origin "https://x-access-token:${{ env.GH_TOKEN }}@github.com/${{ github.repository }}.git"
+
+          # Push the new branch to the allthingslinux/code-of-conduct repository on a new branch
+          git push origin "HEAD:$BRANCH_NAME"
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+
+      - name: "Close original PR and create new PR"
+        if: steps.commit_changes.outputs.has_changes == 'true'
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ env.GH_TOKEN }}
+          script: |
+            const branchName = process.env.BRANCH_NAME;
+            const originalPR = context.payload.pull_request;
+
+            // Create a new PR from our branch to the main repository
+            const newPR = await github.rest.pulls.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `${originalPR.title} + auto-generated README`,
+              head: branchName,  // Our new branch in allthingslinux/code-of-conduct
+              base: originalPR.base.ref,  // Target branch (usually 'main')
+              body: `## Generated PR from Fork
+
+            This PR was automatically created from the forked PR #${originalPR.number} by @${originalPR.user.login}.
+
+            ### Original PR Description:
+            ${originalPR.body || 'No description provided.'}
+
+            ---
+
+            *This PR was created automatically because the original PR was from a fork and required README generation. The original commits and their history have been preserved. The original PR will be closed and this one should be merged instead.*
+            `,
+              maintainer_can_modify: true
+            });
+
+            console.log(`Created new PR #${newPR.data.number}: ${newPR.data.html_url}`);
+
+            // Comment on the original PR
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: originalPR.number,
+              body: `## 🔄 PR Automatically Recreated
+
+            Thank you for your contribution! Since this is a forked PR that requires README generation, I've automatically:
+
+            1. ✅ **Preserved your commit history**: All your original commits and authorship are maintained
+            2. ✅ **Copied your changes** to a local branch in the main repository
+            3. ✅ **Generated the required README.md** updates as an additional commit
+            4. ✅ **Created a new PR**: #${newPR.data.number}
+
+            **Please review and merge PR #${newPR.data.number} instead of this one.**
+
+            Your commit history and authorship are fully preserved in the new PR! 🎉`
+            });
+
+            // Close the original PR
+            await github.rest.pulls.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: originalPR.number,
+              state: 'closed'
+            });
+
+            console.log(`Closed original PR #${originalPR.number}`);
+
+      - name: "Handle no changes case"
+        if: steps.commit_changes.outputs.has_changes == 'false'
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ env.GH_TOKEN }}
+          script: |
+            const originalPR = context.payload.pull_request;
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: originalPR.number,
+              body: `## ✅ No README Changes Needed
+
+            I've checked your PR and the README.md is already up to date! No auto-generation was necessary.
+
+            Your PR can be reviewed and merged as-is. 🎉`
+            });

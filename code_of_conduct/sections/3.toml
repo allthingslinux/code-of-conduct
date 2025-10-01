@@ -1,0 +1,106 @@
+title = "Moderation"
+
+[[rule]]
+title = "Reporting"
+description = """
+Moderators are here to help. If there is a problem that needs Moderator attention, please create a ticket. Any and all problems are discussed as a group among Moderators. Remember nothing can be reported without concrete proof. Reporting because of rumors or hearsay is not acceptable proof. Please provide context, and searchable/linkable information as well as identifying information such as Member IDs.
+"""
+
+[[rule]]
+title = "Consistency"
+description = """
+All rules apply to all Members, including Moderators. If the Community has reason to believe the Owner is unfit for ownership due to breaching any rules defined in this document or misusing the server outside of what is listed, the Community may request for ownership to be removed and changed.
+"""
+
+[[rule]]
+title = "Transparency"
+description = """
+Audit Logs are visible to all server Members. Audit Logs contain a history of all changes and actions within the server as well as all Moderator actions such as punishments given to Members.
+"""
+
+[[rule]]
+title = "Enforcement"
+description = """
+Enforcement of these rules may be done through different means. Listed below are the typical forms.
+
+#### Hard Rules
+
+Hard rules are non-negotiable and result in a ban with little exception. They are as follows:
+
+* Using slurs or hate speech.
+* Sending abusive, not safe for work, or graphic images.
+* Brigading or raiding.
+* Threatening with intent of violence or to cause bodily harm.
+* Doxxing of any kind.
+* Sending or spamming malicious links.
+* Using the server as a platform for scams, either within the server or privately via DMs.
+* Being under the age of 13.
+* Violating Discord's Terms of Service and/or Discord's Guidelines.
+
+Violations of hard rules may still be appealable depending on severity and time of appeal.
+
+#### Case by Case
+
+With Case by Case moderation, punishment is more subjective and dependent on the nature and frequency of transgressions. While this system gives Moderators a large amount of flexibility, accountability can be difficult due to the lack of standards and certain Moderators may punish Members differently. Because of this, all Moderator actions are free to audit and review and may require further agreement from the Moderation team.
+
+#### Automod
+
+Basic auto moderation will exist in this server to prevent universally severe and hateful/offensive language. If auto moderation prevents natural discussion at any point, report the issue via ticket. Additionally, basic safety and security precautions will exist to filter out harmful links and material shared within this server.
+"""
+
+[[rule]]
+title = "Punishment"
+description = """
+#### 3.5.a - Moderator Privileges
+If a Member is found breaking any of these rules,
+Moderators reserve the right to give any of the following punishments depending on the severity of the offense:
+
+* **Warnings**
+  * Warnings act as a permanent history for Members and their behavior. Warnings should be descriptive and provide context or reason.
+* **Timeouts**
+  * Timeouts act as a temporary safeguard against in the moment disruption of the server and allow Members to “cool off” until they mitigate the current situation with a Moderator.
+* **Kicks**
+  * Kicks are typically not used within this server due to the way rule breaking is handled.
+* **Bans**
+  * Bans may either act as a temporary punishment for an allotted time frame based on the severity of the offense and the offender's history or as a permanent punishment if the Member breaks any of the server Hard Rules or has failed to show the ability to correct their behavior after a number of prior offenses.
+#### Additional Actions
+
+Additionally, Moderators reserve the right to:
+
+* Delete any messages or posts with good reason.
+* Change nicknames that violate our SFW policy or Discord ToS.
+* Request for the change of any features found on a Member’s profile/server profile.
+* Use their own discretion, but must justify these decisions and seek approval from their peers
+
+#### 3.5.b - Administrator Privileges
+Administrators outline and uphold our standards.
+
+* **Dispute regarding conduct**
+  * Administrators are permitted to resolve disputes regarding the Code of Conduct by using context, perspective and interpretation to ensure order.
+* **Internal and External**
+  * Administrators are permitted to investigate internal and external interests and speak for the organization.
+* **Termination**
+  * Administrators are permitted to terminate Members displaying any description of unsuitable behavior, unrelated to compliance with the Code of Conduct.
+"""
+
+[[rule]]
+title = "Punishment Evasion"
+description = """
+Members should not attempt to evade the consequences of their actions such as using an alternate account to bypass restrictions. Punishment evasion will result in an immediate ban.
+"""
+
+[[rule]]
+title = "Fairness"
+description = """
+The rules defined in this document are to be reviewed and agreed upon by the Community as a whole. If a rule is unclear, it is to be revised until it is clear. If a Member believes that this document is missing any rules or exceptions, the Member may request for this addition to be reviewed and agreed upon by the Community.
+
+In the event of a Moderator using personal best judgment when dealing with Members and punishments, all Members have the right to audit said actions and the Moderator should provide justification and or seek unanimous approval from the Moderation team.
+"""
+
+[[rule]]
+title = "Appeals"
+description = """
+* If a Member believes their punishment is unfair, the Member can discuss their warning with the Moderation team via ticket.
+* If a Member has been temporarily or permanently banned from the server and thus cannot create a ticket, the Member may reach out directly to the Moderation team for appeal.
+* Appeals currently are managed via Wick and can be accessed at https://appeals.wickbot.com/.
+"""

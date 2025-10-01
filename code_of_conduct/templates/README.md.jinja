@@ -1,0 +1,79 @@
+<!-- Please check CONTRIBUTING.md on how to merge changes into the Code of Conduct -->
+![Discord Banner 1](https://i.imgur.com/6kxPNlG.png)
+<p align="center">
+  <img src="https://discordapp.com/api/guilds/1172245377395728464/widget.png?style=shield" alt="Discord Shield">
+</p>
+
+
+<h1 align="center">All Things Linux</h1>
+
+Welcome to "All Things Linux," a vibrant and inclusive community dedicated to exploring the vast and varied world of Linux. Our mission is to provide a friendly and supportive environment where enthusiasts, professionals, hobbyists, and newcomers alike can share their passion, knowledge, and experiences with Linux. Whether it's discussing the newest distributions, offering tips and tricks, troubleshooting, or celebrating the open-source spirit, "All Things Linux" is a place for collaboration, learning, and fostering a deeper appreciation for an operating system that powers much of the digital world. Join us as we navigate the limitless possibilities of Linux together!
+
+---
+
+# Code of Conduct
+
+**Table of Contents**
+
+- [Preface](#preface)
+    - [Discord Community Guidelines and Terms of Service](#discord-community-guidelines-and-terms-of-service)
+{% for section in sections %}- [Section {{ loop.index }}. {{ section.title }}](#section-{{ loop.index }}-{{ section.title | lower | replace(' ', '-') }})
+{% set section_loop = loop %}{% for rule in section.rule %}    - [{{ section_loop.index }}.{{ loop.index }}. {{ rule.title }}](#{{section_loop.index}}{{loop.index}}-{{ rule.title | lower | replace(' ', '-') | replace(':', '') }})
+{% endfor %}{% endfor %}
+
+## Preface
+
+### Discord Community Guidelines and Terms of Service
+
+Your presence in this server implies accepting Discord’s Community Guidelines and Terms of Service, including all further changes. These changes might be done at any time with or without notice, it is your responsibility to consistently review and follow them.
+
+- [Discord Community Guidelines](https://discord.com/guidelines)
+- [Discord Terms of Service](https://discord.com/terms)
+
+{% for section in sections %}## Section {{ loop.index }}. {{ section.title }}
+{% set section_loop = loop %}{% for rule in section.rule %}### {{ section_loop.index }}.{{ loop.index }}. {{ rule.title }}
+{{ rule.description }}
+{% if rule.expectations %}
+#### Examples of moderation expectations
+
+| Expectation | Description |
+| --- | --- |
+{% for expectation in rule.expectations %}| {{ expectation.expectation}} | {{ expectation.description | replace('\n', ' ') }} |
+{% endfor %}
+{% endif %}
+{% if rule.glossary %}
+#### Glossary
+
+| Word | Meaning |
+| --- | --- |
+{% for word in rule.glossary %}| {{ word.word }} | {{ word.meaning | replace('\n', ' ') }} |
+{% endfor %}
+{% endif %}
+{% endfor %}
+{% endfor %}
+
+## Notice
+
+Please note that this article cannot capture all rules and that each situation needs to be assessed individually. Attempting to exploit any "loopholes" within these guidelines is strictly forbidden.
+
+These guidelines are ever-evolving, responding to varied circumstances. Hence, we might take necessary action against members or content that contradicts the core intent of these rules, even if it is not directly mentioned in the current version.
+
+Moderator actions may cite rules from this document. Please be aware that section numbers may change over time and may not be the same when the action was issued. Sections referenced do not imply their respective subsections (e.g. citing 1.2 does not imply 1.2.c).
+
+We aim to keep you updated whenever these guidelines get revised. However, the responsibility lies with you to upkeep the essence of these rules: to maintain the safety of Discord and uphold its inclusivity. Stay informed about server announcements and polls which might induce changes to the rules. We appreciate your contribution in this regard.
+
+Above all, exercise good judgment and common sense.
+
+## Contributors
+
+<sub>Made with [contrib.rocks](https://contrib.rocks)</sub>
+
+[![Contributors](https://contrib.rocks/image?repo=allthingslinux/code-of-conduct)](https://github.com/allthingslinux/code-of-conduct/graphs/contributors)
+
+## License
+
+This work is licensed under the Creative Commons Attribution 4.0 International License.
+To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
+
+Creative Commons Attribution 4.0 International
+© 2025 All Things Linux
