@@ -3,7 +3,7 @@ title = "Participation"
 [[rule]]
 title = "Language Requirement: English Only"
 description = """
-The language used in this server is English only. Please use English in text, voice, and support channels.
+TESTCHANGE2
 """
 
 [[rule.expectations]]
