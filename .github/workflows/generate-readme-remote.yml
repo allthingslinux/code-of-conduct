@@ -143,7 +143,7 @@ jobs:
 
       - name: "Close original PR and create new PR"
         if: steps.commit_changes.outputs.has_changes == 'true'
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         with:
           github-token: ${{ env.GH_TOKEN }}
           script: |
@@ -204,7 +204,7 @@ jobs:
 
       - name: "Handle no changes case"
         if: steps.commit_changes.outputs.has_changes == 'false'
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         with:
           github-token: ${{ env.GH_TOKEN }}
           script: |
