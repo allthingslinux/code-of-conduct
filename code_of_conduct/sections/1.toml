@@ -1,181 +1,55 @@
 title = "Essentials"
 
 [[rule]]
-title = "SFW Policy"
+title = "Appropriate Conduct and SFW Policy"
 description = """
-This is a Safe for Work (SFW) environment, which strictly prohibits Not Safe for Work (NSFW) content and discussions. Although Discord allows servers to create designated NSFW channels, it's worth noting that this platform does not offer such channels.
+This is a Safe for Work (SFW) environment, which strictly prohibits Not Safe for Work (NSFW) content and discussions. NSFW usually refers to sexually explicit content, however the definition is expanding to include a broader range of sensitive topics over time. Although Discord allows servers to create designated NSFW channels, it's worth noting that this server doesn’t offer such channels.
 
-1.1.a - Do not share sexually explicit content in messages or media.
+1.1.a - Do not share, portray, or discuss NSFW (or otherwise inappropriate) topics in the server or in your profile. This includes, but not limited to:
+* Messages and media within the server, including emojis and stickers
+* Anything portrayed on your profile (i.e “About Me”, banner, and profile picture)
 
-1.1.b - Do not portray sexually explicit content in Member avatars, custom statuses, “About Me” texts, banners, emotes, stickers, or any other Member profile feature/expression.
-
-1.1.c - Do not share media depicting gore, excessive violence, or animal abuse. Excessive violence, for the purposes of this CoC, is defined as content that includes but is not limited to:
-
+1.1.b - Do not share media depicting, glorifying, or promoting gore, excessive violence, animal abuse, suicide, or self-harm. Excessive violence, for the puposes of this CoC, is defined as content that includes but is not limited to:
 * Real-life imagery, including gore, severe injury or death.
-* Violent fictional content.
+* Violent ficitional content.
 * Any media that is intended to shock, disturb or incite harm.
-
-1.1.d - Do not share content that glorifies, promotes, or normalizes suicide or other acts of self-harm. Self-harm acts or threats used as a form of emotional manipulation or coercion are also prohibited.
-"""
-
-[[rule.expectations]]
-expectation = "Mild"
-description = """
-First offenses will result in Members being brought into tickets
-and warned.
-"""
-
-[[rule.expectations]]
-expectation = "Medium"
-description = "Warns, tickets, and timeouts ranging from 1hr-12 hours."
-
-[[rule.expectations]]
-expectation = "Severe"
-description = "Bans are to be expected at this stage."
-
-[[rule]]
-title = "Concerns of Age and Appropriate Conduct"
-description = """
-1.2.a - Age Requirements and Presumptions
-
-* Members must be at least 13 years old, in line with Discord's Terms of Service. Our server assumes all members meet this age requirement, though we do not verify ages.
-* Members are treated as if they are within the 13-17 age range unless verified otherwise. Do not assume any member is an adult based on their online persona or profile.
-
-1.2.b - Conduct Guidelines
-
-This server is for platonic and professional interactions only. The following behaviors are prohibited:
-
-* Using sexually suggestive language or innuendo.
-* Soliciting romantic or sexual relationships.
-* Sharing sexually explicit or suggestive content.
-* Engaging in grooming or predatory behavior towards minors.
-* Sharing personal information that could identify a minor.
-* Discussing sexual topics that might discomfort minors.
-* Attempting to bypass rules to engage in inappropriate interactions.
-
-1.2.c - Protecting Minors
-
-* The safety of minors is our top priority. Any behavior that risks their safety will be dealt with promptly. Members should report any suspected inappropriate behavior regarding minors.
-* Any form of pedophilia apologism, which includes encouraging, supporting, or sympathizing with anyone who has commited such acts, may result in removal from the community. This extends to user profiles including statuses, profile pictures, bios and other ways a member may express themselves.
-* Moderators will interpret interactions using context and judgment. Regardless of age claims, inappropriate actions towards minors will result in severe consequences.
 """
 
 [[rule]]
 title = "Mutual Respect"
 description = """
 Our server prioritizes respect for each other above all else.
-
-Maintain a respectful and humble attitude in all interactions. Avoid displaying unwarranted arrogance or belittling others.
-
-Refrain from excessive emotional oversharing. Be considerate of the emotional impact your words may have on others.
-
-Harassment of any form is strictly prohibited. Discord is designed to be a welcoming space for everyone, and harassment hinders the growth of healthy communities. Behavior, such as continuous bullying, doxxing, or raiding is not permitted.
-
-Hate speech or any form of discriminatory conduct is not accepted here. Hate speech is defined as any expression that instigates violence or promotes prejudice against others based on their unique characteristics.
-
-These unique characteristics include age, caste, color, disability, ethnicity, familial responsibilities, gender, gender identity, housing status, national origin, race, refugee or immigration status, religious affiliation, serious illness, sex, sexual orientation, socioeconomic class and status, income source, status as a victim of domestic violence, sexual violence, or stalking, and weight and size.
-
-Threats, whether direct, indirect, or implied, towards an individual or a group, are not tolerated.
-
-Promoting or supporting violent extremism is forbidden. Glorifying violent incidents, supporting those who perpetrate violent acts, or promoting conspiracy theories that may incite violence towards others, are all prohibited.
-
-Do not share media depicting harmful or offensive language and/or content, this can include or is not limited to; Offensive jokes or comments with the intention of causing harm or "drama". This may also include language that promotes exclusion or marginalization.
+Maintain a respectful and humble attitude in all interactions. Avoid displaying unwarranted arrogance or belittling others. Any form of discrimination towards other members based on their unique characteristics is strictly prohibited. Unique characteristics are, but not limited to; race, age, gender, sexual orientation, and religion.
+Threats, regardless if it is direct, indirect, or implied, will not be tolerated. Promoting, supporting, or glorifying extremism, violent incidents and acts, or conspiracy theories that incite violence towards others, is also prohibited. 
+Members should also avoid disparaging others on the basis of their choices, be it their choice of operating system, desktop environment, or other interests outside the main topics of the server. While friendly rivalry and banter can be elements of online communities, we don't welcome deliberate and obnoxious elitism. Respect for each other's preferences and diversity is a cardinal rule in our server.
 """
-
-[[rule.expectations]]
-expectation = "Mild"
-description = """
-Pulling Members into tickets and requesting that they
-stop this behavior
-"""
-
-[[rule.expectations]]
-expectation = "Medium"
-description = """
-Reprimand within tickets and timeouts ranging from
-1hr-12hr
-"""
-
-[[rule.expectations]]
-expectation = "Severe"
-description = "Severe or repeated offenses may result in bans"
 
 [[rule]]
-title = "Expression, Discourse, and Debates"
+title = "Controversial, Sensitive and Unfit Topics"
 description = """
 Members are free to express themselves and offer constructive criticism and input. We celebrate and encourage our diverse perspectives, backgrounds, and opinions.
-
-However, this community upholds a model of responsible communication. While we lean into the courage of discussions, we urge members to refrain from initiating sensitive and/or controversial topics that might trigger conflict, perpetuate hatred, or incite violence.
-
+However, this community upholds a model of responsible communication. While we encourage discussions, we urge members to refrain from initiating sensitive and/or controversial topics that might trigger conflict, perpetuate hatred, or incite violence.
 Avoid offering or seeking professional advice, including but not limited to medical, legal, therapeutic, religious, or financial matters.
-
+Do not share media or messages depicting harmful or offensive language and/or content. 
 Controversial topics are defined as subjects that commonly spark debate and conflict. These include, but are not limited to:
-- Politics (such as government policy, political figures, party ideologies)
-- Religious belief systems and practices
-- Ongoing global conflicts and war
-- Historical atrocities and practices (such as Nazism, terrorism, genocide, slavery, etc.)
-
+* Politics (such as government policy, political figures, party ideologies)
+* Religious belief systems and practices
+* Ongoing global conflicts and war
+* Historical atrocities and practices (such as Nazism, terrorism, genocide, slavery, etc.)
+Sensitive topics are defined as subjects that commonly trigger, distress, or in some way disturb others. These include, but are not limited to:
+* Excessive emotional oversharing (commonly known as traumadumping)
+* Common phobia-incuding content without spoiler & warning
+* Display, act, or discussion of drug use
 However, bare in mind that if any conversation is overly repetitive, heated, disruptive, toxic, or indecent, moderators have the discretion to, intervene, redirect, advise, or halt the conversation. These terms are not limited to a specific conversation but the mentioning of said topic. Our aim is not to suppress free speech but to keep an appropriate chatroom while promoting open, respectful, and harmonious conversations among all members.
-"""
-
-[[rule.expectations]]
-expectation = "Mild"
-description = "Asking Members to wrap up or end conversations"
-
-[[rule.expectations]]
-expectation = "Medium"
-description = "Forcing conversations to end"
-
-[[rule.expectations]]
-expectation = "Severe"
-description = """
-Members with repetitive offenses may receive timeouts and be addressed
-in tickets within 5m to 2 hours
-"""
-
-[[rule]]
-title = "Avoidance of Elitism"
-description = """
-Members should avoid disparaging others on the basis of their choices, be it their choice of operating system, desktop environment, or other interests outside the main topics of the server. While friendly rivalry and banter can be elements of online communities, we don't welcome deliberate and obnoxious elitism. Respect for each other's preferences and diversity is a cardinal rule in our server.
-"""
-
-[[rule.expectations]]
-expectation = "Mild"
-description = """
-Occasional or every now and then behavior usually doesn't require active
-moderation
-"""
-
-[[rule.expectations]]
-expectation = "Medium"
-description = """
-If a Member is repetitively being rude or unhealthy in their behavior,
-Moderators may ask them to stop
-"""
-
-[[rule.expectations]]
-expectation = "Severe"
-description = """
-If the behavior becomes a significant problem, Moderators may pull
-Members into tickets and respond accordingly based on their willingness
-to cooperate
 """
 
 [[rule]]
 title = "Respecting Authority & Rules"
 description = """
-Should a Moderator request you to modify your behavior, please be cooperative. In case of disagreements or errors with said moderation, we encourage you to submit a support ticket instead of publicly escalating the situation. Any rule violation should be reported via ticket, leaving the resolution to an authorized Moderator. While we discourage backseat moderating, we hope that members will help us maintain a healthy environment by guiding others if they are unaware of the rules or suggesting that certain behavior is inappropriate.
-"""
-
-[[rule]]
-title = "Piracy & Penetration Testing"
-description = """
-Discussions about piracy, penetration testing, and ethical hacking are allowed strictly for educational and informational purposes. However, sharing, facilitating, or encouraging illegal activities in any form is strictly prohibited. Discussions of aforementioned topics must remain neutral, educational, and should not promote, endorse, display or instruct on illegal activities.
-
-* Do not share, request, or distribute pirated software, games, movies, music, or any other type of copyrighted material.
-* Do not share or request links to torrent websites, warez forums, or any other platforms known for distributing illegal content.
-* Do not discuss or promote methods for bypassing digital rights management (DRM), cracking software, or other forms of copyright circumvention.
-* Do not promote or ask for support on unauthorized access, data breaches, credential stuffing, phishing, malware development, or any other illegal hacking activities.
-* Do not ask for or give support to any type of penetration testing or ethical hacking questions.
-  * Discussion on these topics is allowed, however talking about on how to actually do them is strictly prohibited.
+As we are a large and growing community, we ask for you to be cooperative and avoid disruption when it comes to moderation. In cases where you want to provide constructive criticism on a case, or it feels unjust in some way, please make a ticket. Otherwise, please note that it’s not your business. We have public logs for this reason if you are curious about what’s going on. 
+We ask for you to not comment on ongoing, recently resolved situations, or especially ask questions like “what happened?” when a situation is serious. Other disruptive behavior in this regard are things like:
+* Screenshots and forwarding of mod logs in public chats
+* Bumping rulebreaking messages via reply, especially after a mod is dealing with it
+* Mini modding
+* Jokes to do with someone being moderated (including being witty or spiteful)
 """

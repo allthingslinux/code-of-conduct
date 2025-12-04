@@ -6,167 +6,38 @@ description = """
 The language used in this server is English only. Please use English in text, voice, and support channels.
 """
 
-[[rule.expectations]]
-expectation = "Mild"
-description = """
-Members will be kindly asked in the chat they are spreading non-English messages to keep it to English
-"""
-
-[[rule.expectations]]
-expectation = "Medium"
-description = """
-Repeated offenses may result in Members being pulled into tickets
-"""
-
-[[rule.expectations]]
-expectation = "Severe"
-description = """
-If a Member is unwilling to comply, Moderators may act as they see fit.
-"""
-
 [[rule]]
-title = "Text Channels"
+title = "Server Conduct"
 description = """
-* All rules apply when communicating via text channels.
+All server rules apply in every channel, including both text and voice.
 
-In our commitment to maintaining a high quality server, we must emphasize the importance of thoughtful and substantial discourse within our community. Accordingly, content that is considered low-effort/low-quality, including but not limited to messages that lack substantive value or do not encourage meaningful conversation, is prohibited.
+2.2.a - Chat Quality
+Avoid spam, low-effort or “brainrot” messages (often abbrivated to LQ or low quality), inchorent text, animal sounds, disruptive speech, or otherwise obnoxious behavior. Contribute meaningfully and with substantial value.
 
-This includes "brainrot" which are words or phrases with no substantial value as well as animal sounds or incoherent strings of letters.
-"""
+2.2.b – Voice Channels
+Etiquette in voice chat is different than how text may be approached, but please keep these in mind:
+* Keep noise minimal (mute when afk, minimize yelling and echoing)
+*	Use side chat for notes and discussion instead of a regular channel
+*	Don’t interrupt or dominate discussions
 
-[[rule.expectations]]
-expectation = "Mild"
-description = """
-Members will be kindly asked in the chat to not post
-low-effort/low-quality content or bypass automod
-"""
-
-[[rule.expectations]]
-expectation = "Medium"
-description = """
-Repeated offenses may result in Members being timed out for a period of
-time at the moderators discretion
-"""
-
-[[rule.expectations]]
-expectation = "Severe"
-description = """
-If a Member is unwilling to comply, they will be ticketed and warned
-"""
-
-[[rule]]
-title = "Voice Channels"
-description = """
-All rules apply to conduct in voice channels along with additional rules.
-
-* Ensure a quiet background by muting when AFK or talking to people not in VC.
-* Avoid exessive background noise from keyboards, fans, TVs, music, etc.
-* "Echoing", or reflecting other people's voices back should be minimized.
-  * This usually happens when the microphone picks up audio from open back headphones or speakers.
-  * Consider using closed back headphones or earbuds; increasing the voice activity threshold can also reduce echoing along with echo cancellation in voice settings.
-* Avoid disrupting ongoing conversations and interjecting.
-  * Refrain from obnoxious behavior such as yelling or otherwise disturbing others.
-  * If you wish to mention something off-topic or to get someone's attention without interrupting, consider using the built-in text chat for the voice channel.
-  * When first entering a chat, be mindful of the conversation currently going on. Don't interrupt an already ongoing conversation with something unrelated.
-* Leave room for others to speak, try not to dominate or take over the chat.
-  * If you want to start a different topic but there is already a discussion, create or join another channel.
-Read the room before interjecting.
-* Do not record voice channel conversations without consent.
-  * If a rule violation occurs during a voice call, you may request permission to record by opening a ticket using `/ticket`. Any recordings must be shared exclusively within the same ticket.
-
-#### Moderation
-Moderators have broad discretion over enforcing voice channel guidelines, but will act in the best interest of upholding the spirit of the rules.
-"""
-
-[[rule.expectations]]
-expectation = "Mild"
-description = """
-Moderators may ask members to adhere to guidelines. Moderators may
-temporarily server mute to ensure any issues are resolved.
-"""
-
-[[rule.expectations]]
-expectation = "Medium"
-description = """
-Members may be brought into tickets to talk with Moderators about their
-actions.
-"""
-
-[[rule.expectations]]
-expectation = "Severe"
-description = """
-Members with severe infractions may be handled at the discretion of
-Moderators.
-"""
-
-[[rule]]
-title = "Bot Usage"
-description = """
-* Bot commands should be used in the bot commands channel.
-* If a Member is found spamming, misusing, or abusing any Bot related features in the server, please report this via ticket.
-"""
-
-[[rule.expectations]]
-expectation = "Mild"
-description = """
-Members may be asked by Moderators to adhere to guidelines.
-"""
-
-[[rule.expectations]]
-expectation = "Medium"
-description = """
-Members may be brought into tickets to talk with Moderators about their
-actions.
-"""
-
-[[rule.expectations]]
-expectation = "Severe"
-description = """
-Members with severe infractions may receive mutes ranging from 10
-minutes to 3 hours.
-"""
-
-[[rule]]
-title = "\"On\" and \"Off\" topic"
-description = """
-* Use the correct channels. Please try to keep the correct chatter theme to the dedicated channels. Although we are not very strict about this rule, it would be greatly appreciated. We strive to keep channels somewhat organized.
-* If you're unsure what a channel is for you can check the description for further details. If you're still confused you can ask in general chat, a Moderator or send in a ticket as a last resort.
-* Please do not derail support threads or comment on Moderator actions in community channels. If you have concerns or questions regarding a Moderator’s actions, create a ticket to discuss the matter.
-"""
-
-[[rule]]
-title = "Spam"
-description = """
-* Do not misuse or spam in any channels. The #random channel is the only exception for spam.
-* Do not use excessive CAPS to make a point aggressively or seek attention.
-* Do not ping without legitimate reasoning behind them nor do not mass mention via pings.
-* Do not cross post messages without legitimate reasoning behind them.
-* Using Discord Stickers and Emotes excessively is to be avoided.
-* Do not send medically triggering, strobe-effect, or severely flashing media without warnings and using the spoiler feature.
-* Do not contact Members or Staff unsolicited via private messages. All support is to be handled internally via ticket.
-* If you’re sharing a link, please include a description (unless the nature of the link is obvious).
+2.2.c – Channel Use
+Please stay on topic and in the right channel. Check channel description if you’re unsure. Avoid misusing bots and applications, bots should be either in #dj-booth, side chats, or #bot-commands.
+Avoid derailing ongoing discussions or misusing channels that have a specific purpose, such as the support channels. Moderators may suddenly change topics only in cases where it’s on the verge of being rule-breaking.
 """
 
 [[rule]]
 title = "Malicious Behavior"
 description = """
-* Do not attempt to bypass any blocked words.
+Discussions about cybersecurity, ethical hacking, and related topics are allowed strictly for educational and informational purposes. Any form of illegal activity or harmful behavior is strictly prohibited. All discussions must remain neutral and not promote or instruct on illegal acts.
 * Do not plan or discuss attempts to raid other servers.
-* Do not scam, hack, or make attempts to do such.
-* Do not send any malicious and harmful links or files, or anything that jeopardizes the security of others.
-* Encouraging the breaking of rules, inciting others to be blatantly rude and offensive, or otherwise promoting and/or encouraging conflicts between other members is prohibited.
+* Do not scam, hack, dox members, or make attempts at such.
+* Do not share, request access to, or distribute pirated software, media, or copyrighted content.
+* Do not discuss or promote software cracking, DRM bypassing, or any methods of copyright circumvention.
+* Encouraging the breaking of rules and provoking others are also prohibited
 """
 
 [[rule]]
 title = "Advertising"
 description = """
 Promotion of websites, products, services, and communities is permitted if shared in a natural and non artificial manner. It is up to a Member’s own due diligence to verify the quality of any suggested resources shared.
-"""
-
-[[rule]]
-title = "Doxxing and Personal Identifiable Information (PII)"
-description = """
-No doxxing other Members. Keep information about other Members private. Don’t share messages, addresses, phone numbers, social media information, or anything else that contains PII. This includes people from other Discord servers.
-
-It is of your own risk and discretion when sharing personal information to others.
 """
