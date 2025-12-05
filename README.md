@@ -84,6 +84,7 @@ Sensitive topics are defined as subjects that commonly trigger, distress, or in 
 * Excessive emotional oversharing (commonly known as traumadumping)
 * Common phobia-incuding content without spoiler & warning
 * Display, act, or discussion of drug use
+
 However, bare in mind that if any conversation is overly repetitive, heated, disruptive, toxic, or indecent, moderators have the discretion to, intervene, redirect, advise, or halt the conversation. These terms are not limited to a specific conversation but the mentioning of said topic. Our aim is not to suppress free speech but to keep an appropriate chatroom while promoting open, respectful, and harmonious conversations among all members.
 
 
