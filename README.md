@@ -25,7 +25,7 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
 - [Section 2. Participation](#section-2-participation)
     - [2.1. Language Requirement: English Only](#21-language-requirement-english-only)
     - [2.2. Server Conduct](#22-server-conduct)
-    - [2.3. Malicious Behavior](#23-malicious-behavior)
+    - [2.3. Malicious and Illegal Behavior](#23-malicious-and-illegal-behavior)
     - [2.4. Advertising](#24-advertising)
 - [Section 3. Moderation](#section-3-moderation)
     - [3.1. Reporting](#31-reporting)
@@ -49,11 +49,11 @@ Your presence in this server implies accepting Discord’s Community Guidelines 
 
 ## Section 1. Essentials
 ### 1.1. Appropriate Conduct and SFW Policy
-This is a Safe for Work (SFW) environment, which strictly prohibits Not Safe for Work (NSFW) content and discussions. NSFW usually refers to sexually explicit content, however the definition is expanding to include a broader range of sensitive topics over time. Although Discord allows servers to create designated NSFW channels, it's worth noting that this server doesn’t offer such channels.
+This is a Safe for Work (SFW) environment, which strictly prohibits Not Safe for Work (NSFW) content and discussions. NSFW usually refers to sexually explicit content, however the definition is expanding to include a broader range of sensitive topics over time. Although Discord allows servers to create designated NSFW channels, this server doesn’t offer such channels.
 
 1.1.a - Do not share, portray, or discuss NSFW (or otherwise inappropriate) topics in the server or in your profile. This includes, but not limited to:
 * Messages and media within the server, including emojis and stickers
-* Anything portrayed on your profile (i.e “About Me”, banner, and profile picture)
+* Anything portrayed on your profile (i.e About Me, profile picture, banner, status, and guild tag)
 
 1.1.b - Do not share media depicting, glorifying, or promoting gore, excessive violence, animal abuse, suicide, or self-harm. Excessive violence, for the puposes of this CoC, is defined as content that includes but is not limited to:
 * Real-life imagery, including gore, severe injury or death.
@@ -64,8 +64,11 @@ This is a Safe for Work (SFW) environment, which strictly prohibits Not Safe for
 
 ### 1.2. Mutual Respect
 Our server prioritizes respect for each other above all else.
+
 Maintain a respectful and humble attitude in all interactions. Avoid displaying unwarranted arrogance or belittling others. Any form of discrimination towards other members based on their unique characteristics is strictly prohibited. Unique characteristics are, but not limited to; race, age, gender, sexual orientation, and religion.
-Threats, regardless if it is direct, indirect, or implied, will not be tolerated. Promoting, supporting, or glorifying extremism, violent incidents and acts, or conspiracy theories that incite violence towards others, is also prohibited. 
+
+Threats, regardless if it is direct, indirect, or implied, will not be tolerated. Conspiracy theories are also prohibited. 
+
 Members should also avoid disparaging others on the basis of their choices, be it their choice of operating system, desktop environment, or other interests outside the main topics of the server. While friendly rivalry and banter can be elements of online communities, we don't welcome deliberate and obnoxious elitism. Respect for each other's preferences and diversity is a cardinal rule in our server.
 
 
@@ -73,13 +76,17 @@ Members should also avoid disparaging others on the basis of their choices, be i
 ### 1.3. Controversial, Sensitive and Unfit Topics
 Members are free to express themselves and offer constructive criticism and input. We celebrate and encourage our diverse perspectives, backgrounds, and opinions.
 However, this community upholds a model of responsible communication. While we encourage discussions, we urge members to refrain from initiating sensitive and/or controversial topics that might trigger conflict, perpetuate hatred, or incite violence.
+
 Avoid offering or seeking professional advice, including but not limited to medical, legal, therapeutic, religious, or financial matters.
+
 Do not share media or messages depicting harmful or offensive language and/or content. 
+
 Controversial topics are defined as subjects that commonly spark debate and conflict. These include, but are not limited to:
-* Politics (such as government policy, political figures, party ideologies)
+* Politics
 * Religious belief systems and practices
 * Ongoing global conflicts and war
-* Historical atrocities and practices (such as Nazism, terrorism, genocide, slavery, etc.)
+* Sensitive historical topics 
+
 Sensitive topics are defined as subjects that commonly trigger, distress, or in some way disturb others. These include, but are not limited to:
 * Excessive emotional oversharing (commonly known as traumadumping)
 * Common phobia-incuding content without spoiler & warning
@@ -90,7 +97,8 @@ However, bare in mind that if any conversation is overly repetitive, heated, dis
 
 
 ### 1.4. Respecting Authority & Rules
-As we are a large and growing community, we ask for you to be cooperative and avoid disruption when it comes to moderation. In cases where you want to provide constructive criticism on a case, or it feels unjust in some way, please make a ticket. Otherwise, please note that it’s not your business. We have public logs for this reason if you are curious about what’s going on. 
+As we are a large and growing community, we ask for you to be cooperative and avoid disruption when it comes to moderation. In cases where you want to provide constructive criticism on a case, or it feels unjust in some way, please make a ticket. Otherwise, please respect the privacy of others and confidentiallity of some moderation duties. In the aim of transparency, we also provide public logs if you wish to view them.
+
 We ask for you to not comment on ongoing, recently resolved situations, or especially ask questions like “what happened?” when a situation is serious. Other disruptive behavior in this regard are things like:
 * Screenshots and forwarding of mod logs in public chats
 * Bumping rulebreaking messages via reply, especially after a mod is dealing with it
@@ -110,27 +118,32 @@ The language used in this server is English only. Please use English in text, vo
 All server rules apply in every channel, including both text and voice.
 
 2.2.a - Chat Quality
+
 Avoid spam, low-effort or “brainrot” messages (often abbrivated to LQ or low quality), inchorent text, animal sounds, disruptive speech, or otherwise obnoxious behavior. Contribute meaningfully and with substantial value.
 
 2.2.b – Voice Channels
+
 Etiquette in voice chat is different than how text may be approached, but please keep these in mind:
 * Keep noise minimal (mute when afk, minimize yelling and echoing)
-*	Use side chat for notes and discussion instead of a regular channel
-*	Don’t interrupt or dominate discussions
+* Use side chat for notes and discussion instead of a regular channel
+* Don’t interrupt or dominate discussions
 
 2.2.c – Channel Use
-Please stay on topic and in the right channel. Check channel description if you’re unsure. Avoid misusing bots and applications, bots should be either in #dj-booth, side chats, or #bot-commands.
-Avoid derailing ongoing discussions or misusing channels that have a specific purpose, such as the support channels. Moderators may suddenly change topics only in cases where it’s on the verge of being rule-breaking.
+
+Please stay on topic and in the right channel. Check channel description if you’re unsure. 
+Avoid misusing bots and applications, bots should be in #dj-booth, side chats, or #bot-commands.
+Avoid derailing ongoing discussions and misusing channels that have a specific purpose, such as the support channels. 
+Moderators may suddenly change topics only in cases where it’s on the verge of being rule-breaking.
 
 
 
-### 2.3. Malicious Behavior
+### 2.3. Malicious and Illegal Behavior
 Discussions about cybersecurity, ethical hacking, and related topics are allowed strictly for educational and informational purposes. Any form of illegal activity or harmful behavior is strictly prohibited. All discussions must remain neutral and not promote or instruct on illegal acts.
 * Do not plan or discuss attempts to raid other servers.
 * Do not scam, hack, dox members, or make attempts at such.
 * Do not share, request access to, or distribute pirated software, media, or copyrighted content.
 * Do not discuss or promote software cracking, DRM bypassing, or any methods of copyright circumvention.
-* Encouraging the breaking of rules and provoking others are also prohibited
+* Encouragement of illegal behavior
 
 
 
@@ -144,6 +157,8 @@ Promotion of websites, products, services, and communities is permitted if share
 ### 3.1. Reporting
 Moderators are here to help. If there is a problem that needs Moderator attention, please create a ticket. Any and all problems are discussed as a group among Moderators. Remember nothing can be reported without concrete proof. Reporting because of rumors or hearsay is not acceptable proof. Please provide context, and searchable/linkable information as well as identifying information such as Member IDs.
 
+We use tickets as a way to both provide a private channel to safely report things and to provide team transparency. Tickets are also logged to ensure everything is logged and accounted for in the case that we need to reference things in the future. 
+
 
 
 ### 3.2. Consistency
@@ -154,6 +169,10 @@ All rules apply to all Members, including Moderators. If the Community has reaso
 ### 3.3. Transparency
 Audit Logs are visible to all server Members. Audit Logs contain a history of all changes and actions within the server as well as all Moderator actions such as punishments given to Members.
 
+Please 
+
+We also have donations publicly visible via OpenCollective.
+
 
 
 ### 3.4. Enforcement
@@ -161,29 +180,28 @@ Enforcement of these rules may be done through different means. Listed below are
 
 #### Case by Case
 
-With Case by Case moderation, punishment is more subjective and dependent on the nature and frequency of transgressions. While this system gives Moderators a large amount of flexibility, accountability can be difficult due to the lack of standards and certain Moderators may punish Members differently. Because of this, all Moderator actions are free to audit and review and may require further agreement from the Moderation team.
+With Case by Case moderation, punishment is more subjective and dependent on the nature and frequency of transgressions. While this system gives Moderators a large amount of flexibility, accountability can be difficult due to the lack of standards and certain Moderators may punish Members differently. All actions can be reviewed by another member of staff upon request by a member.
 
 #### Automod
 
-Basic auto moderation will exist in this server to prevent universally severe and hateful/offensive language. If auto moderation prevents natural discussion at any point, report the issue via ticket. Additionally, basic safety and security precautions will exist to filter out harmful links and material shared within this server.
+Basic auto moderation will exist in this server to prevent universally severe and hateful or offensive language. If auto moderation prevents natural discussion at any point, report the issue via ticket. Additionally, basic safety and security precautions will exist to filter out harmful links and material shared within this server.
 
 
 
 ### 3.5. Punishment
 #### 3.5.a - Moderator Privileges
-If a Member is found breaking any of these rules,
-Moderators reserve the right to give any of the following punishments depending on the severity of the offense:
+If a Member is found breaking any of these rules, Moderators reserve the right to give any of the following punishments depending on the severity of the offense:
 
 * **Warnings**
   * Warnings act as a permanent history for Members and their behavior. Warnings should be descriptive and provide context or reason.
 * **Timeouts**
   * Timeouts act as a temporary safeguard against in the moment disruption of the server and allow Members to “cool off” until they mitigate the current situation with a Moderator.
 * **Jail**
-  * Jail is often used to hold a member temporarily, especially if a situation is ongoing. It's used as a way to let members cool off, wait for a ticket to be made, and/or handle things without disrupting chat. Jails are also used if a member doesn't answer their ticket after 48 hours.
+  * Jail is often used to hold a member temporarily, especially if a situation is ongoing. It’s used as a way to let members cool off, wait for a ticket to be made, and/or handle things without disrupting chat. Jails are also used if a member doesn’t answer their ticket after 48 hours.
 * **Snippetban**
-  * Snippetbans are typically never used. It's a punishment that can be temporary or permanent and prevents a member from creating or managing snippets.
+  * SIt’s a punishment that can be temporary or permanent and prevents a member from creating or managing snippets.
 * **Pollban**
-  * Pollbans are typically never used. It's a punishment that can be temporary or permanent and prevents a member from creating polls.
+  * It’s a punishment that can be temporary or permanent and prevents a member from creating polls.
 * **Kicks**
   * Kicks are typically not used within this server due to the way rule breaking is handled.
 * **Bans**
@@ -199,7 +217,8 @@ Administrators outline and uphold our standards.
 
 #### 3.5.c - Problematic Behavior
 If a member is deemed problematic, moderators reserve the right to punish members more strictly. This includes “final warnings” and, in severe cases, bans. 
-Problematic behavior can be defined by a variety of factors. This includes, but not limited to:
+
+Problematic behavior can be defined by a variety of factors. This includes, but is not limited to:
 * Lengthy moderation logs, including verbal warns
 * Extensive ticket history
 * Constantly “pushing the line” of rules
@@ -209,21 +228,27 @@ Problematic behavior can be defined by a variety of factors. This includes, but 
 
 
 ### 3.6. Punishment Evasion
-Members should not attempt to evade the consequences of their actions such as using an alternate account to bypass restrictions. Punishment evasion will result in an immediate ban.
+Members should not attempt to evade the consequences of their actions by bypassing restrictions. Punishment evasion will result in an immediate ban.
+
+Evasion includes, but not limited to:
+* Using an alternative account
+* Leaving and rejoining the server
 
 
 
 ### 3.7. Fairness
-The rules defined in this document are to be reviewed and agreed upon by the Community as a whole. If a rule is unclear, it is to be revised until it is clear. If a Member believes that this document is missing any rules or exceptions, the Member may request for this addition to be reviewed and agreed upon by the Community.
+The rules defined in this document are to be reviewed and agreed upon by the Community as a whole. If a rule is unclear, it is to be revised until it is clear. If a Member believes that this document is missing any rules or exceptions, the Member may request for this modification to be reviewed and agreed upon by the Community.
 
 In the event of a Moderator using personal best judgment when dealing with Members and punishments, all Members have the right to audit said actions and the Moderator should provide justification and or seek unanimous approval from the Moderation team.
 
 
 
 ### 3.8. Appeals
-* If a Member believes their punishment is unfair, the Member can discuss their warning with the Moderation team via ticket.
-* If a Member has been temporarily or permanently banned from the server and thus cannot create a ticket, the Member may reach out directly to the Moderation team for appeal.
-* Appeals currently are managed via Wick and can be accessed at https://appeals.wickbot.com/.
+If a Member believes their punishment is unfair, the Member can discuss their warning with the Moderation team via ticket.
+
+If a Member has been temporarily or permanently banned from the server and thus cannot create a ticket, the Member may reach out directly to the Moderation team for appeal.
+
+Appeals currently are managed via Wick and can be accessed at https://appeals.wickbot.com/. You will need to use our server ID (1172245377395728464) to submit an appeal.
 
 
 
