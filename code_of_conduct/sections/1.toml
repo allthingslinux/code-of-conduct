@@ -3,11 +3,11 @@ title = "Essentials"
 [[rule]]
 title = "Appropriate Conduct and SFW Policy"
 description = """
-This is a Safe for Work (SFW) environment, which strictly prohibits Not Safe for Work (NSFW) content and discussions. NSFW usually refers to sexually explicit content, however the definition is expanding to include a broader range of sensitive topics over time. Although Discord allows servers to create designated NSFW channels, it's worth noting that this server doesn’t offer such channels.
+This is a Safe for Work (SFW) environment, which strictly prohibits Not Safe for Work (NSFW) content and discussions. NSFW usually refers to sexually explicit content, however the definition is expanding to include a broader range of sensitive topics over time. Although Discord allows servers to create designated NSFW channels, this server doesn’t offer such channels.
 
 1.1.a - Do not share, portray, or discuss NSFW (or otherwise inappropriate) topics in the server or in your profile. This includes, but not limited to:
 * Messages and media within the server, including emojis and stickers
-* Anything portrayed on your profile (i.e “About Me”, banner, and profile picture)
+* Anything portrayed on your profile (i.e About Me, profile picture, banner, status, and guild tag)
 
 1.1.b - Do not share media depicting, glorifying, or promoting gore, excessive violence, animal abuse, suicide, or self-harm. Excessive violence, for the puposes of this CoC, is defined as content that includes but is not limited to:
 * Real-life imagery, including gore, severe injury or death.
@@ -19,8 +19,11 @@ This is a Safe for Work (SFW) environment, which strictly prohibits Not Safe for
 title = "Mutual Respect"
 description = """
 Our server prioritizes respect for each other above all else.
+
 Maintain a respectful and humble attitude in all interactions. Avoid displaying unwarranted arrogance or belittling others. Any form of discrimination towards other members based on their unique characteristics is strictly prohibited. Unique characteristics are, but not limited to; race, age, gender, sexual orientation, and religion.
-Threats, regardless if it is direct, indirect, or implied, will not be tolerated. Promoting, supporting, or glorifying extremism, violent incidents and acts, or conspiracy theories that incite violence towards others, is also prohibited. 
+
+Threats, regardless if it is direct, indirect, or implied, will not be tolerated. Conspiracy theories are also prohibited. 
+
 Members should also avoid disparaging others on the basis of their choices, be it their choice of operating system, desktop environment, or other interests outside the main topics of the server. While friendly rivalry and banter can be elements of online communities, we don't welcome deliberate and obnoxious elitism. Respect for each other's preferences and diversity is a cardinal rule in our server.
 """
 
@@ -29,13 +32,17 @@ title = "Controversial, Sensitive and Unfit Topics"
 description = """
 Members are free to express themselves and offer constructive criticism and input. We celebrate and encourage our diverse perspectives, backgrounds, and opinions.
 However, this community upholds a model of responsible communication. While we encourage discussions, we urge members to refrain from initiating sensitive and/or controversial topics that might trigger conflict, perpetuate hatred, or incite violence.
+
 Avoid offering or seeking professional advice, including but not limited to medical, legal, therapeutic, religious, or financial matters.
+
 Do not share media or messages depicting harmful or offensive language and/or content. 
+
 Controversial topics are defined as subjects that commonly spark debate and conflict. These include, but are not limited to:
-* Politics (such as government policy, political figures, party ideologies)
+* Politics
 * Religious belief systems and practices
 * Ongoing global conflicts and war
-* Historical atrocities and practices (such as Nazism, terrorism, genocide, slavery, etc.)
+* Sensitive historical topics 
+
 Sensitive topics are defined as subjects that commonly trigger, distress, or in some way disturb others. These include, but are not limited to:
 * Excessive emotional oversharing (commonly known as traumadumping)
 * Common phobia-incuding content without spoiler & warning
@@ -47,7 +54,8 @@ However, bare in mind that if any conversation is overly repetitive, heated, dis
 [[rule]]
 title = "Respecting Authority & Rules"
 description = """
-As we are a large and growing community, we ask for you to be cooperative and avoid disruption when it comes to moderation. In cases where you want to provide constructive criticism on a case, or it feels unjust in some way, please make a ticket. Otherwise, please note that it’s not your business. We have public logs for this reason if you are curious about what’s going on. 
+As we are a large and growing community, we ask for you to be cooperative and avoid disruption when it comes to moderation. In cases where you want to provide constructive criticism on a case, or it feels unjust in some way, please make a ticket. Otherwise, please respect the privacy of others and confidentiallity of some moderation duties. In the aim of transparency, we also provide public logs if you wish to view them.
+
 We ask for you to not comment on ongoing, recently resolved situations, or especially ask questions like “what happened?” when a situation is serious. Other disruptive behavior in this regard are things like:
 * Screenshots and forwarding of mod logs in public chats
 * Bumping rulebreaking messages via reply, especially after a mod is dealing with it
