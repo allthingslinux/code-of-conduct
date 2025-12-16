@@ -5,13 +5,13 @@ title = "Appropriate Conduct and SFW Policy"
 description = """
 This is a Safe for Work (SFW) environment, which strictly prohibits Not Safe for Work (NSFW) content and discussions. NSFW usually refers to sexually explicit content, however the definition is expanding to include a broader range of sensitive topics over time. Although Discord allows servers to create designated NSFW channels, this server doesn’t offer such channels.
 
-1.1.a - Do not share, portray, or discuss NSFW (or otherwise inappropriate) topics in the server or in your profile. This includes, but not limited to:
+1.1.a - Do not share, portray, or discuss NSFW (or otherwise inappropriate) topics in the server or in your profile. This includes, but isn't limited to:
 * Messages and media within the server, including emojis and stickers
 * Anything portrayed on your profile (i.e About Me, profile picture, banner, status, and guild tag)
 
-1.1.b - Do not share media depicting, glorifying, or promoting gore, excessive violence, animal abuse, suicide, or self-harm. Excessive violence, for the puposes of this CoC, is defined as content that includes but is not limited to:
+1.1.b - Do not share media depicting, glorifying, or promoting gore, excessive violence, animal abuse, suicide, or self-harm. Excessive violence, for the purposes of this Code of Conduct, is defined as content that includes but isn't limited to:
 * Real-life imagery, including gore, severe injury or death.
-* Violent ficitional content.
+* Violent fictional content.
 * Any media that is intended to shock, disturb or incite harm.
 """
 
@@ -20,7 +20,7 @@ title = "Mutual Respect"
 description = """
 Our server prioritizes respect for each other above all else.
 
-Maintain a respectful and humble attitude in all interactions. Avoid displaying unwarranted arrogance or belittling others. Any form of discrimination towards other members based on their unique characteristics is strictly prohibited. Unique characteristics are, but not limited to; race, age, gender, sexual orientation, and religion.
+Maintain a respectful and humble attitude in all interactions. Avoid displaying unwarranted arrogance or belittling others. Any form of discrimination towards other members based on their unique characteristics is strictly prohibited. Unique characteristics are, but aren't limited to: race, age, gender, sexual orientation, and religion.
 
 Threats, regardless if it is direct, indirect, or implied, will not be tolerated. Conspiracy theories are also prohibited. 
 
@@ -33,32 +33,33 @@ description = """
 Members are free to express themselves and offer constructive criticism and input. We celebrate and encourage our diverse perspectives, backgrounds, and opinions.
 However, this community upholds a model of responsible communication. While we encourage discussions, we urge members to refrain from initiating sensitive and/or controversial topics that might trigger conflict, perpetuate hatred, or incite violence.
 
-Avoid offering or seeking professional advice, including but not limited to medical, legal, therapeutic, religious, or financial matters.
+Avoid offering or seeking professional advice, including but isn't limited to medical, legal, therapeutic, religious, or financial matters.
 
 Do not share media or messages depicting harmful or offensive language and/or content. 
 
-Controversial topics are defined as subjects that commonly spark debate and conflict. These include, but are not limited to:
+Controversial topics are defined as subjects that commonly spark debate and conflict. These include, but isn't limited to:
 * Politics
 * Religious belief systems and practices
 * Ongoing global conflicts and war
 * Sensitive historical topics 
 
-Sensitive topics are defined as subjects that commonly trigger, distress, or in some way disturb others. These include, but are not limited to:
+Sensitive topics are defined as subjects that commonly trigger, distress, or in some way disturb others. These include, but isn't limited to:
 * Excessive emotional oversharing (commonly known as traumadumping)
-* Common phobia-incuding content without spoiler & warning
+* Common phobia-inducing content without spoiler & warning
 * Display, act, or discussion of drug use
 
-However, bare in mind that if any conversation is overly repetitive, heated, disruptive, toxic, or indecent, moderators have the discretion to, intervene, redirect, advise, or halt the conversation. These terms are not limited to a specific conversation but the mentioning of said topic. Our aim is not to suppress free speech but to keep an appropriate chatroom while promoting open, respectful, and harmonious conversations among all members.
+However, bear in mind that if any conversation is overly repetitive, heated, disruptive, toxic, or indecent, moderators have the discretion to intervene, redirect, advise, or halt the conversation. These terms are not limited to a specific conversation but the mentioning of said topic. Our aim is not to suppress free speech but to keep an appropriate chatroom while promoting open, respectful, and harmonious conversations among all members.
 """
 
 [[rule]]
 title = "Respecting Authority & Rules"
 description = """
-As we are a large and growing community, we ask for you to be cooperative and avoid disruption when it comes to moderation. In cases where you want to provide constructive criticism on a case, or it feels unjust in some way, please make a ticket. Otherwise, please respect the privacy of others and confidentiallity of some moderation duties. In the aim of transparency, we also provide public logs if you wish to view them.
+As we are a large and growing community, we ask for you to be cooperative and avoid disruption when it comes to moderation. Please respect the privacy of others and confidentiality of some moderation duties. In the aim of transparency, we also provide public logs if you wish to view them.
 
 We ask for you to not comment on ongoing, recently resolved situations, or especially ask questions like “what happened?” when a situation is serious. Other disruptive behavior in this regard are things like:
-* Screenshots and forwarding of mod logs in public chats
-* Bumping rulebreaking messages via reply, especially after a mod is dealing with it
+* Screenshots and forwarding of audit logs in public chats
+* Bumping rulebreaking messages via reply, especially after a moderator is dealing with it
 * Mini modding
 * Jokes to do with someone being moderated (including being witty or spiteful)
+* Pinging the moderation team (including %wheel) for no reason
 """
