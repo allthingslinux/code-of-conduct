@@ -4,7 +4,7 @@ requires-python = ">=3.13"
 
 [[package]]
 name = "code-of-conduct"
-version = "2025.9.22"
+version = "2026.1.1"
 source = { editable = "." }
 dependencies = [
     { name = "jinja2" },

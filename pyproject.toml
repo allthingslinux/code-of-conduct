@@ -1,6 +1,6 @@
 [project]
 name = "code_of_conduct"
-version = "2025.09.22"
+version = "2026.01.01"
 description = "Generates the Code of Conduct for ATL"
 authors = [
     { name = "Artur Manuel", email = "amad@atl.tools" },

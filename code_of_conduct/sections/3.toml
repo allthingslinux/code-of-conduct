@@ -3,19 +3,23 @@ title = "Moderation"
 [[rule]]
 title = "Reporting"
 description = """
-Moderators are here to help. If there is a problem that needs Moderator attention, please create a ticket. Any and all problems are discussed as a group among Moderators. Remember nothing can be reported without concrete proof. Reporting because of rumors or hearsay is not acceptable proof. Please provide context, and searchable/linkable information as well as identifying information such as Member IDs.
+Moderators are here to help. If there is a non-urgent problem that needs moderator attention, please create a ticket. Otherwise, ping the `%wheel` role. Any and all problems are discussed as a group among moderators. Remember, nothing can be reported without concrete proof. Reporting because of rumors or hearsay is not acceptable proof. Please provide context, and searchable/linkable information as well as identifying information such as member IDs.
+
+We use tickets as a way to both provide a private channel to safely report things and to provide team transparency. Tickets are also logged to ensure everything is logged and accounted for in the case that we need to reference things in the future. 
 """
 
 [[rule]]
-title = "Consistency"
+title = "Accountability"
 description = """
-All rules apply to all Members, including Moderators. If the Community has reason to believe the Owner is unfit for ownership due to breaching any rules defined in this document or misusing the server outside of what is listed, the Community may request for ownership to be removed and changed.
+All rules apply to all members, including staff. If the community has reason to believe the owner is unfit for ownership due to breaching any rules defined in this document or misusing the server outside of what is listed, the community may request for ownership to be removed and changed.
 """
 
 [[rule]]
 title = "Transparency"
 description = """
-Audit Logs are visible to all server Members. Audit Logs contain a history of all changes and actions within the server as well as all Moderator actions such as punishments given to Members.
+Audit logs are visible to all server members. Audit logs contain a history of all changes and actions within the server as well as all moderator actions such as punishments given to members.
+
+We also have donations publicly visible via OpenCollective.
 """
 
 [[rule]]
@@ -23,54 +27,35 @@ title = "Enforcement"
 description = """
 Enforcement of these rules may be done through different means. Listed below are the typical forms.
 
-#### Hard Rules
-
-Hard rules are non-negotiable and result in a ban with little exception. They are as follows:
-
-* Using slurs or hate speech.
-* Sending abusive, not safe for work, or graphic images.
-* Brigading or raiding.
-* Threatening with intent of violence or to cause bodily harm.
-* Doxxing of any kind.
-* Sending or spamming malicious links.
-* Using the server as a platform for scams, either within the server or privately via DMs.
-* Being under the age of 13.
-* Violating Discord's Terms of Service and/or Discord's Guidelines.
-
-Violations of hard rules may still be appealable depending on severity and time of appeal.
-
 #### Case by Case
 
-With Case by Case moderation, punishment is more subjective and dependent on the nature and frequency of transgressions. While this system gives Moderators a large amount of flexibility, accountability can be difficult due to the lack of standards and certain Moderators may punish Members differently. Because of this, all Moderator actions are free to audit and review and may require further agreement from the Moderation team.
+With Case by Case moderation, punishment is more subjective and dependent on the nature and frequency of transgressions. While this system gives moderators a large amount of flexibility, accountability can be difficult due to the lack of standards and certain moderators may punish members differently. All actions can be reviewed by another member of staff upon request by a member.
 
 #### Automod
 
-Basic auto moderation will exist in this server to prevent universally severe and hateful/offensive language. If auto moderation prevents natural discussion at any point, report the issue via ticket. Additionally, basic safety and security precautions will exist to filter out harmful links and material shared within this server.
+Basic auto moderation will exist in this server to prevent universally severe and hateful or offensive language. If auto moderation prevents natural discussion at any point, report the issue via ticket. Additionally, basic safety and security precautions will exist to filter out harmful links and material shared within this server.
 """
 
 [[rule]]
 title = "Punishment"
 description = """
 #### 3.5.a - Moderator Privileges
-If a Member is found breaking any of these rules,
-Moderators reserve the right to give any of the following punishments depending on the severity of the offense:
+If a member is found breaking any of these rules, moderators reserve the right to give any of the following punishments depending on the severity of the offense:
 
 * **Warnings**
-  * Warnings act as a permanent history for Members and their behavior. Warnings should be descriptive and provide context or reason.
+  * Warnings act as a permanent history for members and their behavior. Warnings should be descriptive and provide context or reason.
 * **Timeouts**
-  * Timeouts act as a temporary safeguard against in the moment disruption of the server and allow Members to “cool off” until they mitigate the current situation with a Moderator.
+  * Timeouts act as a temporary safeguard against in-the-moment disruption of the server and allow members to "cool off" until they mitigate the current situation with a moderator.
+* **Jail**
+  * Jail is often used to hold a member temporarily, especially if a situation is ongoing. It’s used as a way to let members cool off, wait for a ticket to be made, and/or handle things without disrupting chat. Jails are also used if a member doesn’t answer their ticket after 48 hours.
+* **Snippetban**
+  * Snippetbans are a punishment that can be temporary or permanent and prevents a member from creating or managing snippets.
+* **Pollban**
+  * Pollbans are a punishment that can be temporary or permanent and prevents a member from creating polls.
 * **Kicks**
   * Kicks are typically not used within this server due to the way rule breaking is handled.
 * **Bans**
-  * Bans may either act as a temporary punishment for an allotted time frame based on the severity of the offense and the offender's history or as a permanent punishment if the Member breaks any of the server Hard Rules or has failed to show the ability to correct their behavior after a number of prior offenses.
-#### Additional Actions
-
-Additionally, Moderators reserve the right to:
-
-* Delete any messages or posts with good reason.
-* Change nicknames that violate our SFW policy or Discord ToS.
-* Request for the change of any features found on a Member’s profile/server profile.
-* Use their own discretion, but must justify these decisions and seek approval from their peers
+  * Bans may either act as a temporary punishment for an allotted time frame based on the severity of the offense and the offender's history or as a permanent punishment.
 
 #### 3.5.b - Administrator Privileges
 Administrators outline and uphold our standards.
@@ -79,28 +64,42 @@ Administrators outline and uphold our standards.
   * Administrators are permitted to resolve disputes regarding the Code of Conduct by using context, perspective and interpretation to ensure order.
 * **Internal and External**
   * Administrators are permitted to investigate internal and external interests and speak for the organization.
-* **Termination**
-  * Administrators are permitted to terminate Members displaying any description of unsuitable behavior, unrelated to compliance with the Code of Conduct.
+
+#### 3.5.c - Problematic Behavior
+If a member is deemed problematic, moderators reserve the right to punish members more strictly. This includes “final warnings” and, in severe cases, bans. 
+
+Problematic behavior can be defined by a variety of factors. This includes, but not limited to:
+* Lengthy moderation logs, including verbal warns
+* Extensive ticket history
+* Constantly “pushing the line” of rules
+* Lack of improvement from previous punishments
+* Members recognized to be problematic in other spaces (crossbans)
 """
 
 [[rule]]
 title = "Punishment Evasion"
 description = """
-Members should not attempt to evade the consequences of their actions such as using an alternate account to bypass restrictions. Punishment evasion will result in an immediate ban.
+Members should not attempt to evade the consequences of their actions by bypassing restrictions. Punishment evasion will result in an immediate ban.
+
+Evasion includes, but not limited to:
+* Using an alternative account
+* Leaving and rejoining the server
 """
 
 [[rule]]
 title = "Fairness"
 description = """
-The rules defined in this document are to be reviewed and agreed upon by the Community as a whole. If a rule is unclear, it is to be revised until it is clear. If a Member believes that this document is missing any rules or exceptions, the Member may request for this addition to be reviewed and agreed upon by the Community.
+The rules defined in this document are to be reviewed and agreed upon by the community as a whole. If a rule is unclear, it is to be revised until it is clear. If a member believes that this document is missing any rules or exceptions, the member may request for this modification to be reviewed and agreed upon by the community.
 
-In the event of a Moderator using personal best judgment when dealing with Members and punishments, all Members have the right to audit said actions and the Moderator should provide justification and or seek unanimous approval from the Moderation team.
+In the event of a moderator using personal best judgment when dealing with members and punishments, all members have the right to audit said actions and the moderator should provide justification and or seek unanimous approval from the moderation team.
 """
 
 [[rule]]
 title = "Appeals"
 description = """
-* If a Member believes their punishment is unfair, the Member can discuss their warning with the Moderation team via ticket.
-* If a Member has been temporarily or permanently banned from the server and thus cannot create a ticket, the Member may reach out directly to the Moderation team for appeal.
-* Appeals currently are managed via Wick and can be accessed at https://appeals.wickbot.com/.
+If a member believes their punishment is unfair or a mistake, the member can discuss their punishment with the moderation team via ticket.
+
+If a member has been temporarily or permanently banned from the server and thus cannot create a ticket, the member may reach out directly to the moderation team for appeal.
+
+Appeals currently are managed via Wick and can be accessed at https://appeals.wickbot.com/. You will need to use our server ID `(1172245377395728464)` to submit an appeal.
 """
