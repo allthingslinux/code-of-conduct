@@ -1,4 +1,4 @@
-title = "Moderation"
+title = "Special Cases"
 
 [[rule]]
 title = "Reporting"
@@ -45,7 +45,7 @@ If a member is found breaking any of these rules, moderators reserve the right t
 * **Warnings**
   * Warnings act as a permanent history for members and their behavior. Warnings should be descriptive and provide context or reason.
 * **Timeouts**
-  * Timeouts act as a temporary safeguard against in the moment disruption of the server and allow members to “cool off” until they mitigate the current situation with a moderator.
+  * Timeouts act as a temporary safeguard against in-the-moment disruption of the server and allow members to "cool off" until they mitigate the current situation with a moderator.
 * **Jail**
   * Jail is often used to hold a member temporarily, especially if a situation is ongoing. It’s used as a way to let members cool off, wait for a ticket to be made, and/or handle things without disrupting chat. Jails are also used if a member doesn’t answer their ticket after 48 hours.
 * **Snippetban**
@@ -68,7 +68,7 @@ Administrators outline and uphold our standards.
 #### 3.5.c - Problematic Behavior
 If a member is deemed problematic, moderators reserve the right to punish members more strictly. This includes “final warnings” and, in severe cases, bans. 
 
-Problematic behavior can be defined by a variety of factors. This includes, but isn't limited to:
+Problematic behavior can be defined by a variety of factors. This includes, but not limited to:
 * Lengthy moderation logs, including verbal warns
 * Extensive ticket history
 * Constantly “pushing the line” of rules
@@ -81,7 +81,7 @@ title = "Punishment Evasion"
 description = """
 Members should not attempt to evade the consequences of their actions by bypassing restrictions. Punishment evasion will result in an immediate ban.
 
-Evasion includes, but isn't limited to:
+Evasion includes, but not limited to:
 * Using an alternative account
 * Leaving and rejoining the server
 """
