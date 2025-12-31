@@ -1,9 +1,9 @@
-title = "Special Cases"
+title = "Moderation"
 
 [[rule]]
 title = "Reporting"
 description = """
-Moderators are here to help. If there is a non-urgent problem that needs moderator attention, please create a ticket. Otherwise, ping the %wheel role. Any and all problems are discussed as a group among moderators. Remember, nothing can be reported without concrete proof. Reporting because of rumors or hearsay is not acceptable proof. Please provide context, and searchable/linkable information as well as identifying information such as member IDs.
+Moderators are here to help. If there is a non-urgent problem that needs moderator attention, please create a ticket. Otherwise, ping the `%wheel` role. Any and all problems are discussed as a group among moderators. Remember, nothing can be reported without concrete proof. Reporting because of rumors or hearsay is not acceptable proof. Please provide context, and searchable/linkable information as well as identifying information such as member IDs.
 
 We use tickets as a way to both provide a private channel to safely report things and to provide team transparency. Tickets are also logged to ensure everything is logged and accounted for in the case that we need to reference things in the future. 
 """
@@ -101,5 +101,5 @@ If a member believes their punishment is unfair or a mistake, the member can dis
 
 If a member has been temporarily or permanently banned from the server and thus cannot create a ticket, the member may reach out directly to the moderation team for appeal.
 
-Appeals currently are managed via Wick and can be accessed at https://appeals.wickbot.com/. You will need to use our server ID (1172245377395728464) to submit an appeal.
+Appeals currently are managed via Wick and can be accessed at https://appeals.wickbot.com/. You will need to use our server ID `(1172245377395728464)` to submit an appeal.
 """
