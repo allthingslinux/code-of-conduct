@@ -27,7 +27,7 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
     - [2.2. Server Conduct](#22-server-conduct)
     - [2.3. Malicious and Illegal Behavior](#23-malicious-and-illegal-behavior)
     - [2.4. Advertising](#24-advertising)
-- [Section 3. Moderation](#section-3-moderation)
+- [Section 3. Special Cases](#section-3-special-cases)
     - [3.1. Reporting](#31-reporting)
     - [3.2. Accountability](#32-accountability)
     - [3.3. Transparency](#33-transparency)
@@ -43,6 +43,7 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
 ### Discord Community Guidelines and Terms of Service
 
 Your presence in this server implies accepting Discord’s Community Guidelines and Terms of Service, including all further changes. These changes might be done at any time with or without notice, it is your responsibility to consistently review and follow them.
+If something major is missing, it's likely within Discord's ToS and/or Discord Community Guidelines, and will be mentioned as such in cases where it applies.
 
 - [Discord Community Guidelines](https://discord.com/guidelines)
 - [Discord Terms of Service](https://discord.com/terms)
@@ -67,7 +68,7 @@ Our server prioritizes respect for each other above all else.
 
 Maintain a respectful and humble attitude in all interactions. Avoid displaying unwarranted arrogance or belittling others. Any form of discrimination towards other members based on their unique characteristics is strictly prohibited. Unique characteristics are, but aren't limited to: race, age, gender, sexual orientation, and religion.
 
-Threats, regardless if it is direct, indirect, or implied, will not be tolerated. Conspiracy theories are also prohibited. 
+Threats, regardless of whether they are direct, indirect, or implied, will not be tolerated. Conspiracy theories are also prohibited. 
 
 Members should also avoid disparaging others on the basis of their choices, be it their choice of operating system, desktop environment, or other interests outside the main topics of the server. While friendly rivalry and banter can be elements of online communities, we don't welcome deliberate and obnoxious elitism. Respect for each other's preferences and diversity is a cardinal rule in our server.
 
@@ -81,13 +82,13 @@ Avoid offering or seeking professional advice, including but isn't limited to me
 
 Do not share media or messages depicting harmful or offensive language and/or content. 
 
-Controversial topics are defined as subjects that commonly spark debate and conflict. These include, but isn't limited to:
+Controversial topics are defined as subjects that commonly spark debate and conflict. These include, but not limited to:
 * Politics
 * Religious belief systems and practices
 * Ongoing global conflicts and war
 * Sensitive historical topics 
 
-Sensitive topics are defined as subjects that commonly trigger, distress, or in some way disturb others. These include, but isn't limited to:
+Sensitive topics are defined as subjects that commonly trigger, distress, or in some way disturb others. These include, but not limited to:
 * Excessive emotional oversharing (commonly known as traumadumping)
 * Common phobia-inducing content without spoiler & warning
 * Display, act, or discussion of drug use
@@ -124,10 +125,11 @@ Avoid spam, low-effort or “brainrot” messages (often abbreviated to LQ or lo
 
 2.2.b – Voice Channels
 
-Etiquette in voice chat is different than how text may be approached, but please keep these in mind:
+Etiquette in voice chat is different from how text may be approached, but please keep these in mind:
 * Keep noise minimal (mute when afk, minimize yelling and echoing)
 * Use side chat for notes and discussion instead of a regular channel
 * Don’t interrupt or dominate discussions
+* Avoid skipping, disconnecting, or otherwise tampering with a music bot in use
 
 2.2.c – Channel Use
 
@@ -160,7 +162,7 @@ Any sort of financial gain such as freelancing and bounties are strictly forbidd
 
 
 
-## Section 3. Moderation
+## Section 3. Special Cases
 ### 3.1. Reporting
 Moderators are here to help. If there is a non-urgent problem that needs moderator attention, please create a ticket. Otherwise, ping the %wheel role. Any and all problems are discussed as a group among moderators. Remember, nothing can be reported without concrete proof. Reporting because of rumors or hearsay is not acceptable proof. Please provide context, and searchable/linkable information as well as identifying information such as member IDs.
 
@@ -200,7 +202,7 @@ If a member is found breaking any of these rules, moderators reserve the right t
 * **Warnings**
   * Warnings act as a permanent history for members and their behavior. Warnings should be descriptive and provide context or reason.
 * **Timeouts**
-  * Timeouts act as a temporary safeguard against in the moment disruption of the server and allow members to “cool off” until they mitigate the current situation with a moderator.
+  * Timeouts act as a temporary safeguard against in-the-moment disruption of the server and allow members to "cool off" until they mitigate the current situation with a moderator.
 * **Jail**
   * Jail is often used to hold a member temporarily, especially if a situation is ongoing. It’s used as a way to let members cool off, wait for a ticket to be made, and/or handle things without disrupting chat. Jails are also used if a member doesn’t answer their ticket after 48 hours.
 * **Snippetban**
@@ -223,7 +225,7 @@ Administrators outline and uphold our standards.
 #### 3.5.c - Problematic Behavior
 If a member is deemed problematic, moderators reserve the right to punish members more strictly. This includes “final warnings” and, in severe cases, bans. 
 
-Problematic behavior can be defined by a variety of factors. This includes, but isn't limited to:
+Problematic behavior can be defined by a variety of factors. This includes, but not limited to:
 * Lengthy moderation logs, including verbal warns
 * Extensive ticket history
 * Constantly “pushing the line” of rules
@@ -235,7 +237,7 @@ Problematic behavior can be defined by a variety of factors. This includes, but 
 ### 3.6. Punishment Evasion
 Members should not attempt to evade the consequences of their actions by bypassing restrictions. Punishment evasion will result in an immediate ban.
 
-Evasion includes, but isn't limited to:
+Evasion includes, but not limited to:
 * Using an alternative account
 * Leaving and rejoining the server
 
