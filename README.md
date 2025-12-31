@@ -27,7 +27,7 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
     - [2.2. Server Conduct](#22-server-conduct)
     - [2.3. Malicious and Illegal Behavior](#23-malicious-and-illegal-behavior)
     - [2.4. Advertising](#24-advertising)
-- [Section 3. Special Cases](#section-3-special-cases)
+- [Section 3. Moderation](#section-3-moderation)
     - [3.1. Reporting](#31-reporting)
     - [3.2. Accountability](#32-accountability)
     - [3.3. Transparency](#33-transparency)
@@ -100,7 +100,7 @@ However, bear in mind that if any conversation is overly repetitive, heated, dis
 ### 1.4. Respecting Authority & Rules
 As we are a large and growing community, we ask for you to be cooperative and avoid disruption when it comes to moderation. Please respect the privacy of others and confidentiality of some moderation duties. In the aim of transparency, we also provide public logs if you wish to view them.
 
-We ask for you to not comment on ongoing, recently resolved situations, or especially ask questions like “what happened?” when a situation is serious. Other disruptive behavior in this regard are things like:
+We ask for you to not comment on ongoing, recently resolved situations, or especially ask questions like “what happened?” when a situation is serious. Other disruptive behavior in this regard include:
 * Screenshots and forwarding of audit logs in public chats
 * Bumping rulebreaking messages via reply, especially after a moderator is dealing with it
 * Mini modding
@@ -142,10 +142,10 @@ Moderators may suddenly change topics only in cases where it’s on the verge of
 
 ### 2.3. Malicious and Illegal Behavior
 Discussions about cybersecurity, ethical hacking, and related topics are allowed strictly for educational and informational purposes. Any form of illegal activity or harmful behavior is strictly prohibited.
-* Do not plan or discuss attempts to raid other servers.
-* Do not scam, hack, dox members, or make attempts at such.
-* Do not share, request access to, or distribute pirated software, media, or copyrighted content.
-* Do not discuss or promote software cracking, DRM bypassing, or any methods of copyright circumvention.
+* Do not plan or discuss attempts to raid other servers
+* Do not scam, hack, dox members, or make attempts at such
+* Do not share, request access to, or distribute pirated software, media, or copyrighted content
+* Do not discuss or promote software cracking, DRM bypassing, or any methods of copyright circumvention
 * Do not encourage illegal actions or behavior
 * Do not send anything that can harm other people's devices
 
@@ -162,9 +162,9 @@ Any sort of financial gain such as freelancing and bounties are strictly forbidd
 
 
 
-## Section 3. Special Cases
+## Section 3. Moderation
 ### 3.1. Reporting
-Moderators are here to help. If there is a non-urgent problem that needs moderator attention, please create a ticket. Otherwise, ping the %wheel role. Any and all problems are discussed as a group among moderators. Remember, nothing can be reported without concrete proof. Reporting because of rumors or hearsay is not acceptable proof. Please provide context, and searchable/linkable information as well as identifying information such as member IDs.
+Moderators are here to help. If there is a non-urgent problem that needs moderator attention, please create a ticket. Otherwise, ping the `%wheel` role. Any and all problems are discussed as a group among moderators. Remember, nothing can be reported without concrete proof. Reporting because of rumors or hearsay is not acceptable proof. Please provide context, and searchable/linkable information as well as identifying information such as member IDs.
 
 We use tickets as a way to both provide a private channel to safely report things and to provide team transparency. Tickets are also logged to ensure everything is logged and accounted for in the case that we need to reference things in the future. 
 
@@ -255,7 +255,7 @@ If a member believes their punishment is unfair or a mistake, the member can dis
 
 If a member has been temporarily or permanently banned from the server and thus cannot create a ticket, the member may reach out directly to the moderation team for appeal.
 
-Appeals currently are managed via Wick and can be accessed at https://appeals.wickbot.com/. You will need to use our server ID (1172245377395728464) to submit an appeal.
+Appeals currently are managed via Wick and can be accessed at https://appeals.wickbot.com/. You will need to use our server ID `(1172245377395728464)` to submit an appeal.
 
 
 
@@ -265,8 +265,11 @@ Appeals currently are managed via Wick and can be accessed at https://appeals.wi
 ## Notice
 
 Please note that this article cannot capture all rules and that each situation needs to be assessed individually. Attempting to exploit any "loopholes" within these guidelines is strictly forbidden. 
-Moderator actions may cite rules from this document. Please be aware that section numbers may change over time and may not be the same when the action was issued. Sections referenced do not imply their respective subsections (e.g. citing 1.1 does not imply 1.1.b).
+
+Moderator actions may cite rules from this document. Please be aware that section numbers may change over time and may not be the same when the action was issued. Sections referenced do not imply their respective subsections `(e.g. citing 1.1 does not imply 1.1.b)`.
+
 We aim to keep you updated whenever these guidelines get revised. However, the responsibility lies with you to upkeep the essence of these rules: to maintain the safety of Discord and uphold its inclusivity. Stay informed about server announcements and polls which might induce changes to the rules. We appreciate your contribution in this regard.
+
 Above all, exercise good judgment and common sense.
 
 ## Contributors
