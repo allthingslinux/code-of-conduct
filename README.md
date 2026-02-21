@@ -68,7 +68,7 @@ Our server prioritizes respect for each other above all else.
 
 Maintain a respectful and humble attitude in all interactions. Avoid displaying unwarranted arrogance or belittling others. Any form of discrimination towards other members based on their unique characteristics is strictly prohibited. Unique characteristics are, but aren't limited to: race, age, gender, sexual orientation, and religion.
 
-Threats, regardless of whether they are direct, indirect, or implied, will not be tolerated. Conspiracy theories are also prohibited. 
+Threats, regardless of whether they are direct, indirect, or implied, will not be tolerated. 
 
 Members should also avoid disparaging others on the basis of their choices, be it their choice of operating system, desktop environment, or other interests outside the main topics of the server. While friendly rivalry and banter can be elements of online communities, we don't welcome deliberate and obnoxious elitism. Respect for each other's preferences and diversity is a cardinal rule in our server.
 
@@ -81,6 +81,8 @@ However, this community upholds a model of responsible communication. While we e
 Avoid offering or seeking professional advice, including but isn't limited to medical, legal, therapeutic, religious, or financial matters.
 
 Do not share media or messages depicting harmful or offensive language and/or content. 
+
+Conspiracy theories are also prohibited. 
 
 Controversial topics are defined as subjects that commonly spark debate and conflict. These include, but not limited to:
 * Politics
@@ -121,7 +123,11 @@ All server rules apply in every channel, including both text and voice.
 
 2.2.a - Chat Quality
 
-Avoid spam, low-effort or “brainrot” messages (often abbreviated to LQ or low quality), incoherent text, animal sounds, disruptive speech, or otherwise obnoxious behavior. Contribute meaningfully and with substantial value.
+Avoid spam, low-effort or “brainrot” messages (often abbreviated to LQ or low quality), incoherent text, animal sounds, disruptive speech, or otherwise obnoxious behavior. Contribute meaningfully and with substantial value. These are some common examples.
+* Any sort of classic copy and paste brainrot, such as "erm what the sigma", or anyother late stage brainrot.
+* Low thought single word message spam, like "guh" or "Chat!".
+* Caps lock messages.
+* Deliberate misspelling, such as "I forgor" and "He cookd".
 
 2.2.b – Voice Channels
 
