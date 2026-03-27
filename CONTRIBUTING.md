@@ -3,7 +3,7 @@
 ## How the Code of Conduct is created
 
 Rules are made from sections, these sections are in a
-`section{index}.toml` that you can find in `code_of_conduct/sections/`.
+`{index}.toml` that you can find in `code_of_conduct/sections/`.
 Additionally, rules can have expectations, as well as a glossary.
 
 ## How to add new rules
