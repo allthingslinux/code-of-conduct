@@ -39,6 +39,7 @@ meaning = "talking about"
 - Make sure the quotes and the text are separate from each other for
   readability.
 - If using bullet points, do not title them.
+- If you need to add subrules, avoid using new headings
 
 ## How to add a new section
 

@@ -3,7 +3,8 @@ title = "Participation"
 [[rule]]
 title = "Language Requirement: English Only"
 description = """
-The language used in this server is English only. Please use English in text, voice, and support channels.
+The language used in this server is English only. Please use English in
+text, voice, and support channels.
 """
 
 [[rule]]
@@ -13,32 +14,44 @@ All server rules apply in every channel, including both text and voice.
 
 2.2.a - Chat Quality
 
-Avoid spam, low-effort or “brainrot” messages (often abbreviated to LQ or low quality), incoherent text, animal sounds, disruptive speech, or otherwise obnoxious behavior. Contribute meaningfully and with substantial value.
+Avoid spam, low-effort or “brainrot” messages (often abbreviated to LQ
+or low quality), incoherent text, animal sounds, disruptive speech, or
+otherwise obnoxious behavior. Contribute meaningfully and with
+substantial value.
 
 2.2.b – Voice Channels
 
-Etiquette in voice chat is different from how text may be approached, but please keep these in mind:
+Etiquette in voice chat is different from how text may be approached,
+but please keep these in mind:
 * Keep noise minimal (mute when afk, minimize yelling and echoing)
 * Use side chat for notes and discussion instead of a regular channel
 * Don’t interrupt or dominate discussions
-* Avoid skipping, disconnecting, or otherwise tampering with a music bot in use
+* Avoid skipping, disconnecting, or otherwise tampering with a music
+  bot in use
 
 2.2.c – Channel Use
 
-Please stay on topic and in the right channel. Check channel description if you’re unsure. 
-Avoid misusing bots and applications. Bots should be in #dj-booth, #bot-commands, or side chats.
-Avoid derailing ongoing discussions and misusing channels that have a specific purpose, such as the support channels. 
-Moderators may suddenly change topics only in cases where it’s on the verge of being rule-breaking.
+Please stay on topic and in the right channel. Check channel
+description if you’re unsure. Avoid misusing bots and applications.
+Bots should be in #dj-booth, #bot-commands, or side chats. Avoid
+derailing ongoing discussions and misusing channels that have a
+specific purpose, such as the support channels. Moderators may suddenly
+change topics only in cases where it’s on the verge of being
+rule-breaking.
 """
 
 [[rule]]
 title = "Malicious and Illegal Behavior"
 description = """
-Discussions about cybersecurity, ethical hacking, and related topics are allowed strictly for educational and informational purposes. Any form of illegal activity or harmful behavior is strictly prohibited.
+Discussions about cybersecurity, ethical hacking, and related topics
+are allowed strictly for educational and informational purposes. Any
+form of illegal activity or harmful behavior is strictly prohibited.
 * Do not plan or discuss attempts to raid other servers
 * Do not scam, hack, dox members, or make attempts at such
-* Do not share, request access to, or distribute pirated software, media, or copyrighted content
-* Do not discuss or promote software cracking, DRM bypassing, or any methods of copyright circumvention
+* Do not share, request access to, or distribute pirated software,
+  media, or copyrighted content
+* Do not discuss or promote software cracking, DRM bypassing, or any
+  methods of copyright circumvention
 * Do not encourage illegal actions or behavior
 * Do not send anything that can harm other people's devices
 """
@@ -46,10 +59,13 @@ Discussions about cybersecurity, ethical hacking, and related topics are allowed
 [[rule]]
 title = "Advertising"
 description = """
-Promotion of websites, products, services, and projects are only permitted if shared in a natural manner. 
-Communities should only be promoted if relevant to the conversation, or related to an existing project (such as Arch, Debian, and Fedora). 
+Promotion of websites, products, services, and projects are only
+permitted if shared in a natural manner. 
+Communities should only be promoted if relevant to the conversation, or
+related to an existing project (such as Arch, Debian, and Fedora). 
 
 In cases where promotion is artificial, please see our Projects forum. 
 
-Any sort of financial gain such as freelancing and bounties are strictly forbidden.
+Any sort of financial gain such as freelancing and bounties are
+strictly forbidden.
 """
