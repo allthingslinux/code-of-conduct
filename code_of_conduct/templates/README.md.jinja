@@ -17,9 +17,13 @@ Welcome to "All Things Linux," a vibrant and inclusive community dedicated to ex
 
 - [Preface](#preface)
     - [Discord Community Guidelines and Terms of Service](#discord-community-guidelines-and-terms-of-service)
-{% for section in sections %}- [Section {{ loop.index }}. {{ section.title }}](#section-{{ loop.index }}-{{ section.title | lower | replace(' ', '-') }})
-{% set section_loop = loop %}{% for rule in section.rule %}    - [{{ section_loop.index }}.{{ loop.index }}. {{ rule.title }}](#{{section_loop.index}}{{loop.index}}-{{ rule.title | lower | replace(' ', '-') | replace(':', '') }})
-{% endfor %}{% endfor %}
+{%- for section in sections %}
+    - [Section {{ loop.index }}. {{ section.title }}](#section-{{ loop.index }}-{{ section.title | lower | replace(' ', '-') }})
+{%- set section_loop = loop %}
+{%- for rule in section.rule %}
+      - [{{ section_loop.index }}.{{ loop.index }}. {{ rule.title }}](#{{section_loop.index}}{{loop.index}}-{{ rule.title | lower | replace(' ', '-') | replace(':', '') }})
+{%- endfor %}
+{%- endfor %}
 
 ## Preface
 
@@ -31,27 +35,33 @@ If something major is missing, it's likely within Discord's ToS and/or Discord C
 - [Discord Community Guidelines](https://discord.com/guidelines)
 - [Discord Terms of Service](https://discord.com/terms)
 
-{% for section in sections %}## Section {{ loop.index }}. {{ section.title }}
-{% set section_loop = loop %}{% for rule in section.rule %}### {{ section_loop.index }}.{{ loop.index }}. {{ rule.title }}
+{% for section in sections %}
+## Section {{ loop.index }}. {{ section.title }}
+{%- set section_loop = loop %}
+{% for rule in section.rule %}
+### {{ section_loop.index }}.{{ loop.index }}. {{ rule.title }}
+
 {{ rule.description }}
-{% if rule.expectations %}
+{%- if rule.expectations %}
 #### Examples of moderation expectations
 
 | Expectation | Description |
 | --- | --- |
-{% for expectation in rule.expectations %}| {{ expectation.expectation}} | {{ expectation.description | replace('\n', ' ') }} |
-{% endfor %}
+{%- for expectation in rule.expectations %}
+| {{ expectation.expectation}} | {{ expectation.description | replace('\n', ' ') }} |
+{%- endfor %}
 {% endif %}
-{% if rule.glossary %}
+{%- if rule.glossary %}
 #### Glossary
 
 | Word | Meaning |
 | --- | --- |
-{% for word in rule.glossary %}| {{ word.word }} | {{ word.meaning | replace('\n', ' ') }} |
-{% endfor %}
+{%- for word in rule.glossary %}
+| {{ word.word }} | {{ word.meaning | replace('\n', ' ') }} |
+{%- endfor %}
 {% endif %}
 {% endfor %}
-{% endfor %}
+{%- endfor %}
 
 ## Notice
 
